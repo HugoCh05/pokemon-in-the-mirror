@@ -1,0 +1,2908 @@
+===============================================================================
+Wed Jul 31 16:37:19 Hora de verano romance 2024
+-------------------------------------------------------------------------------
+Script 'Scene_Main' line 13: Errno::ENOENT occured.
+
+No such file or directory - Data/Animations.rxdata
+
+Backtrace:
+'Scene_Main' line 13 in `load_data'
+'Scene_Main' line 13 in `main_variable'
+'SDK_Scene_Base' line 39 in `main'
+'Main' line 12
+
+===============================================================================
+Wed Jul 31 16:38:37 Hora de verano romance 2024
+-------------------------------------------------------------------------------
+Script 'Scene_Main' line 13: Errno::ENOENT occured.
+
+No such file or directory - Data/Animations.rxdata
+
+Backtrace:
+'Scene_Main' line 13 in `load_data'
+'Scene_Main' line 13 in `main_variable'
+'SDK_Scene_Base' line 39 in `main'
+'Main' line 12
+
+===============================================================================
+Wed Jul 31 16:40:23 Hora de verano romance 2024
+-------------------------------------------------------------------------------
+Script 'Scene_Main' line 13: Errno::ENOENT occured.
+
+No such file or directory - Data/Animations.rxdata
+
+Backtrace:
+'Scene_Main' line 13 in `load_data'
+'Scene_Main' line 13 in `main_variable'
+'SDK_Scene_Base' line 39 in `main'
+'Main' line 12
+
+===============================================================================
+Wed Jul 31 16:40:37 Hora de verano romance 2024
+-------------------------------------------------------------------------------
+Script 'Scene_Main' line 13: Errno::ENOENT occured.
+
+No such file or directory - Data/Animations.rxdata
+
+Backtrace:
+'Scene_Main' line 13 in `load_data'
+'Scene_Main' line 13 in `main_variable'
+'SDK_Scene_Base' line 39 in `main'
+'Main' line 12
+
+===============================================================================
+Wed Jul 31 16:41:03 Hora de verano romance 2024
+-------------------------------------------------------------------------------
+Script 'Scene_Main' line 13: Errno::ENOENT occured.
+
+No such file or directory - Data/Animations.rxdata
+
+Backtrace:
+'Scene_Main' line 13 in `load_data'
+'Scene_Main' line 13 in `main_variable'
+'SDK_Scene_Base' line 39 in `main'
+'Main' line 12
+
+===============================================================================
+Wed Jul 31 16:43:11 Hora de verano romance 2024
+-------------------------------------------------------------------------------
+Collecting map data
+'Collecting map data' on frame 0
+'Collecting map data' on frame 1
+'Collecting map data' on frame 2
+'Collecting map data' on frame 3
+'Collecting map data' on frame 4
+'Collecting map data' on frame 5
+'Collecting map data' on frame 6
+'Collecting map data' on frame 7
+'Collecting map data' on frame 8
+'Collecting map data' on frame 9
+'Collecting map data' on frame 10
+'Collecting map data' on frame 11
+'Collecting map data' on frame 12
+'Collecting map data' on frame 13
+'Collecting map data' on frame 14
+'Collecting map data' on frame 15
+'Collecting map data' on frame 16
+'Collecting map data' on frame 17
+'Collecting map data' on frame 18
+'Collecting map data' on frame 19
+'Collecting map data' on frame 20
+'Collecting map data' on frame 21
+'Collecting map data' on frame 22
+'Collecting map data' on frame 23
+'Collecting map data' on frame 24
+'Collecting map data' on frame 25
+'Collecting map data' on frame 26
+'Collecting map data' on frame 27
+'Collecting map data' on frame 28
+'Collecting map data' on frame 29
+'Collecting map data' on frame 30
+'Collecting map data' on frame 31
+'Collecting map data' on frame 32
+'Collecting map data' on frame 33
+'Collecting map data' on frame 34
+'Collecting map data' on frame 35
+'Collecting map data' on frame 36
+'Collecting map data' on frame 37
+'Collecting map data' on frame 38
+'Collecting map data' on frame 39
+'Collecting map data' on frame 40
+'Collecting map data' on frame 41
+'Collecting map data' on frame 42
+'Collecting map data' on frame 43
+'Collecting map data' on frame 44
+'Collecting map data' on frame 45
+'Collecting map data' on frame 46
+'Collecting map data' on frame 47
+'Collecting map data' on frame 48
+'Collecting map data' on frame 49
+'Collecting map data' on frame 50
+'Collecting map data' on frame 51
+'Collecting map data' on frame 52
+'Collecting map data' on frame 53
+'Collecting map data' on frame 54
+'Collecting map data' on frame 55
+'Collecting map data' on frame 56
+'Collecting map data' on frame 57
+'Collecting map data' on frame 58
+'Collecting map data' on frame 59
+'Collecting map data' on frame 60
+'Collecting map data' on frame 61
+'Collecting map data' on frame 62
+'Collecting map data' on frame 63
+'Collecting map data' on frame 64
+'Collecting map data' on frame 65
+'Collecting map data' on frame 66
+'Collecting map data' on frame 67
+'Collecting map data' on frame 68
+'Collecting map data' on frame 69
+'Collecting map data' on frame 70
+'Collecting map data' on frame 71
+'Collecting map data' on frame 72
+'Collecting map data' on frame 73
+'Collecting map data' on frame 74
+'Collecting map data' on frame 75
+'Collecting map data' on frame 76
+'Collecting map data' on frame 77
+'Collecting map data' on frame 78
+'Collecting map data' on frame 79
+'Collecting map data' on frame 80
+'Collecting map data' on frame 81
+'Collecting map data' on frame 82
+'Collecting map data' on frame 83
+'Collecting map data' on frame 84
+'Collecting map data' on frame 85
+'Collecting map data' on frame 86
+'Collecting map data' on frame 87
+'Collecting map data' on frame 88
+'Collecting map data' on frame 89
+'Collecting map data' on frame 90
+'Collecting map data' on frame 91
+'Collecting map data' on frame 92
+'Collecting map data' on frame 93
+'Collecting map data' on frame 94
+'Collecting map data' on frame 95
+'Collecting map data' on frame 96
+'Collecting map data' on frame 97
+'Collecting map data' on frame 98
+'Collecting map data' on frame 99
+'Collecting map data' on frame 100
+Drawing preview
+'Drawing preview' on frame 0
+'Drawing preview' on frame 1000
+'Drawing preview' on frame 2000
+'Drawing preview' on frame 3000
+'Drawing preview' on frame 4000
+'Drawing preview' on frame 5000
+'Drawing preview' on frame 6000
+'Drawing preview' on frame 7000
+'Drawing preview' on frame 8000
+'Drawing preview' on frame 9000
+'Drawing preview' on frame 10000
+Saving "Tochiman inn"
+'Saving "Tochiman inn"' on frame 0
+'Saving "Tochiman inn"' on frame 1
+'Saving "Tochiman inn"' on frame 2
+'Saving "Tochiman inn"' on frame 3
+'Saving "Tochiman inn"' on frame 4
+'Saving "Tochiman inn"' on frame 5
+'Saving "Tochiman inn"' on frame 6
+'Saving "Tochiman inn"' on frame 7
+'Saving "Tochiman inn"' on frame 8
+'Saving "Tochiman inn"' on frame 9
+'Saving "Tochiman inn"' on frame 10
+'Saving "Tochiman inn"' on frame 11
+'Saving "Tochiman inn"' on frame 12
+'Saving "Tochiman inn"' on frame 13
+'Saving "Tochiman inn"' on frame 14
+'Saving "Tochiman inn"' on frame 15
+'Saving "Tochiman inn"' on frame 16
+'Saving "Tochiman inn"' on frame 17
+'Saving "Tochiman inn"' on frame 18
+'Saving "Tochiman inn"' on frame 19
+'Saving "Tochiman inn"' on frame 20
+'Saving "Tochiman inn"' on frame 21
+'Saving "Tochiman inn"' on frame 22
+'Saving "Tochiman inn"' on frame 23
+'Saving "Tochiman inn"' on frame 24
+'Saving "Tochiman inn"' on frame 25
+'Saving "Tochiman inn"' on frame 26
+'Saving "Tochiman inn"' on frame 27
+'Saving "Tochiman inn"' on frame 28
+'Saving "Tochiman inn"' on frame 29
+'Saving "Tochiman inn"' on frame 30
+'Saving "Tochiman inn"' on frame 31
+'Saving "Tochiman inn"' on frame 32
+'Saving "Tochiman inn"' on frame 33
+'Saving "Tochiman inn"' on frame 34
+'Saving "Tochiman inn"' on frame 35
+'Saving "Tochiman inn"' on frame 36
+'Saving "Tochiman inn"' on frame 37
+'Saving "Tochiman inn"' on frame 38
+'Saving "Tochiman inn"' on frame 39
+'Saving "Tochiman inn"' on frame 40
+'Saving "Tochiman inn"' on frame 41
+'Saving "Tochiman inn"' on frame 42
+'Saving "Tochiman inn"' on frame 43
+'Saving "Tochiman inn"' on frame 44
+'Saving "Tochiman inn"' on frame 45
+'Saving "Tochiman inn"' on frame 46
+'Saving "Tochiman inn"' on frame 47
+'Saving "Tochiman inn"' on frame 48
+'Saving "Tochiman inn"' on frame 49
+'Saving "Tochiman inn"' on frame 50
+'Saving "Tochiman inn"' on frame 51
+'Saving "Tochiman inn"' on frame 52
+'Saving "Tochiman inn"' on frame 53
+'Saving "Tochiman inn"' on frame 54
+'Saving "Tochiman inn"' on frame 55
+'Saving "Tochiman inn"' on frame 56
+'Saving "Tochiman inn"' on frame 57
+'Saving "Tochiman inn"' on frame 58
+'Saving "Tochiman inn"' on frame 59
+'Saving "Tochiman inn"' on frame 60
+'Saving "Tochiman inn"' on frame 61
+'Saving "Tochiman inn"' on frame 62
+'Saving "Tochiman inn"' on frame 63
+'Saving "Tochiman inn"' on frame 64
+'Saving "Tochiman inn"' on frame 65
+'Saving "Tochiman inn"' on frame 66
+'Saving "Tochiman inn"' on frame 67
+'Saving "Tochiman inn"' on frame 68
+'Saving "Tochiman inn"' on frame 69
+'Saving "Tochiman inn"' on frame 70
+'Saving "Tochiman inn"' on frame 71
+'Saving "Tochiman inn"' on frame 72
+'Saving "Tochiman inn"' on frame 73
+'Saving "Tochiman inn"' on frame 74
+'Saving "Tochiman inn"' on frame 75
+'Saving "Tochiman inn"' on frame 76
+'Saving "Tochiman inn"' on frame 77
+'Saving "Tochiman inn"' on frame 78
+'Saving "Tochiman inn"' on frame 79
+'Saving "Tochiman inn"' on frame 80
+'Saving "Tochiman inn"' on frame 81
+'Saving "Tochiman inn"' on frame 82
+'Saving "Tochiman inn"' on frame 83
+'Saving "Tochiman inn"' on frame 84
+'Saving "Tochiman inn"' on frame 85
+'Saving "Tochiman inn"' on frame 86
+'Saving "Tochiman inn"' on frame 87
+'Saving "Tochiman inn"' on frame 88
+'Saving "Tochiman inn"' on frame 89
+'Saving "Tochiman inn"' on frame 90
+'Saving "Tochiman inn"' on frame 91
+'Saving "Tochiman inn"' on frame 92
+'Saving "Tochiman inn"' on frame 93
+'Saving "Tochiman inn"' on frame 94
+'Saving "Tochiman inn"' on frame 95
+'Saving "Tochiman inn"' on frame 96
+'Saving "Tochiman inn"' on frame 97
+'Saving "Tochiman inn"' on frame 98
+'Saving "Tochiman inn"' on frame 99
+Saving "Tochiman inn"
+'Saving "Tochiman inn"' on frame 0
+'Saving "Tochiman inn"' on frame 1
+'Saving "Tochiman inn"' on frame 2
+'Saving "Tochiman inn"' on frame 3
+'Saving "Tochiman inn"' on frame 4
+'Saving "Tochiman inn"' on frame 5
+'Saving "Tochiman inn"' on frame 6
+'Saving "Tochiman inn"' on frame 7
+'Saving "Tochiman inn"' on frame 8
+'Saving "Tochiman inn"' on frame 9
+'Saving "Tochiman inn"' on frame 10
+'Saving "Tochiman inn"' on frame 11
+'Saving "Tochiman inn"' on frame 12
+'Saving "Tochiman inn"' on frame 13
+'Saving "Tochiman inn"' on frame 14
+'Saving "Tochiman inn"' on frame 15
+'Saving "Tochiman inn"' on frame 16
+'Saving "Tochiman inn"' on frame 17
+'Saving "Tochiman inn"' on frame 18
+'Saving "Tochiman inn"' on frame 19
+'Saving "Tochiman inn"' on frame 20
+'Saving "Tochiman inn"' on frame 21
+'Saving "Tochiman inn"' on frame 22
+'Saving "Tochiman inn"' on frame 23
+'Saving "Tochiman inn"' on frame 24
+'Saving "Tochiman inn"' on frame 25
+'Saving "Tochiman inn"' on frame 26
+'Saving "Tochiman inn"' on frame 27
+'Saving "Tochiman inn"' on frame 28
+'Saving "Tochiman inn"' on frame 29
+'Saving "Tochiman inn"' on frame 30
+'Saving "Tochiman inn"' on frame 31
+'Saving "Tochiman inn"' on frame 32
+'Saving "Tochiman inn"' on frame 33
+'Saving "Tochiman inn"' on frame 34
+'Saving "Tochiman inn"' on frame 35
+'Saving "Tochiman inn"' on frame 36
+'Saving "Tochiman inn"' on frame 37
+'Saving "Tochiman inn"' on frame 38
+'Saving "Tochiman inn"' on frame 39
+'Saving "Tochiman inn"' on frame 40
+'Saving "Tochiman inn"' on frame 41
+'Saving "Tochiman inn"' on frame 42
+'Saving "Tochiman inn"' on frame 43
+'Saving "Tochiman inn"' on frame 44
+'Saving "Tochiman inn"' on frame 45
+'Saving "Tochiman inn"' on frame 46
+'Saving "Tochiman inn"' on frame 47
+'Saving "Tochiman inn"' on frame 48
+'Saving "Tochiman inn"' on frame 49
+'Saving "Tochiman inn"' on frame 50
+'Saving "Tochiman inn"' on frame 51
+'Saving "Tochiman inn"' on frame 52
+'Saving "Tochiman inn"' on frame 53
+'Saving "Tochiman inn"' on frame 54
+'Saving "Tochiman inn"' on frame 55
+'Saving "Tochiman inn"' on frame 56
+'Saving "Tochiman inn"' on frame 57
+'Saving "Tochiman inn"' on frame 58
+'Saving "Tochiman inn"' on frame 59
+'Saving "Tochiman inn"' on frame 60
+'Saving "Tochiman inn"' on frame 61
+'Saving "Tochiman inn"' on frame 62
+'Saving "Tochiman inn"' on frame 63
+'Saving "Tochiman inn"' on frame 64
+'Saving "Tochiman inn"' on frame 65
+'Saving "Tochiman inn"' on frame 66
+'Saving "Tochiman inn"' on frame 67
+'Saving "Tochiman inn"' on frame 68
+'Saving "Tochiman inn"' on frame 69
+'Saving "Tochiman inn"' on frame 70
+'Saving "Tochiman inn"' on frame 71
+'Saving "Tochiman inn"' on frame 72
+'Saving "Tochiman inn"' on frame 73
+'Saving "Tochiman inn"' on frame 74
+'Saving "Tochiman inn"' on frame 75
+'Saving "Tochiman inn"' on frame 76
+'Saving "Tochiman inn"' on frame 77
+'Saving "Tochiman inn"' on frame 78
+'Saving "Tochiman inn"' on frame 79
+'Saving "Tochiman inn"' on frame 80
+'Saving "Tochiman inn"' on frame 81
+'Saving "Tochiman inn"' on frame 82
+'Saving "Tochiman inn"' on frame 83
+'Saving "Tochiman inn"' on frame 84
+'Saving "Tochiman inn"' on frame 85
+'Saving "Tochiman inn"' on frame 86
+'Saving "Tochiman inn"' on frame 87
+'Saving "Tochiman inn"' on frame 88
+'Saving "Tochiman inn"' on frame 89
+'Saving "Tochiman inn"' on frame 90
+'Saving "Tochiman inn"' on frame 91
+'Saving "Tochiman inn"' on frame 92
+'Saving "Tochiman inn"' on frame 93
+'Saving "Tochiman inn"' on frame 94
+'Saving "Tochiman inn"' on frame 95
+'Saving "Tochiman inn"' on frame 96
+'Saving "Tochiman inn"' on frame 97
+'Saving "Tochiman inn"' on frame 98
+'Saving "Tochiman inn"' on frame 99
+Script 'SDK' line 0: SystemExit occured.
+
+(eval):129:in `exit'exit
+
+Backtrace:
+'SDK' line 0(eval) 129:in `update'
+'SDK' line 0(eval) 129:in `update'
+'SDK_Scene_Base' line 110 in `update_modules'
+'SDK_Scene_Base' line 91 in `main_loop'
+'SDK_Scene_Base' line 47 in `main'
+'SDK_Scene_Base' line 46 in `loop'
+'SDK_Scene_Base' line 49 in `main'
+'Main' line 12
+
+===============================================================================
+Wed Jul 31 16:53:54 Hora de verano romance 2024
+-------------------------------------------------------------------------------
+Collecting map data
+'Collecting map data' on frame 0
+'Collecting map data' on frame 1
+'Collecting map data' on frame 2
+'Collecting map data' on frame 3
+'Collecting map data' on frame 4
+'Collecting map data' on frame 5
+'Collecting map data' on frame 6
+'Collecting map data' on frame 7
+'Collecting map data' on frame 8
+'Collecting map data' on frame 9
+'Collecting map data' on frame 10
+'Collecting map data' on frame 11
+'Collecting map data' on frame 12
+'Collecting map data' on frame 13
+'Collecting map data' on frame 14
+'Collecting map data' on frame 15
+'Collecting map data' on frame 16
+'Collecting map data' on frame 17
+'Collecting map data' on frame 18
+'Collecting map data' on frame 19
+'Collecting map data' on frame 20
+'Collecting map data' on frame 21
+'Collecting map data' on frame 22
+'Collecting map data' on frame 23
+'Collecting map data' on frame 24
+'Collecting map data' on frame 25
+'Collecting map data' on frame 26
+'Collecting map data' on frame 27
+'Collecting map data' on frame 28
+'Collecting map data' on frame 29
+'Collecting map data' on frame 30
+'Collecting map data' on frame 31
+'Collecting map data' on frame 32
+'Collecting map data' on frame 33
+'Collecting map data' on frame 34
+'Collecting map data' on frame 35
+'Collecting map data' on frame 36
+'Collecting map data' on frame 37
+'Collecting map data' on frame 38
+'Collecting map data' on frame 39
+'Collecting map data' on frame 40
+'Collecting map data' on frame 41
+'Collecting map data' on frame 42
+'Collecting map data' on frame 43
+'Collecting map data' on frame 44
+'Collecting map data' on frame 45
+'Collecting map data' on frame 46
+'Collecting map data' on frame 47
+'Collecting map data' on frame 48
+'Collecting map data' on frame 49
+'Collecting map data' on frame 50
+'Collecting map data' on frame 51
+'Collecting map data' on frame 52
+'Collecting map data' on frame 53
+'Collecting map data' on frame 54
+'Collecting map data' on frame 55
+'Collecting map data' on frame 56
+'Collecting map data' on frame 57
+'Collecting map data' on frame 58
+'Collecting map data' on frame 59
+'Collecting map data' on frame 60
+'Collecting map data' on frame 61
+'Collecting map data' on frame 62
+'Collecting map data' on frame 63
+'Collecting map data' on frame 64
+'Collecting map data' on frame 65
+'Collecting map data' on frame 66
+'Collecting map data' on frame 67
+'Collecting map data' on frame 68
+'Collecting map data' on frame 69
+'Collecting map data' on frame 70
+'Collecting map data' on frame 71
+'Collecting map data' on frame 72
+'Collecting map data' on frame 73
+'Collecting map data' on frame 74
+'Collecting map data' on frame 75
+'Collecting map data' on frame 76
+'Collecting map data' on frame 77
+'Collecting map data' on frame 78
+'Collecting map data' on frame 79
+'Collecting map data' on frame 80
+'Collecting map data' on frame 81
+'Collecting map data' on frame 82
+'Collecting map data' on frame 83
+'Collecting map data' on frame 84
+'Collecting map data' on frame 85
+'Collecting map data' on frame 86
+'Collecting map data' on frame 87
+'Collecting map data' on frame 88
+'Collecting map data' on frame 89
+'Collecting map data' on frame 90
+'Collecting map data' on frame 91
+'Collecting map data' on frame 92
+'Collecting map data' on frame 93
+'Collecting map data' on frame 94
+'Collecting map data' on frame 95
+'Collecting map data' on frame 96
+'Collecting map data' on frame 97
+'Collecting map data' on frame 98
+'Collecting map data' on frame 99
+'Collecting map data' on frame 100
+Drawing preview
+'Drawing preview' on frame 0
+'Drawing preview' on frame 1000
+'Drawing preview' on frame 2000
+'Drawing preview' on frame 3000
+'Drawing preview' on frame 4000
+'Drawing preview' on frame 5000
+'Drawing preview' on frame 6000
+'Drawing preview' on frame 7000
+'Drawing preview' on frame 8000
+'Drawing preview' on frame 9000
+'Drawing preview' on frame 10000
+Saving "Tochiman inn"
+'Saving "Tochiman inn"' on frame 0
+'Saving "Tochiman inn"' on frame 1
+'Saving "Tochiman inn"' on frame 2
+'Saving "Tochiman inn"' on frame 3
+'Saving "Tochiman inn"' on frame 4
+'Saving "Tochiman inn"' on frame 5
+'Saving "Tochiman inn"' on frame 6
+'Saving "Tochiman inn"' on frame 7
+'Saving "Tochiman inn"' on frame 8
+'Saving "Tochiman inn"' on frame 9
+'Saving "Tochiman inn"' on frame 10
+'Saving "Tochiman inn"' on frame 11
+'Saving "Tochiman inn"' on frame 12
+'Saving "Tochiman inn"' on frame 13
+'Saving "Tochiman inn"' on frame 14
+'Saving "Tochiman inn"' on frame 15
+'Saving "Tochiman inn"' on frame 16
+'Saving "Tochiman inn"' on frame 17
+'Saving "Tochiman inn"' on frame 18
+'Saving "Tochiman inn"' on frame 19
+'Saving "Tochiman inn"' on frame 20
+'Saving "Tochiman inn"' on frame 21
+'Saving "Tochiman inn"' on frame 22
+'Saving "Tochiman inn"' on frame 23
+'Saving "Tochiman inn"' on frame 24
+'Saving "Tochiman inn"' on frame 25
+'Saving "Tochiman inn"' on frame 26
+'Saving "Tochiman inn"' on frame 27
+'Saving "Tochiman inn"' on frame 28
+'Saving "Tochiman inn"' on frame 29
+'Saving "Tochiman inn"' on frame 30
+'Saving "Tochiman inn"' on frame 31
+'Saving "Tochiman inn"' on frame 32
+'Saving "Tochiman inn"' on frame 33
+'Saving "Tochiman inn"' on frame 34
+'Saving "Tochiman inn"' on frame 35
+'Saving "Tochiman inn"' on frame 36
+'Saving "Tochiman inn"' on frame 37
+'Saving "Tochiman inn"' on frame 38
+'Saving "Tochiman inn"' on frame 39
+'Saving "Tochiman inn"' on frame 40
+'Saving "Tochiman inn"' on frame 41
+'Saving "Tochiman inn"' on frame 42
+'Saving "Tochiman inn"' on frame 43
+'Saving "Tochiman inn"' on frame 44
+'Saving "Tochiman inn"' on frame 45
+'Saving "Tochiman inn"' on frame 46
+'Saving "Tochiman inn"' on frame 47
+'Saving "Tochiman inn"' on frame 48
+'Saving "Tochiman inn"' on frame 49
+'Saving "Tochiman inn"' on frame 50
+'Saving "Tochiman inn"' on frame 51
+'Saving "Tochiman inn"' on frame 52
+'Saving "Tochiman inn"' on frame 53
+'Saving "Tochiman inn"' on frame 54
+'Saving "Tochiman inn"' on frame 55
+'Saving "Tochiman inn"' on frame 56
+'Saving "Tochiman inn"' on frame 57
+'Saving "Tochiman inn"' on frame 58
+'Saving "Tochiman inn"' on frame 59
+'Saving "Tochiman inn"' on frame 60
+'Saving "Tochiman inn"' on frame 61
+'Saving "Tochiman inn"' on frame 62
+'Saving "Tochiman inn"' on frame 63
+'Saving "Tochiman inn"' on frame 64
+'Saving "Tochiman inn"' on frame 65
+'Saving "Tochiman inn"' on frame 66
+'Saving "Tochiman inn"' on frame 67
+'Saving "Tochiman inn"' on frame 68
+'Saving "Tochiman inn"' on frame 69
+'Saving "Tochiman inn"' on frame 70
+'Saving "Tochiman inn"' on frame 71
+'Saving "Tochiman inn"' on frame 72
+'Saving "Tochiman inn"' on frame 73
+'Saving "Tochiman inn"' on frame 74
+'Saving "Tochiman inn"' on frame 75
+'Saving "Tochiman inn"' on frame 76
+'Saving "Tochiman inn"' on frame 77
+'Saving "Tochiman inn"' on frame 78
+'Saving "Tochiman inn"' on frame 79
+'Saving "Tochiman inn"' on frame 80
+'Saving "Tochiman inn"' on frame 81
+'Saving "Tochiman inn"' on frame 82
+'Saving "Tochiman inn"' on frame 83
+'Saving "Tochiman inn"' on frame 84
+'Saving "Tochiman inn"' on frame 85
+'Saving "Tochiman inn"' on frame 86
+'Saving "Tochiman inn"' on frame 87
+'Saving "Tochiman inn"' on frame 88
+'Saving "Tochiman inn"' on frame 89
+'Saving "Tochiman inn"' on frame 90
+'Saving "Tochiman inn"' on frame 91
+'Saving "Tochiman inn"' on frame 92
+'Saving "Tochiman inn"' on frame 93
+'Saving "Tochiman inn"' on frame 94
+'Saving "Tochiman inn"' on frame 95
+'Saving "Tochiman inn"' on frame 96
+'Saving "Tochiman inn"' on frame 97
+'Saving "Tochiman inn"' on frame 98
+'Saving "Tochiman inn"' on frame 99
+Script 'SDK' line 0: SystemExit occured.
+
+(eval):129:in `exit'exit
+
+Backtrace:
+'SDK' line 0(eval) 129:in `update'
+'SDK' line 0(eval) 129:in `update'
+'SDK_Scene_Base' line 110 in `update_modules'
+'SDK_Scene_Base' line 91 in `main_loop'
+'SDK_Scene_Base' line 47 in `main'
+'SDK_Scene_Base' line 46 in `loop'
+'SDK_Scene_Base' line 49 in `main'
+'Main' line 12
+
+===============================================================================
+Wed Jul 31 16:58:42 Hora de verano romance 2024
+-------------------------------------------------------------------------------
+Collecting map data
+'Collecting map data' on frame 0
+'Collecting map data' on frame 1
+'Collecting map data' on frame 2
+'Collecting map data' on frame 3
+'Collecting map data' on frame 4
+'Collecting map data' on frame 5
+'Collecting map data' on frame 6
+'Collecting map data' on frame 7
+'Collecting map data' on frame 8
+'Collecting map data' on frame 9
+'Collecting map data' on frame 10
+'Collecting map data' on frame 11
+'Collecting map data' on frame 12
+'Collecting map data' on frame 13
+'Collecting map data' on frame 14
+'Collecting map data' on frame 15
+'Collecting map data' on frame 16
+'Collecting map data' on frame 17
+'Collecting map data' on frame 18
+'Collecting map data' on frame 19
+'Collecting map data' on frame 20
+'Collecting map data' on frame 21
+'Collecting map data' on frame 22
+'Collecting map data' on frame 23
+'Collecting map data' on frame 24
+'Collecting map data' on frame 25
+'Collecting map data' on frame 26
+'Collecting map data' on frame 27
+'Collecting map data' on frame 28
+'Collecting map data' on frame 29
+'Collecting map data' on frame 30
+'Collecting map data' on frame 31
+'Collecting map data' on frame 32
+'Collecting map data' on frame 33
+'Collecting map data' on frame 34
+'Collecting map data' on frame 35
+'Collecting map data' on frame 36
+'Collecting map data' on frame 37
+'Collecting map data' on frame 38
+'Collecting map data' on frame 39
+'Collecting map data' on frame 40
+'Collecting map data' on frame 41
+'Collecting map data' on frame 42
+'Collecting map data' on frame 43
+'Collecting map data' on frame 44
+'Collecting map data' on frame 45
+'Collecting map data' on frame 46
+'Collecting map data' on frame 47
+'Collecting map data' on frame 48
+'Collecting map data' on frame 49
+'Collecting map data' on frame 50
+'Collecting map data' on frame 51
+'Collecting map data' on frame 52
+'Collecting map data' on frame 53
+'Collecting map data' on frame 54
+'Collecting map data' on frame 55
+'Collecting map data' on frame 56
+'Collecting map data' on frame 57
+'Collecting map data' on frame 58
+'Collecting map data' on frame 59
+'Collecting map data' on frame 60
+'Collecting map data' on frame 61
+'Collecting map data' on frame 62
+'Collecting map data' on frame 63
+'Collecting map data' on frame 64
+'Collecting map data' on frame 65
+'Collecting map data' on frame 66
+'Collecting map data' on frame 67
+'Collecting map data' on frame 68
+'Collecting map data' on frame 69
+'Collecting map data' on frame 70
+'Collecting map data' on frame 71
+'Collecting map data' on frame 72
+'Collecting map data' on frame 73
+'Collecting map data' on frame 74
+'Collecting map data' on frame 75
+'Collecting map data' on frame 76
+'Collecting map data' on frame 77
+'Collecting map data' on frame 78
+'Collecting map data' on frame 79
+'Collecting map data' on frame 80
+'Collecting map data' on frame 81
+'Collecting map data' on frame 82
+'Collecting map data' on frame 83
+'Collecting map data' on frame 84
+'Collecting map data' on frame 85
+'Collecting map data' on frame 86
+'Collecting map data' on frame 87
+'Collecting map data' on frame 88
+'Collecting map data' on frame 89
+'Collecting map data' on frame 90
+'Collecting map data' on frame 91
+'Collecting map data' on frame 92
+'Collecting map data' on frame 93
+'Collecting map data' on frame 94
+'Collecting map data' on frame 95
+'Collecting map data' on frame 96
+'Collecting map data' on frame 97
+'Collecting map data' on frame 98
+'Collecting map data' on frame 99
+'Collecting map data' on frame 100
+Drawing preview
+'Drawing preview' on frame 0
+'Drawing preview' on frame 1000
+'Drawing preview' on frame 2000
+'Drawing preview' on frame 3000
+'Drawing preview' on frame 4000
+'Drawing preview' on frame 5000
+'Drawing preview' on frame 6000
+'Drawing preview' on frame 7000
+'Drawing preview' on frame 8000
+'Drawing preview' on frame 9000
+'Drawing preview' on frame 10000
+'Drawing preview' on frame 11000
+Saving "Tochiman inn"
+'Saving "Tochiman inn"' on frame 0
+'Saving "Tochiman inn"' on frame 1
+'Saving "Tochiman inn"' on frame 2
+'Saving "Tochiman inn"' on frame 3
+'Saving "Tochiman inn"' on frame 4
+'Saving "Tochiman inn"' on frame 5
+'Saving "Tochiman inn"' on frame 6
+'Saving "Tochiman inn"' on frame 7
+'Saving "Tochiman inn"' on frame 8
+'Saving "Tochiman inn"' on frame 9
+'Saving "Tochiman inn"' on frame 10
+'Saving "Tochiman inn"' on frame 11
+'Saving "Tochiman inn"' on frame 12
+'Saving "Tochiman inn"' on frame 13
+'Saving "Tochiman inn"' on frame 14
+'Saving "Tochiman inn"' on frame 15
+'Saving "Tochiman inn"' on frame 16
+'Saving "Tochiman inn"' on frame 17
+'Saving "Tochiman inn"' on frame 18
+'Saving "Tochiman inn"' on frame 19
+'Saving "Tochiman inn"' on frame 20
+'Saving "Tochiman inn"' on frame 21
+'Saving "Tochiman inn"' on frame 22
+'Saving "Tochiman inn"' on frame 23
+'Saving "Tochiman inn"' on frame 24
+'Saving "Tochiman inn"' on frame 25
+'Saving "Tochiman inn"' on frame 26
+'Saving "Tochiman inn"' on frame 27
+'Saving "Tochiman inn"' on frame 28
+'Saving "Tochiman inn"' on frame 29
+'Saving "Tochiman inn"' on frame 30
+'Saving "Tochiman inn"' on frame 31
+'Saving "Tochiman inn"' on frame 32
+'Saving "Tochiman inn"' on frame 33
+'Saving "Tochiman inn"' on frame 34
+'Saving "Tochiman inn"' on frame 35
+'Saving "Tochiman inn"' on frame 36
+'Saving "Tochiman inn"' on frame 37
+'Saving "Tochiman inn"' on frame 38
+'Saving "Tochiman inn"' on frame 39
+'Saving "Tochiman inn"' on frame 40
+'Saving "Tochiman inn"' on frame 41
+'Saving "Tochiman inn"' on frame 42
+'Saving "Tochiman inn"' on frame 43
+'Saving "Tochiman inn"' on frame 44
+'Saving "Tochiman inn"' on frame 45
+'Saving "Tochiman inn"' on frame 46
+'Saving "Tochiman inn"' on frame 47
+'Saving "Tochiman inn"' on frame 48
+'Saving "Tochiman inn"' on frame 49
+'Saving "Tochiman inn"' on frame 50
+'Saving "Tochiman inn"' on frame 51
+'Saving "Tochiman inn"' on frame 52
+'Saving "Tochiman inn"' on frame 53
+'Saving "Tochiman inn"' on frame 54
+'Saving "Tochiman inn"' on frame 55
+'Saving "Tochiman inn"' on frame 56
+'Saving "Tochiman inn"' on frame 57
+'Saving "Tochiman inn"' on frame 58
+'Saving "Tochiman inn"' on frame 59
+'Saving "Tochiman inn"' on frame 60
+'Saving "Tochiman inn"' on frame 61
+'Saving "Tochiman inn"' on frame 62
+'Saving "Tochiman inn"' on frame 63
+'Saving "Tochiman inn"' on frame 64
+'Saving "Tochiman inn"' on frame 65
+'Saving "Tochiman inn"' on frame 66
+'Saving "Tochiman inn"' on frame 67
+'Saving "Tochiman inn"' on frame 68
+'Saving "Tochiman inn"' on frame 69
+'Saving "Tochiman inn"' on frame 70
+'Saving "Tochiman inn"' on frame 71
+'Saving "Tochiman inn"' on frame 72
+'Saving "Tochiman inn"' on frame 73
+'Saving "Tochiman inn"' on frame 74
+'Saving "Tochiman inn"' on frame 75
+'Saving "Tochiman inn"' on frame 76
+'Saving "Tochiman inn"' on frame 77
+'Saving "Tochiman inn"' on frame 78
+'Saving "Tochiman inn"' on frame 79
+'Saving "Tochiman inn"' on frame 80
+'Saving "Tochiman inn"' on frame 81
+'Saving "Tochiman inn"' on frame 82
+'Saving "Tochiman inn"' on frame 83
+'Saving "Tochiman inn"' on frame 84
+'Saving "Tochiman inn"' on frame 85
+'Saving "Tochiman inn"' on frame 86
+'Saving "Tochiman inn"' on frame 87
+'Saving "Tochiman inn"' on frame 88
+'Saving "Tochiman inn"' on frame 89
+'Saving "Tochiman inn"' on frame 90
+'Saving "Tochiman inn"' on frame 91
+'Saving "Tochiman inn"' on frame 92
+'Saving "Tochiman inn"' on frame 93
+'Saving "Tochiman inn"' on frame 94
+'Saving "Tochiman inn"' on frame 95
+'Saving "Tochiman inn"' on frame 96
+'Saving "Tochiman inn"' on frame 97
+'Saving "Tochiman inn"' on frame 98
+'Saving "Tochiman inn"' on frame 99
+Saving "Tochiman inn"
+'Saving "Tochiman inn"' on frame 0
+'Saving "Tochiman inn"' on frame 1
+'Saving "Tochiman inn"' on frame 2
+'Saving "Tochiman inn"' on frame 3
+'Saving "Tochiman inn"' on frame 4
+'Saving "Tochiman inn"' on frame 5
+'Saving "Tochiman inn"' on frame 6
+'Saving "Tochiman inn"' on frame 7
+'Saving "Tochiman inn"' on frame 8
+'Saving "Tochiman inn"' on frame 9
+'Saving "Tochiman inn"' on frame 10
+'Saving "Tochiman inn"' on frame 11
+'Saving "Tochiman inn"' on frame 12
+'Saving "Tochiman inn"' on frame 13
+'Saving "Tochiman inn"' on frame 14
+'Saving "Tochiman inn"' on frame 15
+'Saving "Tochiman inn"' on frame 16
+'Saving "Tochiman inn"' on frame 17
+'Saving "Tochiman inn"' on frame 18
+'Saving "Tochiman inn"' on frame 19
+'Saving "Tochiman inn"' on frame 20
+'Saving "Tochiman inn"' on frame 21
+'Saving "Tochiman inn"' on frame 22
+'Saving "Tochiman inn"' on frame 23
+'Saving "Tochiman inn"' on frame 24
+'Saving "Tochiman inn"' on frame 25
+'Saving "Tochiman inn"' on frame 26
+'Saving "Tochiman inn"' on frame 27
+'Saving "Tochiman inn"' on frame 28
+'Saving "Tochiman inn"' on frame 29
+'Saving "Tochiman inn"' on frame 30
+'Saving "Tochiman inn"' on frame 31
+'Saving "Tochiman inn"' on frame 32
+'Saving "Tochiman inn"' on frame 33
+'Saving "Tochiman inn"' on frame 34
+'Saving "Tochiman inn"' on frame 35
+'Saving "Tochiman inn"' on frame 36
+'Saving "Tochiman inn"' on frame 37
+'Saving "Tochiman inn"' on frame 38
+'Saving "Tochiman inn"' on frame 39
+'Saving "Tochiman inn"' on frame 40
+'Saving "Tochiman inn"' on frame 41
+'Saving "Tochiman inn"' on frame 42
+'Saving "Tochiman inn"' on frame 43
+'Saving "Tochiman inn"' on frame 44
+'Saving "Tochiman inn"' on frame 45
+'Saving "Tochiman inn"' on frame 46
+'Saving "Tochiman inn"' on frame 47
+'Saving "Tochiman inn"' on frame 48
+'Saving "Tochiman inn"' on frame 49
+'Saving "Tochiman inn"' on frame 50
+'Saving "Tochiman inn"' on frame 51
+'Saving "Tochiman inn"' on frame 52
+'Saving "Tochiman inn"' on frame 53
+'Saving "Tochiman inn"' on frame 54
+'Saving "Tochiman inn"' on frame 55
+'Saving "Tochiman inn"' on frame 56
+'Saving "Tochiman inn"' on frame 57
+'Saving "Tochiman inn"' on frame 58
+'Saving "Tochiman inn"' on frame 59
+'Saving "Tochiman inn"' on frame 60
+'Saving "Tochiman inn"' on frame 61
+'Saving "Tochiman inn"' on frame 62
+'Saving "Tochiman inn"' on frame 63
+'Saving "Tochiman inn"' on frame 64
+'Saving "Tochiman inn"' on frame 65
+'Saving "Tochiman inn"' on frame 66
+'Saving "Tochiman inn"' on frame 67
+'Saving "Tochiman inn"' on frame 68
+'Saving "Tochiman inn"' on frame 69
+'Saving "Tochiman inn"' on frame 70
+'Saving "Tochiman inn"' on frame 71
+'Saving "Tochiman inn"' on frame 72
+'Saving "Tochiman inn"' on frame 73
+'Saving "Tochiman inn"' on frame 74
+'Saving "Tochiman inn"' on frame 75
+'Saving "Tochiman inn"' on frame 76
+'Saving "Tochiman inn"' on frame 77
+'Saving "Tochiman inn"' on frame 78
+'Saving "Tochiman inn"' on frame 79
+'Saving "Tochiman inn"' on frame 80
+'Saving "Tochiman inn"' on frame 81
+'Saving "Tochiman inn"' on frame 82
+'Saving "Tochiman inn"' on frame 83
+'Saving "Tochiman inn"' on frame 84
+'Saving "Tochiman inn"' on frame 85
+'Saving "Tochiman inn"' on frame 86
+'Saving "Tochiman inn"' on frame 87
+'Saving "Tochiman inn"' on frame 88
+'Saving "Tochiman inn"' on frame 89
+'Saving "Tochiman inn"' on frame 90
+'Saving "Tochiman inn"' on frame 91
+'Saving "Tochiman inn"' on frame 92
+'Saving "Tochiman inn"' on frame 93
+'Saving "Tochiman inn"' on frame 94
+'Saving "Tochiman inn"' on frame 95
+'Saving "Tochiman inn"' on frame 96
+'Saving "Tochiman inn"' on frame 97
+'Saving "Tochiman inn"' on frame 98
+'Saving "Tochiman inn"' on frame 99
+Script 'SDK' line 0: SystemExit occured.
+
+(eval):129:in `exit'exit
+
+Backtrace:
+'SDK' line 0(eval) 129:in `update'
+'SDK' line 0(eval) 129:in `update'
+'SDK_Scene_Base' line 110 in `update_modules'
+'SDK_Scene_Base' line 91 in `main_loop'
+'SDK_Scene_Base' line 47 in `main'
+'SDK_Scene_Base' line 46 in `loop'
+'SDK_Scene_Base' line 49 in `main'
+'Main' line 12
+
+===============================================================================
+Wed Jul 31 19:00:44 Hora de verano romance 2024
+-------------------------------------------------------------------------------
+Collecting map data
+'Collecting map data' on frame 0
+'Collecting map data' on frame 1
+'Collecting map data' on frame 2
+'Collecting map data' on frame 3
+'Collecting map data' on frame 4
+'Collecting map data' on frame 5
+'Collecting map data' on frame 6
+'Collecting map data' on frame 7
+'Collecting map data' on frame 8
+'Collecting map data' on frame 9
+'Collecting map data' on frame 10
+'Collecting map data' on frame 11
+'Collecting map data' on frame 12
+'Collecting map data' on frame 13
+'Collecting map data' on frame 14
+'Collecting map data' on frame 15
+'Collecting map data' on frame 16
+'Collecting map data' on frame 17
+'Collecting map data' on frame 18
+'Collecting map data' on frame 19
+'Collecting map data' on frame 20
+'Collecting map data' on frame 21
+'Collecting map data' on frame 22
+'Collecting map data' on frame 23
+'Collecting map data' on frame 24
+'Collecting map data' on frame 25
+'Collecting map data' on frame 26
+'Collecting map data' on frame 27
+'Collecting map data' on frame 28
+'Collecting map data' on frame 29
+'Collecting map data' on frame 30
+'Collecting map data' on frame 31
+'Collecting map data' on frame 32
+'Collecting map data' on frame 33
+'Collecting map data' on frame 34
+'Collecting map data' on frame 35
+'Collecting map data' on frame 36
+'Collecting map data' on frame 37
+'Collecting map data' on frame 38
+'Collecting map data' on frame 39
+'Collecting map data' on frame 40
+'Collecting map data' on frame 41
+'Collecting map data' on frame 42
+'Collecting map data' on frame 43
+'Collecting map data' on frame 44
+'Collecting map data' on frame 45
+'Collecting map data' on frame 46
+'Collecting map data' on frame 47
+'Collecting map data' on frame 48
+'Collecting map data' on frame 49
+'Collecting map data' on frame 50
+'Collecting map data' on frame 51
+'Collecting map data' on frame 52
+'Collecting map data' on frame 53
+'Collecting map data' on frame 54
+'Collecting map data' on frame 55
+'Collecting map data' on frame 56
+'Collecting map data' on frame 57
+'Collecting map data' on frame 58
+'Collecting map data' on frame 59
+'Collecting map data' on frame 60
+'Collecting map data' on frame 61
+'Collecting map data' on frame 62
+'Collecting map data' on frame 63
+'Collecting map data' on frame 64
+'Collecting map data' on frame 65
+'Collecting map data' on frame 66
+'Collecting map data' on frame 67
+'Collecting map data' on frame 68
+'Collecting map data' on frame 69
+'Collecting map data' on frame 70
+'Collecting map data' on frame 71
+'Collecting map data' on frame 72
+'Collecting map data' on frame 73
+'Collecting map data' on frame 74
+'Collecting map data' on frame 75
+'Collecting map data' on frame 76
+'Collecting map data' on frame 77
+'Collecting map data' on frame 78
+'Collecting map data' on frame 79
+'Collecting map data' on frame 80
+'Collecting map data' on frame 81
+'Collecting map data' on frame 82
+'Collecting map data' on frame 83
+'Collecting map data' on frame 84
+'Collecting map data' on frame 85
+'Collecting map data' on frame 86
+'Collecting map data' on frame 87
+'Collecting map data' on frame 88
+'Collecting map data' on frame 89
+'Collecting map data' on frame 90
+'Collecting map data' on frame 91
+'Collecting map data' on frame 92
+'Collecting map data' on frame 93
+'Collecting map data' on frame 94
+'Collecting map data' on frame 95
+'Collecting map data' on frame 96
+'Collecting map data' on frame 97
+'Collecting map data' on frame 98
+'Collecting map data' on frame 99
+'Collecting map data' on frame 100
+Drawing preview
+'Drawing preview' on frame 0
+'Drawing preview' on frame 1000
+'Drawing preview' on frame 2000
+'Drawing preview' on frame 3000
+'Drawing preview' on frame 4000
+'Drawing preview' on frame 5000
+'Drawing preview' on frame 6000
+'Drawing preview' on frame 7000
+'Drawing preview' on frame 8000
+'Drawing preview' on frame 9000
+'Drawing preview' on frame 10000
+'Drawing preview' on frame 11000
+Saving "Tochiman inn"
+'Saving "Tochiman inn"' on frame 0
+'Saving "Tochiman inn"' on frame 1
+'Saving "Tochiman inn"' on frame 2
+'Saving "Tochiman inn"' on frame 3
+'Saving "Tochiman inn"' on frame 4
+'Saving "Tochiman inn"' on frame 5
+'Saving "Tochiman inn"' on frame 6
+'Saving "Tochiman inn"' on frame 7
+'Saving "Tochiman inn"' on frame 8
+'Saving "Tochiman inn"' on frame 9
+'Saving "Tochiman inn"' on frame 10
+'Saving "Tochiman inn"' on frame 11
+'Saving "Tochiman inn"' on frame 12
+'Saving "Tochiman inn"' on frame 13
+'Saving "Tochiman inn"' on frame 14
+'Saving "Tochiman inn"' on frame 15
+'Saving "Tochiman inn"' on frame 16
+'Saving "Tochiman inn"' on frame 17
+'Saving "Tochiman inn"' on frame 18
+'Saving "Tochiman inn"' on frame 19
+'Saving "Tochiman inn"' on frame 20
+'Saving "Tochiman inn"' on frame 21
+'Saving "Tochiman inn"' on frame 22
+'Saving "Tochiman inn"' on frame 23
+'Saving "Tochiman inn"' on frame 24
+'Saving "Tochiman inn"' on frame 25
+'Saving "Tochiman inn"' on frame 26
+'Saving "Tochiman inn"' on frame 27
+'Saving "Tochiman inn"' on frame 28
+'Saving "Tochiman inn"' on frame 29
+'Saving "Tochiman inn"' on frame 30
+'Saving "Tochiman inn"' on frame 31
+'Saving "Tochiman inn"' on frame 32
+'Saving "Tochiman inn"' on frame 33
+'Saving "Tochiman inn"' on frame 34
+'Saving "Tochiman inn"' on frame 35
+'Saving "Tochiman inn"' on frame 36
+Script 'SDK' line 0: SystemExit occured.
+
+(eval):166:in `exit'exit
+
+Backtrace:
+'SDK' line 0(eval) 166:in `update'
+'SDK' line 0(eval) 166:in `update'
+'Bitmap.make_png' line 118 in `make_bitmap_data'
+'Bitmap.make_png' line 117 in `each'
+'Bitmap.make_png' line 117 in `make_bitmap_data'
+'Bitmap.make_png' line 107 in `each'
+'Bitmap.make_png' line 107 in `make_bitmap_data'
+'Bitmap.make_png' line 94 in `make_idat'
+'Bitmap.make_png' line 61 in `make_png'
+'Spriteset_Map' line 318 in `make_png'
+'Scene_Main' line 243 in `save'
+'Scene_Main' line 130 in `update_top'
+'Scene_Main' line 95 in `update'
+'SDK_Scene_Base' line 104 in `main_loop'
+'SDK_Scene_Base' line 47 in `main'
+'SDK_Scene_Base' line 46 in `loop'
+'SDK_Scene_Base' line 49 in `main'
+'Main' line 12
+
+===============================================================================
+Wed Jul 31 19:03:34 Hora de verano romance 2024
+-------------------------------------------------------------------------------
+Collecting map data
+'Collecting map data' on frame 0
+'Collecting map data' on frame 1
+'Collecting map data' on frame 2
+'Collecting map data' on frame 3
+'Collecting map data' on frame 4
+'Collecting map data' on frame 5
+'Collecting map data' on frame 6
+'Collecting map data' on frame 7
+'Collecting map data' on frame 8
+'Collecting map data' on frame 9
+'Collecting map data' on frame 10
+'Collecting map data' on frame 11
+'Collecting map data' on frame 12
+'Collecting map data' on frame 13
+'Collecting map data' on frame 14
+'Collecting map data' on frame 15
+'Collecting map data' on frame 16
+'Collecting map data' on frame 17
+'Collecting map data' on frame 18
+'Collecting map data' on frame 19
+'Collecting map data' on frame 20
+'Collecting map data' on frame 21
+'Collecting map data' on frame 22
+'Collecting map data' on frame 23
+'Collecting map data' on frame 24
+'Collecting map data' on frame 25
+'Collecting map data' on frame 26
+'Collecting map data' on frame 27
+'Collecting map data' on frame 28
+'Collecting map data' on frame 29
+'Collecting map data' on frame 30
+'Collecting map data' on frame 31
+'Collecting map data' on frame 32
+'Collecting map data' on frame 33
+'Collecting map data' on frame 34
+'Collecting map data' on frame 35
+'Collecting map data' on frame 36
+'Collecting map data' on frame 37
+'Collecting map data' on frame 38
+'Collecting map data' on frame 39
+'Collecting map data' on frame 40
+'Collecting map data' on frame 41
+'Collecting map data' on frame 42
+'Collecting map data' on frame 43
+'Collecting map data' on frame 44
+'Collecting map data' on frame 45
+'Collecting map data' on frame 46
+'Collecting map data' on frame 47
+'Collecting map data' on frame 48
+'Collecting map data' on frame 49
+'Collecting map data' on frame 50
+'Collecting map data' on frame 51
+'Collecting map data' on frame 52
+'Collecting map data' on frame 53
+'Collecting map data' on frame 54
+'Collecting map data' on frame 55
+'Collecting map data' on frame 56
+'Collecting map data' on frame 57
+'Collecting map data' on frame 58
+'Collecting map data' on frame 59
+'Collecting map data' on frame 60
+'Collecting map data' on frame 61
+'Collecting map data' on frame 62
+'Collecting map data' on frame 63
+'Collecting map data' on frame 64
+'Collecting map data' on frame 65
+'Collecting map data' on frame 66
+'Collecting map data' on frame 67
+'Collecting map data' on frame 68
+'Collecting map data' on frame 69
+'Collecting map data' on frame 70
+'Collecting map data' on frame 71
+'Collecting map data' on frame 72
+'Collecting map data' on frame 73
+'Collecting map data' on frame 74
+'Collecting map data' on frame 75
+'Collecting map data' on frame 76
+'Collecting map data' on frame 77
+'Collecting map data' on frame 78
+'Collecting map data' on frame 79
+'Collecting map data' on frame 80
+'Collecting map data' on frame 81
+'Collecting map data' on frame 82
+'Collecting map data' on frame 83
+'Collecting map data' on frame 84
+'Collecting map data' on frame 85
+'Collecting map data' on frame 86
+'Collecting map data' on frame 87
+'Collecting map data' on frame 88
+'Collecting map data' on frame 89
+'Collecting map data' on frame 90
+'Collecting map data' on frame 91
+'Collecting map data' on frame 92
+'Collecting map data' on frame 93
+'Collecting map data' on frame 94
+'Collecting map data' on frame 95
+'Collecting map data' on frame 96
+'Collecting map data' on frame 97
+'Collecting map data' on frame 98
+'Collecting map data' on frame 99
+'Collecting map data' on frame 100
+Drawing preview
+'Drawing preview' on frame 0
+'Drawing preview' on frame 1000
+'Drawing preview' on frame 2000
+'Drawing preview' on frame 3000
+'Drawing preview' on frame 4000
+'Drawing preview' on frame 5000
+'Drawing preview' on frame 6000
+'Drawing preview' on frame 7000
+'Drawing preview' on frame 8000
+'Drawing preview' on frame 9000
+'Drawing preview' on frame 10000
+'Drawing preview' on frame 11000
+Script 'SDK' line 0: SystemExit occured.
+
+(eval):129:in `exit'exit
+
+Backtrace:
+'SDK' line 0(eval) 129:in `update'
+'SDK' line 0(eval) 129:in `update'
+'SDK_Scene_Base' line 110 in `update_modules'
+'SDK_Scene_Base' line 91 in `main_loop'
+'SDK_Scene_Base' line 47 in `main'
+'SDK_Scene_Base' line 46 in `loop'
+'SDK_Scene_Base' line 49 in `main'
+'Main' line 12
+
+===============================================================================
+Wed Jul 31 19:06:00 Hora de verano romance 2024
+-------------------------------------------------------------------------------
+===============================================================================
+Wed Jul 31 19:06:37 Hora de verano romance 2024
+-------------------------------------------------------------------------------
+Wrote cha_on=>true to .\MapMaker.ini
+Collecting map data
+'Collecting map data' on frame 0
+'Collecting map data' on frame 1
+'Collecting map data' on frame 2
+'Collecting map data' on frame 3
+'Collecting map data' on frame 4
+'Collecting map data' on frame 5
+'Collecting map data' on frame 6
+'Collecting map data' on frame 7
+'Collecting map data' on frame 8
+'Collecting map data' on frame 9
+'Collecting map data' on frame 10
+'Collecting map data' on frame 11
+'Collecting map data' on frame 12
+'Collecting map data' on frame 13
+'Collecting map data' on frame 14
+'Collecting map data' on frame 15
+'Collecting map data' on frame 16
+'Collecting map data' on frame 17
+'Collecting map data' on frame 18
+'Collecting map data' on frame 19
+'Collecting map data' on frame 20
+'Collecting map data' on frame 21
+'Collecting map data' on frame 22
+'Collecting map data' on frame 23
+'Collecting map data' on frame 24
+'Collecting map data' on frame 25
+'Collecting map data' on frame 26
+'Collecting map data' on frame 27
+'Collecting map data' on frame 28
+'Collecting map data' on frame 29
+'Collecting map data' on frame 30
+'Collecting map data' on frame 31
+'Collecting map data' on frame 32
+'Collecting map data' on frame 33
+'Collecting map data' on frame 34
+'Collecting map data' on frame 35
+'Collecting map data' on frame 36
+'Collecting map data' on frame 37
+'Collecting map data' on frame 38
+'Collecting map data' on frame 39
+'Collecting map data' on frame 40
+'Collecting map data' on frame 41
+'Collecting map data' on frame 42
+'Collecting map data' on frame 43
+'Collecting map data' on frame 44
+'Collecting map data' on frame 45
+'Collecting map data' on frame 46
+'Collecting map data' on frame 47
+'Collecting map data' on frame 48
+'Collecting map data' on frame 49
+'Collecting map data' on frame 50
+'Collecting map data' on frame 51
+'Collecting map data' on frame 52
+'Collecting map data' on frame 53
+'Collecting map data' on frame 54
+'Collecting map data' on frame 55
+'Collecting map data' on frame 56
+'Collecting map data' on frame 57
+'Collecting map data' on frame 58
+'Collecting map data' on frame 59
+'Collecting map data' on frame 60
+'Collecting map data' on frame 61
+'Collecting map data' on frame 62
+'Collecting map data' on frame 63
+'Collecting map data' on frame 64
+'Collecting map data' on frame 65
+'Collecting map data' on frame 66
+'Collecting map data' on frame 67
+'Collecting map data' on frame 68
+'Collecting map data' on frame 69
+'Collecting map data' on frame 70
+'Collecting map data' on frame 71
+'Collecting map data' on frame 72
+'Collecting map data' on frame 73
+'Collecting map data' on frame 74
+'Collecting map data' on frame 75
+'Collecting map data' on frame 76
+'Collecting map data' on frame 77
+'Collecting map data' on frame 78
+'Collecting map data' on frame 79
+'Collecting map data' on frame 80
+'Collecting map data' on frame 81
+'Collecting map data' on frame 82
+'Collecting map data' on frame 83
+'Collecting map data' on frame 84
+'Collecting map data' on frame 85
+'Collecting map data' on frame 86
+'Collecting map data' on frame 87
+'Collecting map data' on frame 88
+'Collecting map data' on frame 89
+'Collecting map data' on frame 90
+'Collecting map data' on frame 91
+'Collecting map data' on frame 92
+'Collecting map data' on frame 93
+'Collecting map data' on frame 94
+'Collecting map data' on frame 95
+'Collecting map data' on frame 96
+'Collecting map data' on frame 97
+'Collecting map data' on frame 98
+'Collecting map data' on frame 99
+'Collecting map data' on frame 100
+Drawing preview
+'Drawing preview' on frame 0
+'Drawing preview' on frame 1000
+'Drawing preview' on frame 2000
+'Drawing preview' on frame 3000
+'Drawing preview' on frame 4000
+'Drawing preview' on frame 5000
+'Drawing preview' on frame 6000
+'Drawing preview' on frame 7000
+'Drawing preview' on frame 8000
+'Drawing preview' on frame 9000
+'Drawing preview' on frame 10000
+'Drawing preview' on frame 11000
+Script 'SDK' line 0: SystemExit occured.
+
+(eval):129:in `exit'exit
+
+Backtrace:
+'SDK' line 0(eval) 129:in `update'
+'SDK' line 0(eval) 129:in `update'
+'SDK_Scene_Base' line 110 in `update_modules'
+'SDK_Scene_Base' line 91 in `main_loop'
+'SDK_Scene_Base' line 47 in `main'
+'SDK_Scene_Base' line 46 in `loop'
+'SDK_Scene_Base' line 49 in `main'
+'Main' line 12
+
+===============================================================================
+Wed Jul 31 19:29:58 Hora de verano romance 2024
+-------------------------------------------------------------------------------
+Collecting map data
+'Collecting map data' on frame 0
+'Collecting map data' on frame 1
+'Collecting map data' on frame 2
+'Collecting map data' on frame 3
+'Collecting map data' on frame 4
+'Collecting map data' on frame 5
+'Collecting map data' on frame 6
+'Collecting map data' on frame 7
+'Collecting map data' on frame 8
+'Collecting map data' on frame 9
+'Collecting map data' on frame 10
+'Collecting map data' on frame 11
+'Collecting map data' on frame 12
+'Collecting map data' on frame 13
+'Collecting map data' on frame 14
+'Collecting map data' on frame 15
+'Collecting map data' on frame 16
+'Collecting map data' on frame 17
+'Collecting map data' on frame 18
+'Collecting map data' on frame 19
+'Collecting map data' on frame 20
+'Collecting map data' on frame 21
+'Collecting map data' on frame 22
+'Collecting map data' on frame 23
+'Collecting map data' on frame 24
+'Collecting map data' on frame 25
+'Collecting map data' on frame 26
+'Collecting map data' on frame 27
+'Collecting map data' on frame 28
+'Collecting map data' on frame 29
+'Collecting map data' on frame 30
+'Collecting map data' on frame 31
+'Collecting map data' on frame 32
+'Collecting map data' on frame 33
+'Collecting map data' on frame 34
+'Collecting map data' on frame 35
+'Collecting map data' on frame 36
+'Collecting map data' on frame 37
+'Collecting map data' on frame 38
+'Collecting map data' on frame 39
+'Collecting map data' on frame 40
+'Collecting map data' on frame 41
+'Collecting map data' on frame 42
+'Collecting map data' on frame 43
+'Collecting map data' on frame 44
+'Collecting map data' on frame 45
+'Collecting map data' on frame 46
+'Collecting map data' on frame 47
+'Collecting map data' on frame 48
+'Collecting map data' on frame 49
+'Collecting map data' on frame 50
+'Collecting map data' on frame 51
+'Collecting map data' on frame 52
+'Collecting map data' on frame 53
+'Collecting map data' on frame 54
+'Collecting map data' on frame 55
+'Collecting map data' on frame 56
+'Collecting map data' on frame 57
+'Collecting map data' on frame 58
+'Collecting map data' on frame 59
+'Collecting map data' on frame 60
+'Collecting map data' on frame 61
+'Collecting map data' on frame 62
+'Collecting map data' on frame 63
+'Collecting map data' on frame 64
+'Collecting map data' on frame 65
+'Collecting map data' on frame 66
+'Collecting map data' on frame 67
+'Collecting map data' on frame 68
+'Collecting map data' on frame 69
+'Collecting map data' on frame 70
+'Collecting map data' on frame 71
+'Collecting map data' on frame 72
+'Collecting map data' on frame 73
+'Collecting map data' on frame 74
+'Collecting map data' on frame 75
+'Collecting map data' on frame 76
+'Collecting map data' on frame 77
+'Collecting map data' on frame 78
+'Collecting map data' on frame 79
+'Collecting map data' on frame 80
+'Collecting map data' on frame 81
+'Collecting map data' on frame 82
+'Collecting map data' on frame 83
+'Collecting map data' on frame 84
+'Collecting map data' on frame 85
+'Collecting map data' on frame 86
+'Collecting map data' on frame 87
+'Collecting map data' on frame 88
+'Collecting map data' on frame 89
+'Collecting map data' on frame 90
+'Collecting map data' on frame 91
+'Collecting map data' on frame 92
+'Collecting map data' on frame 93
+'Collecting map data' on frame 94
+'Collecting map data' on frame 95
+'Collecting map data' on frame 96
+'Collecting map data' on frame 97
+'Collecting map data' on frame 98
+'Collecting map data' on frame 99
+'Collecting map data' on frame 100
+Drawing preview
+'Drawing preview' on frame 0
+'Drawing preview' on frame 1000
+'Drawing preview' on frame 2000
+'Drawing preview' on frame 3000
+'Drawing preview' on frame 4000
+'Drawing preview' on frame 5000
+'Drawing preview' on frame 6000
+'Drawing preview' on frame 7000
+'Drawing preview' on frame 8000
+'Drawing preview' on frame 9000
+'Drawing preview' on frame 10000
+'Drawing preview' on frame 11000
+Script 'SDK' line 0: SystemExit occured.
+
+(eval):129:in `exit'exit
+
+Backtrace:
+'SDK' line 0(eval) 129:in `update'
+'SDK' line 0(eval) 129:in `update'
+'SDK_Scene_Base' line 110 in `update_modules'
+'SDK_Scene_Base' line 91 in `main_loop'
+'SDK_Scene_Base' line 47 in `main'
+'SDK_Scene_Base' line 46 in `loop'
+'SDK_Scene_Base' line 49 in `main'
+'Main' line 12
+
+===============================================================================
+Wed Jul 31 19:30:28 Hora de verano romance 2024
+-------------------------------------------------------------------------------
+Collecting map data
+'Collecting map data' on frame 0
+'Collecting map data' on frame 1
+'Collecting map data' on frame 2
+'Collecting map data' on frame 3
+'Collecting map data' on frame 4
+'Collecting map data' on frame 5
+'Collecting map data' on frame 6
+'Collecting map data' on frame 7
+'Collecting map data' on frame 8
+'Collecting map data' on frame 9
+'Collecting map data' on frame 10
+'Collecting map data' on frame 11
+'Collecting map data' on frame 12
+'Collecting map data' on frame 13
+'Collecting map data' on frame 14
+'Collecting map data' on frame 15
+'Collecting map data' on frame 16
+'Collecting map data' on frame 17
+'Collecting map data' on frame 18
+'Collecting map data' on frame 19
+'Collecting map data' on frame 20
+'Collecting map data' on frame 21
+'Collecting map data' on frame 22
+'Collecting map data' on frame 23
+'Collecting map data' on frame 24
+'Collecting map data' on frame 25
+'Collecting map data' on frame 26
+'Collecting map data' on frame 27
+'Collecting map data' on frame 28
+'Collecting map data' on frame 29
+'Collecting map data' on frame 30
+'Collecting map data' on frame 31
+'Collecting map data' on frame 32
+'Collecting map data' on frame 33
+'Collecting map data' on frame 34
+'Collecting map data' on frame 35
+'Collecting map data' on frame 36
+'Collecting map data' on frame 37
+'Collecting map data' on frame 38
+'Collecting map data' on frame 39
+'Collecting map data' on frame 40
+'Collecting map data' on frame 41
+'Collecting map data' on frame 42
+'Collecting map data' on frame 43
+'Collecting map data' on frame 44
+'Collecting map data' on frame 45
+'Collecting map data' on frame 46
+'Collecting map data' on frame 47
+'Collecting map data' on frame 48
+'Collecting map data' on frame 49
+'Collecting map data' on frame 50
+'Collecting map data' on frame 51
+'Collecting map data' on frame 52
+'Collecting map data' on frame 53
+'Collecting map data' on frame 54
+'Collecting map data' on frame 55
+'Collecting map data' on frame 56
+'Collecting map data' on frame 57
+'Collecting map data' on frame 58
+'Collecting map data' on frame 59
+'Collecting map data' on frame 60
+'Collecting map data' on frame 61
+'Collecting map data' on frame 62
+'Collecting map data' on frame 63
+'Collecting map data' on frame 64
+'Collecting map data' on frame 65
+'Collecting map data' on frame 66
+'Collecting map data' on frame 67
+'Collecting map data' on frame 68
+'Collecting map data' on frame 69
+'Collecting map data' on frame 70
+'Collecting map data' on frame 71
+'Collecting map data' on frame 72
+'Collecting map data' on frame 73
+'Collecting map data' on frame 74
+'Collecting map data' on frame 75
+'Collecting map data' on frame 76
+'Collecting map data' on frame 77
+'Collecting map data' on frame 78
+'Collecting map data' on frame 79
+'Collecting map data' on frame 80
+'Collecting map data' on frame 81
+'Collecting map data' on frame 82
+'Collecting map data' on frame 83
+'Collecting map data' on frame 84
+'Collecting map data' on frame 85
+'Collecting map data' on frame 86
+'Collecting map data' on frame 87
+'Collecting map data' on frame 88
+'Collecting map data' on frame 89
+'Collecting map data' on frame 90
+'Collecting map data' on frame 91
+'Collecting map data' on frame 92
+'Collecting map data' on frame 93
+'Collecting map data' on frame 94
+'Collecting map data' on frame 95
+'Collecting map data' on frame 96
+'Collecting map data' on frame 97
+'Collecting map data' on frame 98
+'Collecting map data' on frame 99
+'Collecting map data' on frame 100
+Drawing preview
+'Drawing preview' on frame 0
+'Drawing preview' on frame 1000
+'Drawing preview' on frame 2000
+'Drawing preview' on frame 3000
+'Drawing preview' on frame 4000
+'Drawing preview' on frame 5000
+'Drawing preview' on frame 6000
+'Drawing preview' on frame 7000
+'Drawing preview' on frame 8000
+'Drawing preview' on frame 9000
+'Drawing preview' on frame 10000
+'Drawing preview' on frame 11000
+Script 'SDK' line 0: SystemExit occured.
+
+(eval):129:in `exit'exit
+
+Backtrace:
+'SDK' line 0(eval) 129:in `update'
+'SDK' line 0(eval) 129:in `update'
+'SDK_Scene_Base' line 110 in `update_modules'
+'SDK_Scene_Base' line 91 in `main_loop'
+'SDK_Scene_Base' line 47 in `main'
+'SDK_Scene_Base' line 46 in `loop'
+'SDK_Scene_Base' line 49 in `main'
+'Main' line 12
+
+===============================================================================
+Wed Jul 31 19:31:00 Hora de verano romance 2024
+-------------------------------------------------------------------------------
+Collecting map data
+'Collecting map data' on frame 0
+'Collecting map data' on frame 1
+'Collecting map data' on frame 2
+'Collecting map data' on frame 3
+'Collecting map data' on frame 4
+'Collecting map data' on frame 5
+'Collecting map data' on frame 6
+'Collecting map data' on frame 7
+'Collecting map data' on frame 8
+'Collecting map data' on frame 9
+'Collecting map data' on frame 10
+'Collecting map data' on frame 11
+'Collecting map data' on frame 12
+'Collecting map data' on frame 13
+'Collecting map data' on frame 14
+'Collecting map data' on frame 15
+'Collecting map data' on frame 16
+'Collecting map data' on frame 17
+'Collecting map data' on frame 18
+'Collecting map data' on frame 19
+'Collecting map data' on frame 20
+'Collecting map data' on frame 21
+'Collecting map data' on frame 22
+'Collecting map data' on frame 23
+'Collecting map data' on frame 24
+'Collecting map data' on frame 25
+'Collecting map data' on frame 26
+'Collecting map data' on frame 27
+'Collecting map data' on frame 28
+'Collecting map data' on frame 29
+'Collecting map data' on frame 30
+'Collecting map data' on frame 31
+'Collecting map data' on frame 32
+'Collecting map data' on frame 33
+'Collecting map data' on frame 34
+'Collecting map data' on frame 35
+'Collecting map data' on frame 36
+'Collecting map data' on frame 37
+'Collecting map data' on frame 38
+'Collecting map data' on frame 39
+'Collecting map data' on frame 40
+'Collecting map data' on frame 41
+'Collecting map data' on frame 42
+'Collecting map data' on frame 43
+'Collecting map data' on frame 44
+'Collecting map data' on frame 45
+'Collecting map data' on frame 46
+'Collecting map data' on frame 47
+'Collecting map data' on frame 48
+'Collecting map data' on frame 49
+'Collecting map data' on frame 50
+'Collecting map data' on frame 51
+'Collecting map data' on frame 52
+'Collecting map data' on frame 53
+'Collecting map data' on frame 54
+'Collecting map data' on frame 55
+'Collecting map data' on frame 56
+'Collecting map data' on frame 57
+'Collecting map data' on frame 58
+'Collecting map data' on frame 59
+'Collecting map data' on frame 60
+'Collecting map data' on frame 61
+'Collecting map data' on frame 62
+'Collecting map data' on frame 63
+'Collecting map data' on frame 64
+'Collecting map data' on frame 65
+'Collecting map data' on frame 66
+'Collecting map data' on frame 67
+'Collecting map data' on frame 68
+'Collecting map data' on frame 69
+'Collecting map data' on frame 70
+'Collecting map data' on frame 71
+'Collecting map data' on frame 72
+'Collecting map data' on frame 73
+'Collecting map data' on frame 74
+'Collecting map data' on frame 75
+'Collecting map data' on frame 76
+'Collecting map data' on frame 77
+'Collecting map data' on frame 78
+'Collecting map data' on frame 79
+'Collecting map data' on frame 80
+'Collecting map data' on frame 81
+'Collecting map data' on frame 82
+'Collecting map data' on frame 83
+'Collecting map data' on frame 84
+'Collecting map data' on frame 85
+'Collecting map data' on frame 86
+'Collecting map data' on frame 87
+'Collecting map data' on frame 88
+'Collecting map data' on frame 89
+'Collecting map data' on frame 90
+'Collecting map data' on frame 91
+'Collecting map data' on frame 92
+'Collecting map data' on frame 93
+'Collecting map data' on frame 94
+'Collecting map data' on frame 95
+'Collecting map data' on frame 96
+'Collecting map data' on frame 97
+'Collecting map data' on frame 98
+'Collecting map data' on frame 99
+'Collecting map data' on frame 100
+Drawing preview
+'Drawing preview' on frame 0
+'Drawing preview' on frame 1000
+'Drawing preview' on frame 2000
+'Drawing preview' on frame 3000
+'Drawing preview' on frame 4000
+'Drawing preview' on frame 5000
+'Drawing preview' on frame 6000
+'Drawing preview' on frame 7000
+'Drawing preview' on frame 8000
+'Drawing preview' on frame 9000
+'Drawing preview' on frame 10000
+'Drawing preview' on frame 11000
+Script 'SDK' line 0: SystemExit occured.
+
+(eval):129:in `exit'exit
+
+Backtrace:
+'SDK' line 0(eval) 129:in `update'
+'SDK' line 0(eval) 129:in `update'
+'SDK_Scene_Base' line 110 in `update_modules'
+'SDK_Scene_Base' line 91 in `main_loop'
+'SDK_Scene_Base' line 47 in `main'
+'SDK_Scene_Base' line 46 in `loop'
+'SDK_Scene_Base' line 49 in `main'
+'Main' line 12
+
+===============================================================================
+Wed Jul 31 19:31:37 Hora de verano romance 2024
+-------------------------------------------------------------------------------
+Collecting map data
+'Collecting map data' on frame 0
+'Collecting map data' on frame 1
+'Collecting map data' on frame 2
+'Collecting map data' on frame 3
+'Collecting map data' on frame 4
+'Collecting map data' on frame 5
+'Collecting map data' on frame 6
+'Collecting map data' on frame 7
+'Collecting map data' on frame 8
+'Collecting map data' on frame 9
+'Collecting map data' on frame 10
+'Collecting map data' on frame 11
+'Collecting map data' on frame 12
+'Collecting map data' on frame 13
+'Collecting map data' on frame 14
+'Collecting map data' on frame 15
+'Collecting map data' on frame 16
+'Collecting map data' on frame 17
+'Collecting map data' on frame 18
+'Collecting map data' on frame 19
+'Collecting map data' on frame 20
+'Collecting map data' on frame 21
+'Collecting map data' on frame 22
+'Collecting map data' on frame 23
+'Collecting map data' on frame 24
+'Collecting map data' on frame 25
+'Collecting map data' on frame 26
+'Collecting map data' on frame 27
+'Collecting map data' on frame 28
+'Collecting map data' on frame 29
+'Collecting map data' on frame 30
+'Collecting map data' on frame 31
+'Collecting map data' on frame 32
+'Collecting map data' on frame 33
+'Collecting map data' on frame 34
+'Collecting map data' on frame 35
+'Collecting map data' on frame 36
+'Collecting map data' on frame 37
+'Collecting map data' on frame 38
+'Collecting map data' on frame 39
+'Collecting map data' on frame 40
+'Collecting map data' on frame 41
+'Collecting map data' on frame 42
+'Collecting map data' on frame 43
+'Collecting map data' on frame 44
+'Collecting map data' on frame 45
+'Collecting map data' on frame 46
+'Collecting map data' on frame 47
+'Collecting map data' on frame 48
+'Collecting map data' on frame 49
+'Collecting map data' on frame 50
+'Collecting map data' on frame 51
+'Collecting map data' on frame 52
+'Collecting map data' on frame 53
+'Collecting map data' on frame 54
+'Collecting map data' on frame 55
+'Collecting map data' on frame 56
+'Collecting map data' on frame 57
+'Collecting map data' on frame 58
+'Collecting map data' on frame 59
+'Collecting map data' on frame 60
+'Collecting map data' on frame 61
+'Collecting map data' on frame 62
+'Collecting map data' on frame 63
+'Collecting map data' on frame 64
+'Collecting map data' on frame 65
+'Collecting map data' on frame 66
+'Collecting map data' on frame 67
+'Collecting map data' on frame 68
+'Collecting map data' on frame 69
+'Collecting map data' on frame 70
+'Collecting map data' on frame 71
+'Collecting map data' on frame 72
+'Collecting map data' on frame 73
+'Collecting map data' on frame 74
+'Collecting map data' on frame 75
+'Collecting map data' on frame 76
+'Collecting map data' on frame 77
+'Collecting map data' on frame 78
+'Collecting map data' on frame 79
+'Collecting map data' on frame 80
+'Collecting map data' on frame 81
+'Collecting map data' on frame 82
+'Collecting map data' on frame 83
+'Collecting map data' on frame 84
+'Collecting map data' on frame 85
+'Collecting map data' on frame 86
+'Collecting map data' on frame 87
+'Collecting map data' on frame 88
+'Collecting map data' on frame 89
+'Collecting map data' on frame 90
+'Collecting map data' on frame 91
+'Collecting map data' on frame 92
+'Collecting map data' on frame 93
+'Collecting map data' on frame 94
+'Collecting map data' on frame 95
+'Collecting map data' on frame 96
+'Collecting map data' on frame 97
+'Collecting map data' on frame 98
+'Collecting map data' on frame 99
+'Collecting map data' on frame 100
+Drawing preview
+'Drawing preview' on frame 0
+'Drawing preview' on frame 1000
+'Drawing preview' on frame 2000
+'Drawing preview' on frame 3000
+'Drawing preview' on frame 4000
+'Drawing preview' on frame 5000
+'Drawing preview' on frame 6000
+'Drawing preview' on frame 7000
+'Drawing preview' on frame 8000
+'Drawing preview' on frame 9000
+'Drawing preview' on frame 10000
+'Drawing preview' on frame 11000
+Script 'SDK' line 0: SystemExit occured.
+
+(eval):129:in `exit'exit
+
+Backtrace:
+'SDK' line 0(eval) 129:in `update'
+'SDK' line 0(eval) 129:in `update'
+'SDK_Scene_Base' line 110 in `update_modules'
+'SDK_Scene_Base' line 91 in `main_loop'
+'SDK_Scene_Base' line 47 in `main'
+'SDK_Scene_Base' line 46 in `loop'
+'SDK_Scene_Base' line 49 in `main'
+'Main' line 12
+
+===============================================================================
+Wed Jul 31 19:32:36 Hora de verano romance 2024
+-------------------------------------------------------------------------------
+Collecting map data
+'Collecting map data' on frame 0
+'Collecting map data' on frame 1
+'Collecting map data' on frame 2
+'Collecting map data' on frame 3
+'Collecting map data' on frame 4
+'Collecting map data' on frame 5
+'Collecting map data' on frame 6
+'Collecting map data' on frame 7
+'Collecting map data' on frame 8
+'Collecting map data' on frame 9
+'Collecting map data' on frame 10
+'Collecting map data' on frame 11
+'Collecting map data' on frame 12
+'Collecting map data' on frame 13
+'Collecting map data' on frame 14
+'Collecting map data' on frame 15
+'Collecting map data' on frame 16
+'Collecting map data' on frame 17
+'Collecting map data' on frame 18
+'Collecting map data' on frame 19
+'Collecting map data' on frame 20
+'Collecting map data' on frame 21
+'Collecting map data' on frame 22
+'Collecting map data' on frame 23
+'Collecting map data' on frame 24
+'Collecting map data' on frame 25
+'Collecting map data' on frame 26
+'Collecting map data' on frame 27
+'Collecting map data' on frame 28
+'Collecting map data' on frame 29
+'Collecting map data' on frame 30
+'Collecting map data' on frame 31
+'Collecting map data' on frame 32
+'Collecting map data' on frame 33
+'Collecting map data' on frame 34
+'Collecting map data' on frame 35
+'Collecting map data' on frame 36
+'Collecting map data' on frame 37
+'Collecting map data' on frame 38
+'Collecting map data' on frame 39
+'Collecting map data' on frame 40
+'Collecting map data' on frame 41
+'Collecting map data' on frame 42
+'Collecting map data' on frame 43
+'Collecting map data' on frame 44
+'Collecting map data' on frame 45
+'Collecting map data' on frame 46
+'Collecting map data' on frame 47
+'Collecting map data' on frame 48
+'Collecting map data' on frame 49
+'Collecting map data' on frame 50
+'Collecting map data' on frame 51
+'Collecting map data' on frame 52
+'Collecting map data' on frame 53
+'Collecting map data' on frame 54
+'Collecting map data' on frame 55
+'Collecting map data' on frame 56
+'Collecting map data' on frame 57
+'Collecting map data' on frame 58
+'Collecting map data' on frame 59
+'Collecting map data' on frame 60
+'Collecting map data' on frame 61
+'Collecting map data' on frame 62
+'Collecting map data' on frame 63
+'Collecting map data' on frame 64
+'Collecting map data' on frame 65
+'Collecting map data' on frame 66
+'Collecting map data' on frame 67
+'Collecting map data' on frame 68
+'Collecting map data' on frame 69
+'Collecting map data' on frame 70
+'Collecting map data' on frame 71
+'Collecting map data' on frame 72
+'Collecting map data' on frame 73
+'Collecting map data' on frame 74
+'Collecting map data' on frame 75
+'Collecting map data' on frame 76
+'Collecting map data' on frame 77
+'Collecting map data' on frame 78
+'Collecting map data' on frame 79
+'Collecting map data' on frame 80
+'Collecting map data' on frame 81
+'Collecting map data' on frame 82
+'Collecting map data' on frame 83
+'Collecting map data' on frame 84
+'Collecting map data' on frame 85
+'Collecting map data' on frame 86
+'Collecting map data' on frame 87
+'Collecting map data' on frame 88
+'Collecting map data' on frame 89
+'Collecting map data' on frame 90
+'Collecting map data' on frame 91
+'Collecting map data' on frame 92
+'Collecting map data' on frame 93
+'Collecting map data' on frame 94
+'Collecting map data' on frame 95
+'Collecting map data' on frame 96
+'Collecting map data' on frame 97
+'Collecting map data' on frame 98
+'Collecting map data' on frame 99
+'Collecting map data' on frame 100
+Drawing preview
+'Drawing preview' on frame 0
+'Drawing preview' on frame 1000
+'Drawing preview' on frame 2000
+'Drawing preview' on frame 3000
+'Drawing preview' on frame 4000
+'Drawing preview' on frame 5000
+'Drawing preview' on frame 6000
+'Drawing preview' on frame 7000
+'Drawing preview' on frame 8000
+'Drawing preview' on frame 9000
+'Drawing preview' on frame 10000
+'Drawing preview' on frame 11000
+Script 'SDK' line 0: SystemExit occured.
+
+(eval):129:in `exit'exit
+
+Backtrace:
+'SDK' line 0(eval) 129:in `update'
+'SDK' line 0(eval) 129:in `update'
+'SDK_Scene_Base' line 110 in `update_modules'
+'SDK_Scene_Base' line 91 in `main_loop'
+'SDK_Scene_Base' line 47 in `main'
+'SDK_Scene_Base' line 46 in `loop'
+'SDK_Scene_Base' line 49 in `main'
+'Main' line 12
+
+===============================================================================
+Wed Jul 31 19:33:21 Hora de verano romance 2024
+-------------------------------------------------------------------------------
+Collecting map data
+'Collecting map data' on frame 0
+'Collecting map data' on frame 1
+'Collecting map data' on frame 2
+'Collecting map data' on frame 3
+'Collecting map data' on frame 4
+'Collecting map data' on frame 5
+'Collecting map data' on frame 6
+'Collecting map data' on frame 7
+'Collecting map data' on frame 8
+'Collecting map data' on frame 9
+'Collecting map data' on frame 10
+'Collecting map data' on frame 11
+'Collecting map data' on frame 12
+'Collecting map data' on frame 13
+'Collecting map data' on frame 14
+'Collecting map data' on frame 15
+'Collecting map data' on frame 16
+'Collecting map data' on frame 17
+'Collecting map data' on frame 18
+'Collecting map data' on frame 19
+'Collecting map data' on frame 20
+'Collecting map data' on frame 21
+'Collecting map data' on frame 22
+'Collecting map data' on frame 23
+'Collecting map data' on frame 24
+'Collecting map data' on frame 25
+'Collecting map data' on frame 26
+'Collecting map data' on frame 27
+'Collecting map data' on frame 28
+'Collecting map data' on frame 29
+'Collecting map data' on frame 30
+'Collecting map data' on frame 31
+'Collecting map data' on frame 32
+'Collecting map data' on frame 33
+'Collecting map data' on frame 34
+'Collecting map data' on frame 35
+'Collecting map data' on frame 36
+'Collecting map data' on frame 37
+'Collecting map data' on frame 38
+'Collecting map data' on frame 39
+'Collecting map data' on frame 40
+'Collecting map data' on frame 41
+'Collecting map data' on frame 42
+'Collecting map data' on frame 43
+'Collecting map data' on frame 44
+'Collecting map data' on frame 45
+'Collecting map data' on frame 46
+'Collecting map data' on frame 47
+'Collecting map data' on frame 48
+'Collecting map data' on frame 49
+'Collecting map data' on frame 50
+'Collecting map data' on frame 51
+'Collecting map data' on frame 52
+'Collecting map data' on frame 53
+'Collecting map data' on frame 54
+'Collecting map data' on frame 55
+'Collecting map data' on frame 56
+'Collecting map data' on frame 57
+'Collecting map data' on frame 58
+'Collecting map data' on frame 59
+'Collecting map data' on frame 60
+'Collecting map data' on frame 61
+'Collecting map data' on frame 62
+'Collecting map data' on frame 63
+'Collecting map data' on frame 64
+'Collecting map data' on frame 65
+'Collecting map data' on frame 66
+'Collecting map data' on frame 67
+'Collecting map data' on frame 68
+'Collecting map data' on frame 69
+'Collecting map data' on frame 70
+'Collecting map data' on frame 71
+'Collecting map data' on frame 72
+'Collecting map data' on frame 73
+'Collecting map data' on frame 74
+'Collecting map data' on frame 75
+'Collecting map data' on frame 76
+'Collecting map data' on frame 77
+'Collecting map data' on frame 78
+'Collecting map data' on frame 79
+'Collecting map data' on frame 80
+'Collecting map data' on frame 81
+'Collecting map data' on frame 82
+'Collecting map data' on frame 83
+'Collecting map data' on frame 84
+'Collecting map data' on frame 85
+'Collecting map data' on frame 86
+'Collecting map data' on frame 87
+'Collecting map data' on frame 88
+'Collecting map data' on frame 89
+'Collecting map data' on frame 90
+'Collecting map data' on frame 91
+'Collecting map data' on frame 92
+'Collecting map data' on frame 93
+'Collecting map data' on frame 94
+'Collecting map data' on frame 95
+'Collecting map data' on frame 96
+'Collecting map data' on frame 97
+'Collecting map data' on frame 98
+'Collecting map data' on frame 99
+'Collecting map data' on frame 100
+Drawing preview
+'Drawing preview' on frame 0
+'Drawing preview' on frame 1000
+'Drawing preview' on frame 2000
+'Drawing preview' on frame 3000
+'Drawing preview' on frame 4000
+'Drawing preview' on frame 5000
+'Drawing preview' on frame 6000
+'Drawing preview' on frame 7000
+'Drawing preview' on frame 8000
+'Drawing preview' on frame 9000
+'Drawing preview' on frame 10000
+'Drawing preview' on frame 11000
+Saving "Tochiman inn"
+'Saving "Tochiman inn"' on frame 0
+'Saving "Tochiman inn"' on frame 1
+'Saving "Tochiman inn"' on frame 2
+'Saving "Tochiman inn"' on frame 3
+'Saving "Tochiman inn"' on frame 4
+'Saving "Tochiman inn"' on frame 5
+'Saving "Tochiman inn"' on frame 6
+'Saving "Tochiman inn"' on frame 7
+'Saving "Tochiman inn"' on frame 8
+'Saving "Tochiman inn"' on frame 9
+'Saving "Tochiman inn"' on frame 10
+'Saving "Tochiman inn"' on frame 11
+'Saving "Tochiman inn"' on frame 12
+'Saving "Tochiman inn"' on frame 13
+'Saving "Tochiman inn"' on frame 14
+'Saving "Tochiman inn"' on frame 15
+'Saving "Tochiman inn"' on frame 16
+'Saving "Tochiman inn"' on frame 17
+'Saving "Tochiman inn"' on frame 18
+'Saving "Tochiman inn"' on frame 19
+'Saving "Tochiman inn"' on frame 20
+'Saving "Tochiman inn"' on frame 21
+'Saving "Tochiman inn"' on frame 22
+'Saving "Tochiman inn"' on frame 23
+'Saving "Tochiman inn"' on frame 24
+'Saving "Tochiman inn"' on frame 25
+'Saving "Tochiman inn"' on frame 26
+'Saving "Tochiman inn"' on frame 27
+'Saving "Tochiman inn"' on frame 28
+'Saving "Tochiman inn"' on frame 29
+'Saving "Tochiman inn"' on frame 30
+'Saving "Tochiman inn"' on frame 31
+'Saving "Tochiman inn"' on frame 32
+'Saving "Tochiman inn"' on frame 33
+'Saving "Tochiman inn"' on frame 34
+'Saving "Tochiman inn"' on frame 35
+'Saving "Tochiman inn"' on frame 36
+'Saving "Tochiman inn"' on frame 37
+'Saving "Tochiman inn"' on frame 38
+'Saving "Tochiman inn"' on frame 39
+'Saving "Tochiman inn"' on frame 40
+'Saving "Tochiman inn"' on frame 41
+'Saving "Tochiman inn"' on frame 42
+'Saving "Tochiman inn"' on frame 43
+'Saving "Tochiman inn"' on frame 44
+'Saving "Tochiman inn"' on frame 45
+'Saving "Tochiman inn"' on frame 46
+'Saving "Tochiman inn"' on frame 47
+'Saving "Tochiman inn"' on frame 48
+'Saving "Tochiman inn"' on frame 49
+'Saving "Tochiman inn"' on frame 50
+'Saving "Tochiman inn"' on frame 51
+'Saving "Tochiman inn"' on frame 52
+'Saving "Tochiman inn"' on frame 53
+'Saving "Tochiman inn"' on frame 54
+'Saving "Tochiman inn"' on frame 55
+'Saving "Tochiman inn"' on frame 56
+'Saving "Tochiman inn"' on frame 57
+'Saving "Tochiman inn"' on frame 58
+'Saving "Tochiman inn"' on frame 59
+'Saving "Tochiman inn"' on frame 60
+'Saving "Tochiman inn"' on frame 61
+'Saving "Tochiman inn"' on frame 62
+'Saving "Tochiman inn"' on frame 63
+'Saving "Tochiman inn"' on frame 64
+'Saving "Tochiman inn"' on frame 65
+'Saving "Tochiman inn"' on frame 66
+'Saving "Tochiman inn"' on frame 67
+'Saving "Tochiman inn"' on frame 68
+'Saving "Tochiman inn"' on frame 69
+'Saving "Tochiman inn"' on frame 70
+'Saving "Tochiman inn"' on frame 71
+'Saving "Tochiman inn"' on frame 72
+'Saving "Tochiman inn"' on frame 73
+'Saving "Tochiman inn"' on frame 74
+'Saving "Tochiman inn"' on frame 75
+'Saving "Tochiman inn"' on frame 76
+'Saving "Tochiman inn"' on frame 77
+'Saving "Tochiman inn"' on frame 78
+'Saving "Tochiman inn"' on frame 79
+'Saving "Tochiman inn"' on frame 80
+'Saving "Tochiman inn"' on frame 81
+'Saving "Tochiman inn"' on frame 82
+'Saving "Tochiman inn"' on frame 83
+'Saving "Tochiman inn"' on frame 84
+'Saving "Tochiman inn"' on frame 85
+'Saving "Tochiman inn"' on frame 86
+'Saving "Tochiman inn"' on frame 87
+'Saving "Tochiman inn"' on frame 88
+'Saving "Tochiman inn"' on frame 89
+'Saving "Tochiman inn"' on frame 90
+'Saving "Tochiman inn"' on frame 91
+'Saving "Tochiman inn"' on frame 92
+'Saving "Tochiman inn"' on frame 93
+'Saving "Tochiman inn"' on frame 94
+'Saving "Tochiman inn"' on frame 95
+'Saving "Tochiman inn"' on frame 96
+'Saving "Tochiman inn"' on frame 97
+'Saving "Tochiman inn"' on frame 98
+'Saving "Tochiman inn"' on frame 99
+Saving "Tochiman inn"
+'Saving "Tochiman inn"' on frame 0
+'Saving "Tochiman inn"' on frame 1
+'Saving "Tochiman inn"' on frame 2
+'Saving "Tochiman inn"' on frame 3
+'Saving "Tochiman inn"' on frame 4
+'Saving "Tochiman inn"' on frame 5
+Script 'SDK' line 0: SystemExit occured.
+
+(eval):166:in `exit'exit
+
+Backtrace:
+'SDK' line 0(eval) 166:in `update'
+'SDK' line 0(eval) 166:in `update'
+'Bitmap.make_png' line 118 in `make_bitmap_data'
+'Bitmap.make_png' line 117 in `each'
+'Bitmap.make_png' line 117 in `make_bitmap_data'
+'Bitmap.make_png' line 107 in `each'
+'Bitmap.make_png' line 107 in `make_bitmap_data'
+'Bitmap.make_png' line 94 in `make_idat'
+'Bitmap.make_png' line 61 in `make_png'
+'Spriteset_Map' line 318 in `make_png'
+'Scene_Main' line 243 in `save'
+'Scene_Main' line 130 in `update_top'
+'Scene_Main' line 95 in `update'
+'SDK_Scene_Base' line 104 in `main_loop'
+'SDK_Scene_Base' line 47 in `main'
+'SDK_Scene_Base' line 46 in `loop'
+'SDK_Scene_Base' line 49 in `main'
+'Main' line 12
+
+===============================================================================
+Wed Jul 31 20:42:32 Hora de verano romance 2024
+-------------------------------------------------------------------------------
+Collecting map data
+'Collecting map data' on frame 0
+'Collecting map data' on frame 1
+'Collecting map data' on frame 2
+'Collecting map data' on frame 3
+'Collecting map data' on frame 4
+'Collecting map data' on frame 5
+'Collecting map data' on frame 6
+'Collecting map data' on frame 7
+'Collecting map data' on frame 8
+'Collecting map data' on frame 9
+'Collecting map data' on frame 10
+'Collecting map data' on frame 11
+'Collecting map data' on frame 12
+'Collecting map data' on frame 13
+'Collecting map data' on frame 14
+'Collecting map data' on frame 15
+'Collecting map data' on frame 16
+'Collecting map data' on frame 17
+'Collecting map data' on frame 18
+'Collecting map data' on frame 19
+'Collecting map data' on frame 20
+'Collecting map data' on frame 21
+'Collecting map data' on frame 22
+'Collecting map data' on frame 23
+'Collecting map data' on frame 24
+'Collecting map data' on frame 25
+'Collecting map data' on frame 26
+'Collecting map data' on frame 27
+'Collecting map data' on frame 28
+'Collecting map data' on frame 29
+'Collecting map data' on frame 30
+'Collecting map data' on frame 31
+'Collecting map data' on frame 32
+'Collecting map data' on frame 33
+'Collecting map data' on frame 34
+'Collecting map data' on frame 35
+'Collecting map data' on frame 36
+'Collecting map data' on frame 37
+'Collecting map data' on frame 38
+'Collecting map data' on frame 39
+'Collecting map data' on frame 40
+'Collecting map data' on frame 41
+'Collecting map data' on frame 42
+'Collecting map data' on frame 43
+'Collecting map data' on frame 44
+'Collecting map data' on frame 45
+'Collecting map data' on frame 46
+'Collecting map data' on frame 47
+'Collecting map data' on frame 48
+'Collecting map data' on frame 49
+'Collecting map data' on frame 50
+'Collecting map data' on frame 51
+'Collecting map data' on frame 52
+'Collecting map data' on frame 53
+'Collecting map data' on frame 54
+'Collecting map data' on frame 55
+'Collecting map data' on frame 56
+'Collecting map data' on frame 57
+'Collecting map data' on frame 58
+'Collecting map data' on frame 59
+'Collecting map data' on frame 60
+'Collecting map data' on frame 61
+'Collecting map data' on frame 62
+'Collecting map data' on frame 63
+'Collecting map data' on frame 64
+'Collecting map data' on frame 65
+'Collecting map data' on frame 66
+'Collecting map data' on frame 67
+'Collecting map data' on frame 68
+'Collecting map data' on frame 69
+'Collecting map data' on frame 70
+'Collecting map data' on frame 71
+'Collecting map data' on frame 72
+'Collecting map data' on frame 73
+'Collecting map data' on frame 74
+'Collecting map data' on frame 75
+'Collecting map data' on frame 76
+'Collecting map data' on frame 77
+'Collecting map data' on frame 78
+'Collecting map data' on frame 79
+'Collecting map data' on frame 80
+'Collecting map data' on frame 81
+'Collecting map data' on frame 82
+'Collecting map data' on frame 83
+'Collecting map data' on frame 84
+'Collecting map data' on frame 85
+'Collecting map data' on frame 86
+'Collecting map data' on frame 87
+'Collecting map data' on frame 88
+'Collecting map data' on frame 89
+'Collecting map data' on frame 90
+'Collecting map data' on frame 91
+'Collecting map data' on frame 92
+'Collecting map data' on frame 93
+'Collecting map data' on frame 94
+'Collecting map data' on frame 95
+'Collecting map data' on frame 96
+'Collecting map data' on frame 97
+'Collecting map data' on frame 98
+'Collecting map data' on frame 99
+'Collecting map data' on frame 100
+Drawing preview
+'Drawing preview' on frame 0
+'Drawing preview' on frame 1000
+'Drawing preview' on frame 2000
+'Drawing preview' on frame 3000
+'Drawing preview' on frame 4000
+'Drawing preview' on frame 5000
+'Drawing preview' on frame 6000
+'Drawing preview' on frame 7000
+'Drawing preview' on frame 8000
+'Drawing preview' on frame 9000
+'Drawing preview' on frame 10000
+'Drawing preview' on frame 11000
+Saving "Tochiman inn"
+'Saving "Tochiman inn"' on frame 0
+'Saving "Tochiman inn"' on frame 1
+'Saving "Tochiman inn"' on frame 2
+'Saving "Tochiman inn"' on frame 3
+'Saving "Tochiman inn"' on frame 4
+'Saving "Tochiman inn"' on frame 5
+'Saving "Tochiman inn"' on frame 6
+'Saving "Tochiman inn"' on frame 7
+'Saving "Tochiman inn"' on frame 8
+'Saving "Tochiman inn"' on frame 9
+'Saving "Tochiman inn"' on frame 10
+'Saving "Tochiman inn"' on frame 11
+'Saving "Tochiman inn"' on frame 12
+'Saving "Tochiman inn"' on frame 13
+'Saving "Tochiman inn"' on frame 14
+'Saving "Tochiman inn"' on frame 15
+'Saving "Tochiman inn"' on frame 16
+'Saving "Tochiman inn"' on frame 17
+'Saving "Tochiman inn"' on frame 18
+'Saving "Tochiman inn"' on frame 19
+'Saving "Tochiman inn"' on frame 20
+'Saving "Tochiman inn"' on frame 21
+'Saving "Tochiman inn"' on frame 22
+'Saving "Tochiman inn"' on frame 23
+'Saving "Tochiman inn"' on frame 24
+'Saving "Tochiman inn"' on frame 25
+'Saving "Tochiman inn"' on frame 26
+'Saving "Tochiman inn"' on frame 27
+'Saving "Tochiman inn"' on frame 28
+'Saving "Tochiman inn"' on frame 29
+'Saving "Tochiman inn"' on frame 30
+'Saving "Tochiman inn"' on frame 31
+'Saving "Tochiman inn"' on frame 32
+'Saving "Tochiman inn"' on frame 33
+'Saving "Tochiman inn"' on frame 34
+'Saving "Tochiman inn"' on frame 35
+'Saving "Tochiman inn"' on frame 36
+'Saving "Tochiman inn"' on frame 37
+'Saving "Tochiman inn"' on frame 38
+'Saving "Tochiman inn"' on frame 39
+'Saving "Tochiman inn"' on frame 40
+'Saving "Tochiman inn"' on frame 41
+'Saving "Tochiman inn"' on frame 42
+'Saving "Tochiman inn"' on frame 43
+'Saving "Tochiman inn"' on frame 44
+'Saving "Tochiman inn"' on frame 45
+'Saving "Tochiman inn"' on frame 46
+'Saving "Tochiman inn"' on frame 47
+'Saving "Tochiman inn"' on frame 48
+'Saving "Tochiman inn"' on frame 49
+'Saving "Tochiman inn"' on frame 50
+'Saving "Tochiman inn"' on frame 51
+'Saving "Tochiman inn"' on frame 52
+'Saving "Tochiman inn"' on frame 53
+'Saving "Tochiman inn"' on frame 54
+'Saving "Tochiman inn"' on frame 55
+'Saving "Tochiman inn"' on frame 56
+'Saving "Tochiman inn"' on frame 57
+'Saving "Tochiman inn"' on frame 58
+'Saving "Tochiman inn"' on frame 59
+'Saving "Tochiman inn"' on frame 60
+'Saving "Tochiman inn"' on frame 61
+'Saving "Tochiman inn"' on frame 62
+'Saving "Tochiman inn"' on frame 63
+'Saving "Tochiman inn"' on frame 64
+'Saving "Tochiman inn"' on frame 65
+'Saving "Tochiman inn"' on frame 66
+'Saving "Tochiman inn"' on frame 67
+'Saving "Tochiman inn"' on frame 68
+'Saving "Tochiman inn"' on frame 69
+'Saving "Tochiman inn"' on frame 70
+'Saving "Tochiman inn"' on frame 71
+'Saving "Tochiman inn"' on frame 72
+'Saving "Tochiman inn"' on frame 73
+'Saving "Tochiman inn"' on frame 74
+'Saving "Tochiman inn"' on frame 75
+'Saving "Tochiman inn"' on frame 76
+'Saving "Tochiman inn"' on frame 77
+'Saving "Tochiman inn"' on frame 78
+'Saving "Tochiman inn"' on frame 79
+'Saving "Tochiman inn"' on frame 80
+'Saving "Tochiman inn"' on frame 81
+'Saving "Tochiman inn"' on frame 82
+'Saving "Tochiman inn"' on frame 83
+'Saving "Tochiman inn"' on frame 84
+'Saving "Tochiman inn"' on frame 85
+'Saving "Tochiman inn"' on frame 86
+'Saving "Tochiman inn"' on frame 87
+'Saving "Tochiman inn"' on frame 88
+'Saving "Tochiman inn"' on frame 89
+'Saving "Tochiman inn"' on frame 90
+'Saving "Tochiman inn"' on frame 91
+'Saving "Tochiman inn"' on frame 92
+'Saving "Tochiman inn"' on frame 93
+'Saving "Tochiman inn"' on frame 94
+'Saving "Tochiman inn"' on frame 95
+'Saving "Tochiman inn"' on frame 96
+'Saving "Tochiman inn"' on frame 97
+'Saving "Tochiman inn"' on frame 98
+'Saving "Tochiman inn"' on frame 99
+Script 'SDK' line 0: SystemExit occured.
+
+(eval):129:in `exit'exit
+
+Backtrace:
+'SDK' line 0(eval) 129:in `update'
+'SDK' line 0(eval) 129:in `update'
+'SDK_Scene_Base' line 110 in `update_modules'
+'SDK_Scene_Base' line 91 in `main_loop'
+'SDK_Scene_Base' line 47 in `main'
+'SDK_Scene_Base' line 46 in `loop'
+'SDK_Scene_Base' line 49 in `main'
+'Main' line 12
+
+===============================================================================
+Wed Jul 31 20:55:47 Hora de verano romance 2024
+-------------------------------------------------------------------------------
+Collecting map data
+'Collecting map data' on frame 0
+'Collecting map data' on frame 1
+'Collecting map data' on frame 2
+'Collecting map data' on frame 3
+'Collecting map data' on frame 4
+'Collecting map data' on frame 5
+'Collecting map data' on frame 6
+'Collecting map data' on frame 7
+'Collecting map data' on frame 8
+'Collecting map data' on frame 9
+'Collecting map data' on frame 10
+'Collecting map data' on frame 11
+'Collecting map data' on frame 12
+'Collecting map data' on frame 13
+'Collecting map data' on frame 14
+'Collecting map data' on frame 15
+'Collecting map data' on frame 16
+'Collecting map data' on frame 17
+'Collecting map data' on frame 18
+'Collecting map data' on frame 19
+'Collecting map data' on frame 20
+'Collecting map data' on frame 21
+'Collecting map data' on frame 22
+'Collecting map data' on frame 23
+'Collecting map data' on frame 24
+'Collecting map data' on frame 25
+'Collecting map data' on frame 26
+'Collecting map data' on frame 27
+'Collecting map data' on frame 28
+'Collecting map data' on frame 29
+'Collecting map data' on frame 30
+'Collecting map data' on frame 31
+'Collecting map data' on frame 32
+'Collecting map data' on frame 33
+'Collecting map data' on frame 34
+'Collecting map data' on frame 35
+'Collecting map data' on frame 36
+'Collecting map data' on frame 37
+'Collecting map data' on frame 38
+'Collecting map data' on frame 39
+'Collecting map data' on frame 40
+'Collecting map data' on frame 41
+'Collecting map data' on frame 42
+'Collecting map data' on frame 43
+'Collecting map data' on frame 44
+'Collecting map data' on frame 45
+'Collecting map data' on frame 46
+'Collecting map data' on frame 47
+'Collecting map data' on frame 48
+'Collecting map data' on frame 49
+'Collecting map data' on frame 50
+'Collecting map data' on frame 51
+'Collecting map data' on frame 52
+'Collecting map data' on frame 53
+'Collecting map data' on frame 54
+'Collecting map data' on frame 55
+'Collecting map data' on frame 56
+'Collecting map data' on frame 57
+'Collecting map data' on frame 58
+'Collecting map data' on frame 59
+'Collecting map data' on frame 60
+'Collecting map data' on frame 61
+'Collecting map data' on frame 62
+'Collecting map data' on frame 63
+'Collecting map data' on frame 64
+'Collecting map data' on frame 65
+'Collecting map data' on frame 66
+'Collecting map data' on frame 67
+'Collecting map data' on frame 68
+'Collecting map data' on frame 69
+'Collecting map data' on frame 70
+'Collecting map data' on frame 71
+'Collecting map data' on frame 72
+'Collecting map data' on frame 73
+'Collecting map data' on frame 74
+'Collecting map data' on frame 75
+'Collecting map data' on frame 76
+'Collecting map data' on frame 77
+'Collecting map data' on frame 78
+'Collecting map data' on frame 79
+'Collecting map data' on frame 80
+'Collecting map data' on frame 81
+'Collecting map data' on frame 82
+'Collecting map data' on frame 83
+'Collecting map data' on frame 84
+'Collecting map data' on frame 85
+'Collecting map data' on frame 86
+'Collecting map data' on frame 87
+'Collecting map data' on frame 88
+'Collecting map data' on frame 89
+'Collecting map data' on frame 90
+'Collecting map data' on frame 91
+'Collecting map data' on frame 92
+'Collecting map data' on frame 93
+'Collecting map data' on frame 94
+'Collecting map data' on frame 95
+'Collecting map data' on frame 96
+'Collecting map data' on frame 97
+'Collecting map data' on frame 98
+'Collecting map data' on frame 99
+'Collecting map data' on frame 100
+Drawing preview
+'Drawing preview' on frame 0
+'Drawing preview' on frame 1000
+'Drawing preview' on frame 2000
+'Drawing preview' on frame 3000
+'Drawing preview' on frame 4000
+'Drawing preview' on frame 5000
+'Drawing preview' on frame 6000
+'Drawing preview' on frame 7000
+'Drawing preview' on frame 8000
+'Drawing preview' on frame 9000
+'Drawing preview' on frame 10000
+'Drawing preview' on frame 11000
+Saving "Tochiman inn"
+'Saving "Tochiman inn"' on frame 0
+'Saving "Tochiman inn"' on frame 1
+'Saving "Tochiman inn"' on frame 2
+'Saving "Tochiman inn"' on frame 3
+'Saving "Tochiman inn"' on frame 4
+'Saving "Tochiman inn"' on frame 5
+'Saving "Tochiman inn"' on frame 6
+'Saving "Tochiman inn"' on frame 7
+'Saving "Tochiman inn"' on frame 8
+'Saving "Tochiman inn"' on frame 9
+'Saving "Tochiman inn"' on frame 10
+'Saving "Tochiman inn"' on frame 11
+'Saving "Tochiman inn"' on frame 12
+'Saving "Tochiman inn"' on frame 13
+'Saving "Tochiman inn"' on frame 14
+'Saving "Tochiman inn"' on frame 15
+'Saving "Tochiman inn"' on frame 16
+'Saving "Tochiman inn"' on frame 17
+'Saving "Tochiman inn"' on frame 18
+'Saving "Tochiman inn"' on frame 19
+'Saving "Tochiman inn"' on frame 20
+'Saving "Tochiman inn"' on frame 21
+'Saving "Tochiman inn"' on frame 22
+'Saving "Tochiman inn"' on frame 23
+'Saving "Tochiman inn"' on frame 24
+'Saving "Tochiman inn"' on frame 25
+'Saving "Tochiman inn"' on frame 26
+'Saving "Tochiman inn"' on frame 27
+'Saving "Tochiman inn"' on frame 28
+'Saving "Tochiman inn"' on frame 29
+'Saving "Tochiman inn"' on frame 30
+'Saving "Tochiman inn"' on frame 31
+'Saving "Tochiman inn"' on frame 32
+'Saving "Tochiman inn"' on frame 33
+'Saving "Tochiman inn"' on frame 34
+'Saving "Tochiman inn"' on frame 35
+'Saving "Tochiman inn"' on frame 36
+'Saving "Tochiman inn"' on frame 37
+'Saving "Tochiman inn"' on frame 38
+'Saving "Tochiman inn"' on frame 39
+'Saving "Tochiman inn"' on frame 40
+'Saving "Tochiman inn"' on frame 41
+'Saving "Tochiman inn"' on frame 42
+'Saving "Tochiman inn"' on frame 43
+'Saving "Tochiman inn"' on frame 44
+'Saving "Tochiman inn"' on frame 45
+'Saving "Tochiman inn"' on frame 46
+'Saving "Tochiman inn"' on frame 47
+'Saving "Tochiman inn"' on frame 48
+'Saving "Tochiman inn"' on frame 49
+'Saving "Tochiman inn"' on frame 50
+'Saving "Tochiman inn"' on frame 51
+'Saving "Tochiman inn"' on frame 52
+'Saving "Tochiman inn"' on frame 53
+'Saving "Tochiman inn"' on frame 54
+'Saving "Tochiman inn"' on frame 55
+'Saving "Tochiman inn"' on frame 56
+'Saving "Tochiman inn"' on frame 57
+'Saving "Tochiman inn"' on frame 58
+'Saving "Tochiman inn"' on frame 59
+'Saving "Tochiman inn"' on frame 60
+'Saving "Tochiman inn"' on frame 61
+'Saving "Tochiman inn"' on frame 62
+'Saving "Tochiman inn"' on frame 63
+'Saving "Tochiman inn"' on frame 64
+'Saving "Tochiman inn"' on frame 65
+'Saving "Tochiman inn"' on frame 66
+'Saving "Tochiman inn"' on frame 67
+'Saving "Tochiman inn"' on frame 68
+'Saving "Tochiman inn"' on frame 69
+'Saving "Tochiman inn"' on frame 70
+'Saving "Tochiman inn"' on frame 71
+'Saving "Tochiman inn"' on frame 72
+'Saving "Tochiman inn"' on frame 73
+'Saving "Tochiman inn"' on frame 74
+'Saving "Tochiman inn"' on frame 75
+'Saving "Tochiman inn"' on frame 76
+'Saving "Tochiman inn"' on frame 77
+'Saving "Tochiman inn"' on frame 78
+'Saving "Tochiman inn"' on frame 79
+'Saving "Tochiman inn"' on frame 80
+'Saving "Tochiman inn"' on frame 81
+'Saving "Tochiman inn"' on frame 82
+'Saving "Tochiman inn"' on frame 83
+'Saving "Tochiman inn"' on frame 84
+'Saving "Tochiman inn"' on frame 85
+'Saving "Tochiman inn"' on frame 86
+'Saving "Tochiman inn"' on frame 87
+'Saving "Tochiman inn"' on frame 88
+'Saving "Tochiman inn"' on frame 89
+'Saving "Tochiman inn"' on frame 90
+'Saving "Tochiman inn"' on frame 91
+'Saving "Tochiman inn"' on frame 92
+'Saving "Tochiman inn"' on frame 93
+'Saving "Tochiman inn"' on frame 94
+'Saving "Tochiman inn"' on frame 95
+'Saving "Tochiman inn"' on frame 96
+'Saving "Tochiman inn"' on frame 97
+'Saving "Tochiman inn"' on frame 98
+'Saving "Tochiman inn"' on frame 99
+Script 'SDK' line 0: SystemExit occured.
+
+(eval):129:in `exit'exit
+
+Backtrace:
+'SDK' line 0(eval) 129:in `update'
+'SDK' line 0(eval) 129:in `update'
+'SDK_Scene_Base' line 110 in `update_modules'
+'SDK_Scene_Base' line 91 in `main_loop'
+'SDK_Scene_Base' line 47 in `main'
+'SDK_Scene_Base' line 46 in `loop'
+'SDK_Scene_Base' line 49 in `main'
+'Main' line 12
+
+===============================================================================
+Wed Jul 31 21:04:13 Hora de verano romance 2024
+-------------------------------------------------------------------------------
+Collecting map data
+'Collecting map data' on frame 0
+'Collecting map data' on frame 1
+'Collecting map data' on frame 2
+'Collecting map data' on frame 3
+'Collecting map data' on frame 4
+'Collecting map data' on frame 5
+'Collecting map data' on frame 6
+'Collecting map data' on frame 7
+'Collecting map data' on frame 8
+'Collecting map data' on frame 9
+'Collecting map data' on frame 10
+'Collecting map data' on frame 11
+'Collecting map data' on frame 12
+'Collecting map data' on frame 13
+'Collecting map data' on frame 14
+'Collecting map data' on frame 15
+'Collecting map data' on frame 16
+'Collecting map data' on frame 17
+'Collecting map data' on frame 18
+'Collecting map data' on frame 19
+'Collecting map data' on frame 20
+'Collecting map data' on frame 21
+'Collecting map data' on frame 22
+'Collecting map data' on frame 23
+'Collecting map data' on frame 24
+'Collecting map data' on frame 25
+'Collecting map data' on frame 26
+'Collecting map data' on frame 27
+'Collecting map data' on frame 28
+'Collecting map data' on frame 29
+'Collecting map data' on frame 30
+'Collecting map data' on frame 31
+'Collecting map data' on frame 32
+'Collecting map data' on frame 33
+'Collecting map data' on frame 34
+'Collecting map data' on frame 35
+'Collecting map data' on frame 36
+'Collecting map data' on frame 37
+'Collecting map data' on frame 38
+'Collecting map data' on frame 39
+'Collecting map data' on frame 40
+'Collecting map data' on frame 41
+'Collecting map data' on frame 42
+'Collecting map data' on frame 43
+'Collecting map data' on frame 44
+'Collecting map data' on frame 45
+'Collecting map data' on frame 46
+'Collecting map data' on frame 47
+'Collecting map data' on frame 48
+'Collecting map data' on frame 49
+'Collecting map data' on frame 50
+'Collecting map data' on frame 51
+'Collecting map data' on frame 52
+'Collecting map data' on frame 53
+'Collecting map data' on frame 54
+'Collecting map data' on frame 55
+'Collecting map data' on frame 56
+'Collecting map data' on frame 57
+'Collecting map data' on frame 58
+'Collecting map data' on frame 59
+'Collecting map data' on frame 60
+'Collecting map data' on frame 61
+'Collecting map data' on frame 62
+'Collecting map data' on frame 63
+'Collecting map data' on frame 64
+'Collecting map data' on frame 65
+'Collecting map data' on frame 66
+'Collecting map data' on frame 67
+'Collecting map data' on frame 68
+'Collecting map data' on frame 69
+'Collecting map data' on frame 70
+'Collecting map data' on frame 71
+'Collecting map data' on frame 72
+'Collecting map data' on frame 73
+'Collecting map data' on frame 74
+'Collecting map data' on frame 75
+'Collecting map data' on frame 76
+'Collecting map data' on frame 77
+'Collecting map data' on frame 78
+'Collecting map data' on frame 79
+'Collecting map data' on frame 80
+'Collecting map data' on frame 81
+'Collecting map data' on frame 82
+'Collecting map data' on frame 83
+'Collecting map data' on frame 84
+'Collecting map data' on frame 85
+'Collecting map data' on frame 86
+'Collecting map data' on frame 87
+'Collecting map data' on frame 88
+'Collecting map data' on frame 89
+'Collecting map data' on frame 90
+'Collecting map data' on frame 91
+'Collecting map data' on frame 92
+'Collecting map data' on frame 93
+'Collecting map data' on frame 94
+'Collecting map data' on frame 95
+'Collecting map data' on frame 96
+'Collecting map data' on frame 97
+'Collecting map data' on frame 98
+'Collecting map data' on frame 99
+'Collecting map data' on frame 100
+Drawing preview
+'Drawing preview' on frame 0
+'Drawing preview' on frame 1000
+'Drawing preview' on frame 2000
+'Drawing preview' on frame 3000
+'Drawing preview' on frame 4000
+'Drawing preview' on frame 5000
+'Drawing preview' on frame 6000
+'Drawing preview' on frame 7000
+'Drawing preview' on frame 8000
+'Drawing preview' on frame 9000
+'Drawing preview' on frame 10000
+'Drawing preview' on frame 11000
+Saving "Tochiman inn"
+'Saving "Tochiman inn"

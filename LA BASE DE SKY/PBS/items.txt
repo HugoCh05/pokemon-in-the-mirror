@@ -6814,5 +6814,61 @@ Name = Nesoberi de Riko
 NamePlural = Nesoberis de Riko
 Pocket = 1
 Price = 0
-Description = Muñeco tumbado de Riko. Sube el Ataque especial del portador en combate y lo vuelve más amistoso.
+Description = Muñeco tumbado de Riko. Sube el ataque especial del portador en combate y lo vuelve más amistoso.
+#-------------------------------
+[NESOHANAMARU]
+Name = Nesoberi de Hanamaru
+NamePlural = Nesoberis de Hanamaru
+Pocket = 1
+Price = 0
+Description = Muñeco tumbado de Hanamaru. Recupera los PS del portador en combate y lo vuelve más amistoso.
+#-------------------------------
+[NESOYOU]
+Name = Nesoberi de You
+NamePlural = Nesoberis de You
+Pocket = 1
+Price = 0
+Description = Muñeco tumbado de You. Sube la velocidad del portador en combate y lo vuelve más amistoso.
+#-------------------------------
+[NESOCHIKA]
+Name = Nesoberi de Chika
+NamePlural = Nesoberis de Chika
+Pocket = 1
+Price = 0
+Description = Muñeco tumbado de Chika. Sube el ataque del portador en combate y lo vuelve más amistoso.
+#-------------------------------
+[NESORUBY]
+Name = Nesoberi de Ruby
+NamePlural = Nesoberis de Ruby
+Pocket = 1
+Price = 0
+Description = Muñeco tumbado de Ruby. Sube la evasión del portador en combate y lo vuelve más amistoso.
+#-------------------------------
+[NESOYOHANE]
+Name = Nesoberi de Yohane
+NamePlural = Nesoberis de Yohane
+Pocket = 1
+Price = 0
+Description = Muñeco tumbado de Yohane. Sube prob. crit. del portador en combate y lo vuelve más amistoso.
+#-------------------------------
+[NESOMARI]
+Name = Nesoberi de Mari
+NamePlural = Nesoberis de Mari
+Pocket = 1
+Price = 0
+Description = Muñeco tumbado de Mari. Sube la defensa especial del portador en combate y lo vuelve más amistoso.
+#-------------------------------
+[NESODIA]
+Name = Nesoberi de Dia
+NamePlural = Nesoberis de Dia
+Pocket = 1
+Price = 0
+Description = Muñeco tumbado de Dia. Sube la precisión del portador en combate y lo vuelve más amistoso.
+#-------------------------------
+[NESOKANAN]
+Name = Nesoberi de Kanan
+NamePlural = Nesoberis de Kanan
+Pocket = 1
+Price = 0
+Description = Muñeco tumbado de Kanan. Sube la defensa del portador en combate y lo vuelve más amistoso.
 #-------------------------------

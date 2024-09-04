@@ -3081,3 +3081,371 @@ Backtrace:
 'SDK_Scene_Base' line 49 in `main'
 'Main' line 12
 
+===============================================================================
+Thu Aug 29 18:54:25 Hora de verano romance 2024
+-------------------------------------------------------------------------------
+Collecting map data
+'Collecting map data' on frame 0
+'Collecting map data' on frame 1
+'Collecting map data' on frame 2
+'Collecting map data' on frame 3
+'Collecting map data' on frame 4
+'Collecting map data' on frame 5
+'Collecting map data' on frame 6
+'Collecting map data' on frame 7
+'Collecting map data' on frame 8
+'Collecting map data' on frame 9
+'Collecting map data' on frame 10
+'Collecting map data' on frame 11
+'Collecting map data' on frame 12
+'Collecting map data' on frame 13
+'Collecting map data' on frame 14
+'Collecting map data' on frame 15
+'Collecting map data' on frame 16
+'Collecting map data' on frame 17
+'Collecting map data' on frame 18
+'Collecting map data' on frame 19
+'Collecting map data' on frame 20
+'Collecting map data' on frame 21
+'Collecting map data' on frame 22
+'Collecting map data' on frame 23
+'Collecting map data' on frame 24
+'Collecting map data' on frame 25
+'Collecting map data' on frame 26
+'Collecting map data' on frame 27
+'Collecting map data' on frame 28
+'Collecting map data' on frame 29
+'Collecting map data' on frame 30
+'Collecting map data' on frame 31
+'Collecting map data' on frame 32
+'Collecting map data' on frame 33
+'Collecting map data' on frame 34
+'Collecting map data' on frame 35
+'Collecting map data' on frame 36
+'Collecting map data' on frame 37
+'Collecting map data' on frame 38
+Drawing preview
+'Drawing preview' on frame 0
+'Drawing preview' on frame 1000
+'Drawing preview' on frame 2000
+'Drawing preview' on frame 3000
+'Drawing preview' on frame 4000
+Saving "Estacion"
+'Saving "Estacion"' on frame 0
+'Saving "Estacion"' on frame 1
+'Saving "Estacion"' on frame 2
+'Saving "Estacion"' on frame 3
+'Saving "Estacion"' on frame 4
+'Saving "Estacion"' on frame 5
+'Saving "Estacion"' on frame 6
+'Saving "Estacion"' on frame 7
+'Saving "Estacion"' on frame 8
+'Saving "Estacion"' on frame 9
+'Saving "Estacion"' on frame 10
+'Saving "Estacion"' on frame 11
+'Saving "Estacion"' on frame 12
+'Saving "Estacion"' on frame 13
+'Saving "Estacion"' on frame 14
+'Saving "Estacion"' on frame 15
+'Saving "Estacion"' on frame 16
+'Saving "Estacion"' on frame 17
+'Saving "Estacion"' on frame 18
+'Saving "Estacion"' on frame 19
+'Saving "Estacion"' on frame 20
+'Saving "Estacion"' on frame 21
+'Saving "Estacion"' on frame 22
+'Saving "Estacion"' on frame 23
+'Saving "Estacion"' on frame 24
+'Saving "Estacion"' on frame 25
+'Saving "Estacion"' on frame 26
+'Saving "Estacion"' on frame 27
+'Saving "Estacion"' on frame 28
+'Saving "Estacion"' on frame 29
+'Saving "Estacion"' on frame 30
+'Saving "Estacion"' on frame 31
+'Saving "Estacion"' on frame 32
+'Saving "Estacion"' on frame 33
+'Saving "Estacion"' on frame 34
+'Saving "Estacion"' on frame 35
+'Saving "Estacion"' on frame 36
+'Saving "Estacion"' on frame 37
+'Saving "Estacion"' on frame 38
+'Saving "Estacion"' on frame 39
+'Saving "Estacion"' on frame 40
+'Saving "Estacion"' on frame 41
+'Saving "Estacion"' on frame 42
+'Saving "Estacion"' on frame 43
+'Saving "Estacion"' on frame 44
+'Saving "Estacion"' on frame 45
+'Saving "Estacion"' on frame 46
+'Saving "Estacion"' on frame 47
+'Saving "Estacion"' on frame 48
+'Saving "Estacion"' on frame 49
+'Saving "Estacion"' on frame 50
+'Saving "Estacion"' on frame 51
+'Saving "Estacion"' on frame 52
+'Saving "Estacion"' on frame 53
+'Saving "Estacion"' on frame 54
+'Saving "Estacion"' on frame 55
+'Saving "Estacion"' on frame 56
+'Saving "Estacion"' on frame 57
+'Saving "Estacion"' on frame 58
+'Saving "Estacion"' on frame 59
+'Saving "Estacion"' on frame 60
+'Saving "Estacion"' on frame 61
+'Saving "Estacion"' on frame 62
+'Saving "Estacion"' on frame 63
+'Saving "Estacion"' on frame 64
+'Saving "Estacion"' on frame 65
+'Saving "Estacion"' on frame 66
+'Saving "Estacion"' on frame 67
+'Saving "Estacion"' on frame 68
+'Saving "Estacion"' on frame 69
+'Saving "Estacion"' on frame 70
+'Saving "Estacion"' on frame 71
+'Saving "Estacion"' on frame 72
+'Saving "Estacion"' on frame 73
+'Saving "Estacion"' on frame 74
+'Saving "Estacion"' on frame 75
+'Saving "Estacion"' on frame 76
+'Saving "Estacion"' on frame 77
+'Saving "Estacion"' on frame 78
+'Saving "Estacion"' on frame 79
+'Saving "Estacion"' on frame 80
+'Saving "Estacion"' on frame 81
+'Saving "Estacion"' on frame 82
+'Saving "Estacion"' on frame 83
+'Saving "Estacion"' on frame 84
+'Saving "Estacion"' on frame 85
+'Saving "Estacion"' on frame 86
+'Saving "Estacion"' on frame 87
+'Saving "Estacion"' on frame 88
+'Saving "Estacion"' on frame 89
+'Saving "Estacion"' on frame 90
+'Saving "Estacion"' on frame 91
+'Saving "Estacion"' on frame 92
+'Saving "Estacion"' on frame 93
+'Saving "Estacion"' on frame 94
+'Saving "Estacion"' on frame 95
+'Saving "Estacion"' on frame 96
+'Saving "Estacion"' on frame 97
+'Saving "Estacion"' on frame 98
+'Saving "Estacion"' on frame 99
+Script 'SDK' line 0: SystemExit occured.
+
+(eval):129:in `exit'exit
+
+Backtrace:
+'SDK' line 0(eval) 129:in `update'
+'SDK' line 0(eval) 129:in `update'
+'SDK_Scene_Base' line 110 in `update_modules'
+'SDK_Scene_Base' line 91 in `main_loop'
+'SDK_Scene_Base' line 47 in `main'
+'SDK_Scene_Base' line 46 in `loop'
+'SDK_Scene_Base' line 49 in `main'
+'Main' line 12
+
+===============================================================================
+Sun Sep 01 17:37:10 Hora de verano romance 2024
+-------------------------------------------------------------------------------
+Collecting map data
+'Collecting map data' on frame 0
+'Collecting map data' on frame 1
+'Collecting map data' on frame 2
+'Collecting map data' on frame 3
+'Collecting map data' on frame 4
+'Collecting map data' on frame 5
+'Collecting map data' on frame 6
+'Collecting map data' on frame 7
+'Collecting map data' on frame 8
+'Collecting map data' on frame 9
+'Collecting map data' on frame 10
+'Collecting map data' on frame 11
+'Collecting map data' on frame 12
+'Collecting map data' on frame 13
+'Collecting map data' on frame 14
+'Collecting map data' on frame 15
+'Collecting map data' on frame 16
+'Collecting map data' on frame 17
+'Collecting map data' on frame 18
+'Collecting map data' on frame 19
+'Collecting map data' on frame 20
+'Collecting map data' on frame 21
+'Collecting map data' on frame 22
+'Collecting map data' on frame 23
+'Collecting map data' on frame 24
+'Collecting map data' on frame 25
+'Collecting map data' on frame 26
+'Collecting map data' on frame 27
+'Collecting map data' on frame 28
+'Collecting map data' on frame 29
+'Collecting map data' on frame 30
+'Collecting map data' on frame 31
+'Collecting map data' on frame 32
+'Collecting map data' on frame 33
+'Collecting map data' on frame 34
+'Collecting map data' on frame 35
+'Collecting map data' on frame 36
+'Collecting map data' on frame 37
+'Collecting map data' on frame 38
+'Collecting map data' on frame 39
+'Collecting map data' on frame 40
+'Collecting map data' on frame 41
+'Collecting map data' on frame 42
+'Collecting map data' on frame 43
+'Collecting map data' on frame 44
+'Collecting map data' on frame 45
+'Collecting map data' on frame 46
+'Collecting map data' on frame 47
+'Collecting map data' on frame 48
+'Collecting map data' on frame 49
+'Collecting map data' on frame 50
+'Collecting map data' on frame 51
+'Collecting map data' on frame 52
+'Collecting map data' on frame 53
+'Collecting map data' on frame 54
+'Collecting map data' on frame 55
+'Collecting map data' on frame 56
+'Collecting map data' on frame 57
+'Collecting map data' on frame 58
+'Collecting map data' on frame 59
+'Collecting map data' on frame 60
+'Collecting map data' on frame 61
+'Collecting map data' on frame 62
+'Collecting map data' on frame 63
+'Collecting map data' on frame 64
+'Collecting map data' on frame 65
+'Collecting map data' on frame 66
+'Collecting map data' on frame 67
+'Collecting map data' on frame 68
+'Collecting map data' on frame 69
+'Collecting map data' on frame 70
+'Collecting map data' on frame 71
+'Collecting map data' on frame 72
+'Collecting map data' on frame 73
+'Collecting map data' on frame 74
+Drawing preview
+'Drawing preview' on frame 0
+'Drawing preview' on frame 1000
+'Drawing preview' on frame 2000
+'Drawing preview' on frame 3000
+'Drawing preview' on frame 4000
+'Drawing preview' on frame 5000
+'Drawing preview' on frame 6000
+'Drawing preview' on frame 7000
+'Drawing preview' on frame 8000
+Saving "Parque al puente"
+'Saving "Parque al puente"' on frame 0
+'Saving "Parque al puente"' on frame 1
+'Saving "Parque al puente"' on frame 2
+'Saving "Parque al puente"' on frame 3
+'Saving "Parque al puente"' on frame 4
+'Saving "Parque al puente"' on frame 5
+'Saving "Parque al puente"' on frame 6
+'Saving "Parque al puente"' on frame 7
+'Saving "Parque al puente"' on frame 8
+'Saving "Parque al puente"' on frame 9
+'Saving "Parque al puente"' on frame 10
+'Saving "Parque al puente"' on frame 11
+'Saving "Parque al puente"' on frame 12
+'Saving "Parque al puente"' on frame 13
+'Saving "Parque al puente"' on frame 14
+'Saving "Parque al puente"' on frame 15
+'Saving "Parque al puente"' on frame 16
+'Saving "Parque al puente"' on frame 17
+'Saving "Parque al puente"' on frame 18
+'Saving "Parque al puente"' on frame 19
+'Saving "Parque al puente"' on frame 20
+'Saving "Parque al puente"' on frame 21
+'Saving "Parque al puente"' on frame 22
+'Saving "Parque al puente"' on frame 23
+'Saving "Parque al puente"' on frame 24
+'Saving "Parque al puente"' on frame 25
+'Saving "Parque al puente"' on frame 26
+'Saving "Parque al puente"' on frame 27
+'Saving "Parque al puente"' on frame 28
+'Saving "Parque al puente"' on frame 29
+'Saving "Parque al puente"' on frame 30
+'Saving "Parque al puente"' on frame 31
+'Saving "Parque al puente"' on frame 32
+'Saving "Parque al puente"' on frame 33
+'Saving "Parque al puente"' on frame 34
+'Saving "Parque al puente"' on frame 35
+'Saving "Parque al puente"' on frame 36
+'Saving "Parque al puente"' on frame 37
+'Saving "Parque al puente"' on frame 38
+'Saving "Parque al puente"' on frame 39
+'Saving "Parque al puente"' on frame 40
+'Saving "Parque al puente"' on frame 41
+'Saving "Parque al puente"' on frame 42
+'Saving "Parque al puente"' on frame 43
+'Saving "Parque al puente"' on frame 44
+'Saving "Parque al puente"' on frame 45
+'Saving "Parque al puente"' on frame 46
+'Saving "Parque al puente"' on frame 47
+'Saving "Parque al puente"' on frame 48
+'Saving "Parque al puente"' on frame 49
+'Saving "Parque al puente"' on frame 50
+'Saving "Parque al puente"' on frame 51
+'Saving "Parque al puente"' on frame 52
+'Saving "Parque al puente"' on frame 53
+'Saving "Parque al puente"' on frame 54
+'Saving "Parque al puente"' on frame 55
+'Saving "Parque al puente"' on frame 56
+'Saving "Parque al puente"' on frame 57
+'Saving "Parque al puente"' on frame 58
+'Saving "Parque al puente"' on frame 59
+'Saving "Parque al puente"' on frame 60
+'Saving "Parque al puente"' on frame 61
+'Saving "Parque al puente"' on frame 62
+'Saving "Parque al puente"' on frame 63
+'Saving "Parque al puente"' on frame 64
+'Saving "Parque al puente"' on frame 65
+'Saving "Parque al puente"' on frame 66
+'Saving "Parque al puente"' on frame 67
+'Saving "Parque al puente"' on frame 68
+'Saving "Parque al puente"' on frame 69
+'Saving "Parque al puente"' on frame 70
+'Saving "Parque al puente"' on frame 71
+'Saving "Parque al puente"' on frame 72
+'Saving "Parque al puente"' on frame 73
+'Saving "Parque al puente"' on frame 74
+'Saving "Parque al puente"' on frame 75
+'Saving "Parque al puente"' on frame 76
+'Saving "Parque al puente"' on frame 77
+'Saving "Parque al puente"' on frame 78
+'Saving "Parque al puente"' on frame 79
+'Saving "Parque al puente"' on frame 80
+'Saving "Parque al puente"' on frame 81
+'Saving "Parque al puente"' on frame 82
+'Saving "Parque al puente"' on frame 83
+'Saving "Parque al puente"' on frame 84
+'Saving "Parque al puente"' on frame 85
+'Saving "Parque al puente"' on frame 86
+'Saving "Parque al puente"' on frame 87
+'Saving "Parque al puente"' on frame 88
+'Saving "Parque al puente"' on frame 89
+'Saving "Parque al puente"' on frame 90
+'Saving "Parque al puente"' on frame 91
+'Saving "Parque al puente"' on frame 92
+'Saving "Parque al puente"' on frame 93
+'Saving "Parque al puente"' on frame 94
+'Saving "Parque al puente"' on frame 95
+'Saving "Parque al puente"' on frame 96
+'Saving "Parque al puente"' on frame 97
+'Saving "Parque al puente"' on frame 98
+'Saving "Parque al puente"' on frame 99
+Script 'SDK' line 0: SystemExit occured.
+
+(eval):129:in `exit'exit
+
+Backtrace:
+'SDK' line 0(eval) 129:in `update'
+'SDK' line 0(eval) 129:in `update'
+'SDK_Scene_Base' line 110 in `update_modules'
+'SDK_Scene_Base' line 91 in `main_loop'
+'SDK_Scene_Base' line 47 in `main'
+'SDK_Scene_Base' line 46 in `loop'
+'SDK_Scene_Base' line 49 in `main'
+'Main' line 12
+

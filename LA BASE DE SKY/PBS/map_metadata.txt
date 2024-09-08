@@ -412,3 +412,8 @@ BattleBack = city
 Name = Parque al puente
 Bicycle = true
 SnapEdges = true
+#-------------------------------
+[079]   # Salida del puente
+Outdoor = true
+Bicycle = true
+SnapEdges = true

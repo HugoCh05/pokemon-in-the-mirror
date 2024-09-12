@@ -3937,4 +3937,93 @@ Saving "Salida del puente"
 'Saving "Salida del puente"' on frame 21
 'Saving "Salida del puente"' on frame 22
 'Saving "Salida del puente"' on frame 23
-'Saving "Salida del puen
+'Saving "Salida del puente"' on frame 24
+'Saving "Salida del puente"' on frame 25
+'Saving "Salida del puente"' on frame 26
+'Saving "Salida del puente"' on frame 27
+'Saving "Salida del puente"' on frame 28
+'Saving "Salida del puente"' on frame 29
+'Saving "Salida del puente"' on frame 30
+'Saving "Salida del puente"' on frame 31
+'Saving "Salida del puente"' on frame 32
+'Saving "Salida del puente"' on frame 33
+'Saving "Salida del puente"' on frame 34
+'Saving "Salida del puente"' on frame 35
+'Saving "Salida del puente"' on frame 36
+'Saving "Salida del puente"' on frame 37
+'Saving "Salida del puente"' on frame 38
+'Saving "Salida del puente"' on frame 39
+'Saving "Salida del puente"' on frame 40
+'Saving "Salida del puente"' on frame 41
+'Saving "Salida del puente"' on frame 42
+'Saving "Salida del puente"' on frame 43
+'Saving "Salida del puente"' on frame 44
+'Saving "Salida del puente"' on frame 45
+'Saving "Salida del puente"' on frame 46
+'Saving "Salida del puente"' on frame 47
+'Saving "Salida del puente"' on frame 48
+'Saving "Salida del puente"' on frame 49
+'Saving "Salida del puente"' on frame 50
+'Saving "Salida del puente"' on frame 51
+'Saving "Salida del puente"' on frame 52
+'Saving "Salida del puente"' on frame 53
+'Saving "Salida del puente"' on frame 54
+'Saving "Salida del puente"' on frame 55
+'Saving "Salida del puente"' on frame 56
+'Saving "Salida del puente"' on frame 57
+'Saving "Salida del puente"' on frame 58
+'Saving "Salida del puente"' on frame 59
+'Saving "Salida del puente"' on frame 60
+'Saving "Salida del puente"' on frame 61
+'Saving "Salida del puente"' on frame 62
+'Saving "Salida del puente"' on frame 63
+'Saving "Salida del puente"' on frame 64
+'Saving "Salida del puente"' on frame 65
+'Saving "Salida del puente"' on frame 66
+'Saving "Salida del puente"' on frame 67
+'Saving "Salida del puente"' on frame 68
+'Saving "Salida del puente"' on frame 69
+'Saving "Salida del puente"' on frame 70
+'Saving "Salida del puente"' on frame 71
+'Saving "Salida del puente"' on frame 72
+'Saving "Salida del puente"' on frame 73
+'Saving "Salida del puente"' on frame 74
+'Saving "Salida del puente"' on frame 75
+'Saving "Salida del puente"' on frame 76
+'Saving "Salida del puente"' on frame 77
+'Saving "Salida del puente"' on frame 78
+'Saving "Salida del puente"' on frame 79
+'Saving "Salida del puente"' on frame 80
+'Saving "Salida del puente"' on frame 81
+'Saving "Salida del puente"' on frame 82
+'Saving "Salida del puente"' on frame 83
+'Saving "Salida del puente"' on frame 84
+'Saving "Salida del puente"' on frame 85
+'Saving "Salida del puente"' on frame 86
+'Saving "Salida del puente"' on frame 87
+'Saving "Salida del puente"' on frame 88
+'Saving "Salida del puente"' on frame 89
+'Saving "Salida del puente"' on frame 90
+'Saving "Salida del puente"' on frame 91
+'Saving "Salida del puente"' on frame 92
+'Saving "Salida del puente"' on frame 93
+'Saving "Salida del puente"' on frame 94
+'Saving "Salida del puente"' on frame 95
+'Saving "Salida del puente"' on frame 96
+'Saving "Salida del puente"' on frame 97
+'Saving "Salida del puente"' on frame 98
+'Saving "Salida del puente"' on frame 99
+Script 'SDK' line 0: SystemExit occured.
+
+(eval):129:in `exit'exit
+
+Backtrace:
+'SDK' line 0(eval) 129:in `update'
+'SDK' line 0(eval) 129:in `update'
+'SDK_Scene_Base' line 110 in `update_modules'
+'SDK_Scene_Base' line 91 in `main_loop'
+'SDK_Scene_Base' line 47 in `main'
+'SDK_Scene_Base' line 46 in `loop'
+'SDK_Scene_Base' line 49 in `main'
+'Main' line 12
+

@@ -14,7 +14,7 @@ BicycleBGM = Bicycle
 #-------------------------------
 [1]
 TrainerType = POKEMONTRAINER_Red
-WalkCharset = Mari
+WalkCharset = GNY_C_Mari
 RunCharset = boy_run
 CycleCharset = boy_bike
 SurfCharset = boy_surf

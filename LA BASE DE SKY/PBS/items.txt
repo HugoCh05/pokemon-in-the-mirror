@@ -6810,63 +6810,63 @@ Flags = KeyItem
 Description = Incubadora que permite mantener 6 huevos hasta que eclosionen.
 #-------------------------------
 [NESORIKO]
-Name = Nesoberi de Riko
+Name = Neso de Riko
 NamePlural = Nesoberis de Riko
 Pocket = 1
 Price = 0
 Description = Muñeco tumbado de Riko. Sube el ataque especial del portador en combate y lo vuelve más amistoso.
 #-------------------------------
 [NESOHANAMARU]
-Name = Nesoberi de Hanamaru
+Name = Neso de Hanamaru
 NamePlural = Nesoberis de Hanamaru
 Pocket = 1
 Price = 0
 Description = Muñeco tumbado de Hanamaru. Recupera los PS del portador en combate y lo vuelve más amistoso.
 #-------------------------------
 [NESOYOU]
-Name = Nesoberi de You
+Name = Neso de You
 NamePlural = Nesoberis de You
 Pocket = 1
 Price = 0
 Description = Muñeco tumbado de You. Sube la velocidad del portador en combate y lo vuelve más amistoso.
 #-------------------------------
 [NESOCHIKA]
-Name = Nesoberi de Chika
+Name = Neso de Chika
 NamePlural = Nesoberis de Chika
 Pocket = 1
 Price = 0
 Description = Muñeco tumbado de Chika. Sube el ataque del portador en combate y lo vuelve más amistoso.
 #-------------------------------
 [NESORUBY]
-Name = Nesoberi de Ruby
+Name = Neso de Ruby
 NamePlural = Nesoberis de Ruby
 Pocket = 1
 Price = 0
 Description = Muñeco tumbado de Ruby. Sube la evasión del portador en combate y lo vuelve más amistoso.
 #-------------------------------
 [NESOYOHANE]
-Name = Nesoberi de Yohane
+Name = Neso de Yohane
 NamePlural = Nesoberis de Yohane
 Pocket = 1
 Price = 0
 Description = Muñeco tumbado de Yohane. Sube prob. crit. del portador en combate y lo vuelve más amistoso.
 #-------------------------------
 [NESOMARI]
-Name = Nesoberi de Mari
+Name = Neso de Mari
 NamePlural = Nesoberis de Mari
 Pocket = 1
 Price = 0
 Description = Muñeco tumbado de Mari. Sube la defensa especial del portador en combate y lo vuelve más amistoso.
 #-------------------------------
 [NESODIA]
-Name = Nesoberi de Dia
+Name = Neso de Dia
 NamePlural = Nesoberis de Dia
 Pocket = 1
 Price = 0
 Description = Muñeco tumbado de Dia. Sube la precisión del portador en combate y lo vuelve más amistoso.
 #-------------------------------
 [NESOKANAN]
-Name = Nesoberi de Kanan
+Name = Neso de Kanan
 NamePlural = Nesoberis de Kanan
 Pocket = 1
 Price = 0

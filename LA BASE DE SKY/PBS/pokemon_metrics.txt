@@ -7337,3 +7337,9 @@ BackSprite = 0,0
 FrontSprite = 1,19
 ShadowX = 0
 ShadowSize = 2
+#-------------------------------
+[PELLAPIE]
+BackSprite = 10,0
+FrontSprite = 0,-5
+ShadowX = 0
+ShadowSize = 1

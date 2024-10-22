@@ -6849,7 +6849,7 @@ Name = Neso de Yohane
 NamePlural = Nesoberis de Yohane
 Pocket = 1
 Price = 0
-Description = Muñeco tumbado de Yohane. Sube prob. crit. del portador en combate y lo vuelve más amistoso.
+Description = Muñeco tumbado de Yohane. Sube la prob. crit. del portador en combate y lo vuelve más amistoso.
 #-------------------------------
 [NESOMARI]
 Name = Neso de Mari

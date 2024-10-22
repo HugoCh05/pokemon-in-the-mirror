@@ -414,6 +414,12 @@ Bicycle = true
 SnapEdges = true
 #-------------------------------
 [079]   # Salida del puente
+Name = Salida del puente
 Outdoor = true
 Bicycle = true
+SnapEdges = true
+#-------------------------------
+[082]   # Abajo de la estacion
+Bicycle = true
+HealingSpot = 82,49,21
 SnapEdges = true

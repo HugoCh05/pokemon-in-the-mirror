@@ -408,18 +408,23 @@ Outdoor = true
 MapPosition = 1,13,16
 BattleBack = city
 #-------------------------------
-[076]   # Parque al puente
+[076]   # Derecha estacion
 Name = Parque al puente
 Bicycle = true
 SnapEdges = true
 #-------------------------------
-[079]   # Salida del puente
+[079]   # Rio1
 Name = Salida del puente
 Outdoor = true
 Bicycle = true
 SnapEdges = true
 #-------------------------------
-[082]   # Abajo de la estacion
+[082]   # Abajo estacion
+Name = Abajo de la estacion
 Bicycle = true
 HealingSpot = 82,49,21
+SnapEdges = true
+#-------------------------------
+[088]   # Ciudad
+Bicycle = true
 SnapEdges = true

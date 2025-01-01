@@ -8062,4 +8062,379 @@ Saving "Camino a la biblioteca"
 'Saving "Camino a la biblioteca"' on frame 44
 'Saving "Camino a la biblioteca"' on frame 45
 'Saving "Camino a la biblioteca"' on frame 46
-'Saving "Camino a la bibl
+'Saving "Camino a la bibl===============================================================================
+Mon Dec 30 11:11:32 Hora estándar romance 2024
+-------------------------------------------------------------------------------
+Script 'SDK' line 0: SystemExit occured.
+
+(eval):129:in `exit'exit
+
+Backtrace:
+'SDK' line 0(eval) 129:in `update'
+'SDK' line 0(eval) 129:in `update'
+'SDK_Scene_Base' line 110 in `update_modules'
+'SDK_Scene_Base' line 91 in `main_loop'
+'SDK_Scene_Base' line 47 in `main'
+'SDK_Scene_Base' line 46 in `loop'
+'SDK_Scene_Base' line 49 in `main'
+'Main' line 12
+
+===============================================================================
+Mon Dec 30 11:11:59 Hora estándar romance 2024
+-------------------------------------------------------------------------------
+Collecting map data
+'Collecting map data' on frame 0
+'Collecting map data' on frame 1
+'Collecting map data' on frame 2
+'Collecting map data' on frame 3
+'Collecting map data' on frame 4
+'Collecting map data' on frame 5
+'Collecting map data' on frame 6
+'Collecting map data' on frame 7
+'Collecting map data' on frame 8
+'Collecting map data' on frame 9
+'Collecting map data' on frame 10
+'Collecting map data' on frame 11
+'Collecting map data' on frame 12
+'Collecting map data' on frame 13
+'Collecting map data' on frame 14
+'Collecting map data' on frame 15
+'Collecting map data' on frame 16
+'Collecting map data' on frame 17
+'Collecting map data' on frame 18
+'Collecting map data' on frame 19
+'Collecting map data' on frame 20
+'Collecting map data' on frame 21
+'Collecting map data' on frame 22
+'Collecting map data' on frame 23
+'Collecting map data' on frame 24
+'Collecting map data' on frame 25
+'Collecting map data' on frame 26
+'Collecting map data' on frame 27
+'Collecting map data' on frame 28
+'Collecting map data' on frame 29
+'Collecting map data' on frame 30
+'Collecting map data' on frame 31
+'Collecting map data' on frame 32
+'Collecting map data' on frame 33
+'Collecting map data' on frame 34
+'Collecting map data' on frame 35
+'Collecting map data' on frame 36
+'Collecting map data' on frame 37
+'Collecting map data' on frame 38
+'Collecting map data' on frame 39
+'Collecting map data' on frame 40
+'Collecting map data' on frame 41
+'Collecting map data' on frame 42
+'Collecting map data' on frame 43
+'Collecting map data' on frame 44
+'Collecting map data' on frame 45
+'Collecting map data' on frame 46
+'Collecting map data' on frame 47
+'Collecting map data' on frame 48
+'Collecting map data' on frame 49
+'Collecting map data' on frame 50
+'Collecting map data' on frame 51
+'Collecting map data' on frame 52
+'Collecting map data' on frame 53
+'Collecting map data' on frame 54
+'Collecting map data' on frame 55
+'Collecting map data' on frame 56
+'Collecting map data' on frame 57
+'Collecting map data' on frame 58
+'Collecting map data' on frame 59
+'Collecting map data' on frame 60
+'Collecting map data' on frame 61
+'Collecting map data' on frame 62
+'Collecting map data' on frame 63
+'Collecting map data' on frame 64
+'Collecting map data' on frame 65
+'Collecting map data' on frame 66
+'Collecting map data' on frame 67
+'Collecting map data' on frame 68
+'Collecting map data' on frame 69
+'Collecting map data' on frame 70
+'Collecting map data' on frame 71
+'Collecting map data' on frame 72
+'Collecting map data' on frame 73
+Drawing preview
+'Drawing preview' on frame 0
+'Drawing preview' on frame 1000
+'Drawing preview' on frame 2000
+'Drawing preview' on frame 3000
+'Drawing preview' on frame 4000
+'Drawing preview' on frame 5000
+'Drawing preview' on frame 6000
+'Drawing preview' on frame 7000
+'Drawing preview' on frame 8000
+'Drawing preview' on frame 9000
+'Drawing preview' on frame 10000
+'Drawing preview' on frame 11000
+Saving "Rio 2"
+'Saving "Rio 2"' on frame 0
+'Saving "Rio 2"' on frame 1
+'Saving "Rio 2"' on frame 2
+'Saving "Rio 2"' on frame 3
+'Saving "Rio 2"' on frame 4
+'Saving "Rio 2"' on frame 5
+'Saving "Rio 2"' on frame 6
+'Saving "Rio 2"' on frame 7
+'Saving "Rio 2"' on frame 8
+'Saving "Rio 2"' on frame 9
+'Saving "Rio 2"' on frame 10
+'Saving "Rio 2"' on frame 11
+'Saving "Rio 2"' on frame 12
+'Saving "Rio 2"' on frame 13
+'Saving "Rio 2"' on frame 14
+'Saving "Rio 2"' on frame 15
+'Saving "Rio 2"' on frame 16
+'Saving "Rio 2"' on frame 17
+'Saving "Rio 2"' on frame 18
+'Saving "Rio 2"' on frame 19
+'Saving "Rio 2"' on frame 20
+'Saving "Rio 2"' on frame 21
+'Saving "Rio 2"' on frame 22
+'Saving "Rio 2"' on frame 23
+'Saving "Rio 2"' on frame 24
+'Saving "Rio 2"' on frame 25
+'Saving "Rio 2"' on frame 26
+'Saving "Rio 2"' on frame 27
+'Saving "Rio 2"' on frame 28
+'Saving "Rio 2"' on frame 29
+'Saving "Rio 2"' on frame 30
+'Saving "Rio 2"' on frame 31
+'Saving "Rio 2"' on frame 32
+'Saving "Rio 2"' on frame 33
+'Saving "Rio 2"' on frame 34
+'Saving "Rio 2"' on frame 35
+'Saving "Rio 2"' on frame 36
+Script 'SDK' line 0: SystemExit occured.
+
+(eval):166:in `exit'exit
+
+Backtrace:
+'SDK' line 0(eval) 166:in `update'
+'SDK' line 0(eval) 166:in `update'
+'Bitmap.make_png' line 118 in `make_bitmap_data'
+'Bitmap.make_png' line 117 in `each'
+'Bitmap.make_png' line 117 in `make_bitmap_data'
+'Bitmap.make_png' line 107 in `each'
+'Bitmap.make_png' line 107 in `make_bitmap_data'
+'Bitmap.make_png' line 94 in `make_idat'
+'Bitmap.make_png' line 61 in `make_png'
+'Spriteset_Map' line 318 in `make_png'
+'Scene_Main' line 243 in `save'
+'Scene_Main' line 130 in `update_top'
+'Scene_Main' line 95 in `update'
+'SDK_Scene_Base' line 104 in `main_loop'
+'SDK_Scene_Base' line 47 in `main'
+'SDK_Scene_Base' line 46 in `loop'
+'SDK_Scene_Base' line 49 in `main'
+'Main' line 12
+
+===============================================================================
+Mon Dec 30 12:58:14 Hora estándar romance 2024
+-------------------------------------------------------------------------------
+Collecting map data
+'Collecting map data' on frame 0
+'Collecting map data' on frame 1
+'Collecting map data' on frame 2
+'Collecting map data' on frame 3
+'Collecting map data' on frame 4
+'Collecting map data' on frame 5
+'Collecting map data' on frame 6
+'Collecting map data' on frame 7
+'Collecting map data' on frame 8
+'Collecting map data' on frame 9
+'Collecting map data' on frame 10
+'Collecting map data' on frame 11
+'Collecting map data' on frame 12
+'Collecting map data' on frame 13
+'Collecting map data' on frame 14
+'Collecting map data' on frame 15
+'Collecting map data' on frame 16
+'Collecting map data' on frame 17
+'Collecting map data' on frame 18
+'Collecting map data' on frame 19
+'Collecting map data' on frame 20
+'Collecting map data' on frame 21
+'Collecting map data' on frame 22
+'Collecting map data' on frame 23
+'Collecting map data' on frame 24
+'Collecting map data' on frame 25
+'Collecting map data' on frame 26
+'Collecting map data' on frame 27
+'Collecting map data' on frame 28
+'Collecting map data' on frame 29
+'Collecting map data' on frame 30
+'Collecting map data' on frame 31
+'Collecting map data' on frame 32
+'Collecting map data' on frame 33
+'Collecting map data' on frame 34
+'Collecting map data' on frame 35
+'Collecting map data' on frame 36
+'Collecting map data' on frame 37
+'Collecting map data' on frame 38
+'Collecting map data' on frame 39
+'Collecting map data' on frame 40
+'Collecting map data' on frame 41
+'Collecting map data' on frame 42
+'Collecting map data' on frame 43
+'Collecting map data' on frame 44
+'Collecting map data' on frame 45
+'Collecting map data' on frame 46
+'Collecting map data' on frame 47
+'Collecting map data' on frame 48
+'Collecting map data' on frame 49
+'Collecting map data' on frame 50
+'Collecting map data' on frame 51
+'Collecting map data' on frame 52
+'Collecting map data' on frame 53
+'Collecting map data' on frame 54
+'Collecting map data' on frame 55
+'Collecting map data' on frame 56
+'Collecting map data' on frame 57
+'Collecting map data' on frame 58
+'Collecting map data' on frame 59
+'Collecting map data' on frame 60
+'Collecting map data' on frame 61
+'Collecting map data' on frame 62
+'Collecting map data' on frame 63
+'Collecting map data' on frame 64
+'Collecting map data' on frame 65
+'Collecting map data' on frame 66
+'Collecting map data' on frame 67
+'Collecting map data' on frame 68
+'Collecting map data' on frame 69
+'Collecting map data' on frame 70
+'Collecting map data' on frame 71
+'Collecting map data' on frame 72
+'Collecting map data' on frame 73
+Drawing preview
+'Drawing preview' on frame 0
+'Drawing preview' on frame 1000
+'Drawing preview' on frame 2000
+'Drawing preview' on frame 3000
+'Drawing preview' on frame 4000
+'Drawing preview' on frame 5000
+'Drawing preview' on frame 6000
+'Drawing preview' on frame 7000
+'Drawing preview' on frame 8000
+'Drawing preview' on frame 9000
+'Drawing preview' on frame 10000
+'Drawing preview' on frame 11000
+Saving "Rio 2"
+'Saving "Rio 2"' on frame 0
+'Saving "Rio 2"' on frame 1
+'Saving "Rio 2"' on frame 2
+'Saving "Rio 2"' on frame 3
+'Saving "Rio 2"' on frame 4
+'Saving "Rio 2"' on frame 5
+'Saving "Rio 2"' on frame 6
+'Saving "Rio 2"' on frame 7
+'Saving "Rio 2"' on frame 8
+'Saving "Rio 2"' on frame 9
+'Saving "Rio 2"' on frame 10
+'Saving "Rio 2"' on frame 11
+'Saving "Rio 2"' on frame 12
+'Saving "Rio 2"' on frame 13
+'Saving "Rio 2"' on frame 14
+'Saving "Rio 2"' on frame 15
+'Saving "Rio 2"' on frame 16
+'Saving "Rio 2"' on frame 17
+'Saving "Rio 2"' on frame 18
+'Saving "Rio 2"' on frame 19
+'Saving "Rio 2"' on frame 20
+'Saving "Rio 2"' on frame 21
+'Saving "Rio 2"' on frame 22
+'Saving "Rio 2"' on frame 23
+'Saving "Rio 2"' on frame 24
+'Saving "Rio 2"' on frame 25
+'Saving "Rio 2"' on frame 26
+'Saving "Rio 2"' on frame 27
+'Saving "Rio 2"' on frame 28
+'Saving "Rio 2"' on frame 29
+'Saving "Rio 2"' on frame 30
+'Saving "Rio 2"' on frame 31
+'Saving "Rio 2"' on frame 32
+'Saving "Rio 2"' on frame 33
+'Saving "Rio 2"' on frame 34
+'Saving "Rio 2"' on frame 35
+'Saving "Rio 2"' on frame 36
+'Saving "Rio 2"' on frame 37
+'Saving "Rio 2"' on frame 38
+'Saving "Rio 2"' on frame 39
+'Saving "Rio 2"' on frame 40
+'Saving "Rio 2"' on frame 41
+'Saving "Rio 2"' on frame 42
+'Saving "Rio 2"' on frame 43
+'Saving "Rio 2"' on frame 44
+'Saving "Rio 2"' on frame 45
+'Saving "Rio 2"' on frame 46
+'Saving "Rio 2"' on frame 47
+'Saving "Rio 2"' on frame 48
+'Saving "Rio 2"' on frame 49
+'Saving "Rio 2"' on frame 50
+'Saving "Rio 2"' on frame 51
+'Saving "Rio 2"' on frame 52
+'Saving "Rio 2"' on frame 53
+'Saving "Rio 2"' on frame 54
+'Saving "Rio 2"' on frame 55
+'Saving "Rio 2"' on frame 56
+'Saving "Rio 2"' on frame 57
+'Saving "Rio 2"' on frame 58
+'Saving "Rio 2"' on frame 59
+'Saving "Rio 2"' on frame 60
+'Saving "Rio 2"' on frame 61
+'Saving "Rio 2"' on frame 62
+'Saving "Rio 2"' on frame 63
+'Saving "Rio 2"' on frame 64
+'Saving "Rio 2"' on frame 65
+'Saving "Rio 2"' on frame 66
+'Saving "Rio 2"' on frame 67
+'Saving "Rio 2"' on frame 68
+'Saving "Rio 2"' on frame 69
+'Saving "Rio 2"' on frame 70
+'Saving "Rio 2"' on frame 71
+'Saving "Rio 2"' on frame 72
+'Saving "Rio 2"' on frame 73
+'Saving "Rio 2"' on frame 74
+'Saving "Rio 2"' on frame 75
+'Saving "Rio 2"' on frame 76
+'Saving "Rio 2"' on frame 77
+'Saving "Rio 2"' on frame 78
+'Saving "Rio 2"' on frame 79
+'Saving "Rio 2"' on frame 80
+'Saving "Rio 2"' on frame 81
+'Saving "Rio 2"' on frame 82
+'Saving "Rio 2"' on frame 83
+'Saving "Rio 2"' on frame 84
+'Saving "Rio 2"' on frame 85
+'Saving "Rio 2"' on frame 86
+'Saving "Rio 2"' on frame 87
+'Saving "Rio 2"' on frame 88
+'Saving "Rio 2"' on frame 89
+'Saving "Rio 2"' on frame 90
+'Saving "Rio 2"' on frame 91
+'Saving "Rio 2"' on frame 92
+'Saving "Rio 2"' on frame 93
+'Saving "Rio 2"' on frame 94
+'Saving "Rio 2"' on frame 95
+'Saving "Rio 2"' on frame 96
+'Saving "Rio 2"' on frame 97
+'Saving "Rio 2"' on frame 98
+'Saving "Rio 2"' on frame 99
+Script 'SDK' line 0: SystemExit occured.
+
+(eval):129:in `exit'exit
+
+Backtrace:
+'SDK' line 0(eval) 129:in `update'
+'SDK' line 0(eval) 129:in `update'
+'SDK_Scene_Base' line 110 in `update_modules'
+'SDK_Scene_Base' line 91 in `main_loop'
+'SDK_Scene_Base' line 47 in `main'
+'SDK_Scene_Base' line 46 in `loop'
+'SDK_Scene_Base' line 49 in `main'
+'Main' line 12
+

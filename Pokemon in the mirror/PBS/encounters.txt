@@ -312,6 +312,14 @@ Land,21
 #-------------------------------
 [079] # Rio1
 Land,10
-    30,MAGIKARP,5,7
     40,PELLAPIE,5,7
+    30,MAGIKARP,5,7
     10,OGERPON_7,5
+#-------------------------------
+[082] # Abajo estacion
+Land,10
+    10,PELLAPIE,5
+    10,BUDEW,5
+    10,MAGIKARP,5
+    10,LITTEN,5
+    20,WALDO,5

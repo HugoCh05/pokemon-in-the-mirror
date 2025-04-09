@@ -30,8 +30,11 @@ Pokemon = WEEPINBELL,21
     Shadow = true
 #-------------------------------
 [TEAMROCKET_F,Grunt,1]
-LoseText = Sin ánimo de lucro, de Algeciras. Anchoas con cafeína o sin cafeína.
-Pokemon = NOCTOWL,19
+LoseText = ¡Eres muy fuerte para mí!
+Pokemon = BURMY,19
+Pokemon = WINGULL,19
+Pokemon = ELECTABUZZ,20
+    Shadow = true
 #-------------------------------
 [YOUNGSTER,Ben]
 LoseText = Vaya, he perdido.

@@ -15,7 +15,7 @@ BicycleBGM = Bicycle
 [1]
 TrainerType = POKEMONTRAINER_Red
 WalkCharset = GNY_C_Yohane
-RunCharset = boy_run
+RunCharset = GNY_C_Yohane_corriendo
 CycleCharset = boy_bike
 SurfCharset = boy_surf
 DiveCharset = boy_surf

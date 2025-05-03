@@ -3056,9 +3056,9 @@ ShadowSize = 1
 #-------------------------------
 [SNIVY]
 BackSprite = 0,0
-FrontSprite = 3,30
+FrontSprite = -3,12
 ShadowX = 0
-ShadowSize = 1
+ShadowSize = 2
 #-------------------------------
 [SERVINE]
 BackSprite = 0,0
@@ -4052,9 +4052,9 @@ ShadowSize = 3
 #-------------------------------
 [FENNEKIN]
 BackSprite = 0,0
-FrontSprite = 0,28
+FrontSprite = 0,12
 ShadowX = 0
-ShadowSize = 1
+ShadowSize = 2
 #-------------------------------
 [BRAIXEN]
 BackSprite = 0,0
@@ -4502,7 +4502,7 @@ ShadowSize = 3
 #-------------------------------
 [POPPLIO]
 BackSprite = 0,0
-FrontSprite = 1,33
+FrontSprite = -1,13
 ShadowX = 0
 ShadowSize = 2
 #-------------------------------

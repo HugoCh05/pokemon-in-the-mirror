@@ -17,8 +17,8 @@ TrainerType = POKEMONTRAINER_Red
 WalkCharset = GNY_C_Yohane
 RunCharset = GNY_C_Yohane_corriendo
 CycleCharset = boy_bike
-SurfCharset = boy_surf
-DiveCharset = boy_surf
+SurfCharset = GNY_C_Yohane_surf
+DiveCharset = GNY_C_Yohane_surf
 FishCharset = boy_fish_offset
 SurfFishCharset = boy_fish_offset
 #-------------------------------

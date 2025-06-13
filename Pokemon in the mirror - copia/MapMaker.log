@@ -213,3 +213,575 @@ Backtrace:
 'SDK_Scene_Base' line 49 in `main'
 'Main' line 12
 
+===============================================================================
+Thu Jun 12 23:33:28 Hora de verano romance 2025
+-------------------------------------------------------------------------------
+Collecting map data
+'Collecting map data' on frame 0
+'Collecting map data' on frame 1
+'Collecting map data' on frame 2
+'Collecting map data' on frame 3
+'Collecting map data' on frame 4
+'Collecting map data' on frame 5
+'Collecting map data' on frame 6
+'Collecting map data' on frame 7
+'Collecting map data' on frame 8
+'Collecting map data' on frame 9
+'Collecting map data' on frame 10
+'Collecting map data' on frame 11
+'Collecting map data' on frame 12
+'Collecting map data' on frame 13
+'Collecting map data' on frame 14
+'Collecting map data' on frame 15
+'Collecting map data' on frame 16
+'Collecting map data' on frame 17
+'Collecting map data' on frame 18
+'Collecting map data' on frame 19
+'Collecting map data' on frame 20
+'Collecting map data' on frame 21
+'Collecting map data' on frame 22
+'Collecting map data' on frame 23
+'Collecting map data' on frame 24
+'Collecting map data' on frame 25
+'Collecting map data' on frame 26
+'Collecting map data' on frame 27
+'Collecting map data' on frame 28
+'Collecting map data' on frame 29
+'Collecting map data' on frame 30
+'Collecting map data' on frame 31
+'Collecting map data' on frame 32
+'Collecting map data' on frame 33
+'Collecting map data' on frame 34
+'Collecting map data' on frame 35
+'Collecting map data' on frame 36
+'Collecting map data' on frame 37
+'Collecting map data' on frame 38
+'Collecting map data' on frame 39
+'Collecting map data' on frame 40
+'Collecting map data' on frame 41
+'Collecting map data' on frame 42
+'Collecting map data' on frame 43
+'Collecting map data' on frame 44
+'Collecting map data' on frame 45
+'Collecting map data' on frame 46
+'Collecting map data' on frame 47
+'Collecting map data' on frame 48
+'Collecting map data' on frame 49
+'Collecting map data' on frame 50
+'Collecting map data' on frame 51
+'Collecting map data' on frame 52
+'Collecting map data' on frame 53
+'Collecting map data' on frame 54
+'Collecting map data' on frame 55
+Drawing preview
+'Drawing preview' on frame 0
+'Drawing preview' on frame 1000
+'Drawing preview' on frame 2000
+'Drawing preview' on frame 3000
+'Drawing preview' on frame 4000
+'Drawing preview' on frame 5000
+Script 'SDK' line 0: SystemExit occured.
+
+(eval):129:in `exit'exit
+
+Backtrace:
+'SDK' line 0(eval) 129:in `update'
+'SDK' line 0(eval) 129:in `update'
+'SDK_Scene_Base' line 110 in `update_modules'
+'SDK_Scene_Base' line 91 in `main_loop'
+'SDK_Scene_Base' line 47 in `main'
+'SDK_Scene_Base' line 46 in `loop'
+'SDK_Scene_Base' line 49 in `main'
+'Main' line 12
+
+===============================================================================
+Thu Jun 12 23:34:42 Hora de verano romance 2025
+-------------------------------------------------------------------------------
+Collecting map data
+'Collecting map data' on frame 0
+'Collecting map data' on frame 1
+'Collecting map data' on frame 2
+'Collecting map data' on frame 3
+'Collecting map data' on frame 4
+'Collecting map data' on frame 5
+'Collecting map data' on frame 6
+'Collecting map data' on frame 7
+'Collecting map data' on frame 8
+'Collecting map data' on frame 9
+'Collecting map data' on frame 10
+'Collecting map data' on frame 11
+'Collecting map data' on frame 12
+'Collecting map data' on frame 13
+'Collecting map data' on frame 14
+'Collecting map data' on frame 15
+'Collecting map data' on frame 16
+'Collecting map data' on frame 17
+'Collecting map data' on frame 18
+'Collecting map data' on frame 19
+'Collecting map data' on frame 20
+'Collecting map data' on frame 21
+'Collecting map data' on frame 22
+'Collecting map data' on frame 23
+'Collecting map data' on frame 24
+'Collecting map data' on frame 25
+'Collecting map data' on frame 26
+'Collecting map data' on frame 27
+'Collecting map data' on frame 28
+'Collecting map data' on frame 29
+'Collecting map data' on frame 30
+'Collecting map data' on frame 31
+'Collecting map data' on frame 32
+'Collecting map data' on frame 33
+'Collecting map data' on frame 34
+'Collecting map data' on frame 35
+'Collecting map data' on frame 36
+'Collecting map data' on frame 37
+'Collecting map data' on frame 38
+'Collecting map data' on frame 39
+'Collecting map data' on frame 40
+'Collecting map data' on frame 41
+'Collecting map data' on frame 42
+'Collecting map data' on frame 43
+'Collecting map data' on frame 44
+'Collecting map data' on frame 45
+'Collecting map data' on frame 46
+'Collecting map data' on frame 47
+'Collecting map data' on frame 48
+'Collecting map data' on frame 49
+'Collecting map data' on frame 50
+'Collecting map data' on frame 51
+'Collecting map data' on frame 52
+'Collecting map data' on frame 53
+'Collecting map data' on frame 54
+'Collecting map data' on frame 55
+Drawing preview
+'Drawing preview' on frame 0
+'Drawing preview' on frame 1000
+'Drawing preview' on frame 2000
+'Drawing preview' on frame 3000
+'Drawing preview' on frame 4000
+'Drawing preview' on frame 5000
+Saving "fuente"
+'Saving "fuente"' on frame 0
+'Saving "fuente"' on frame 1
+'Saving "fuente"' on frame 2
+'Saving "fuente"' on frame 3
+'Saving "fuente"' on frame 4
+'Saving "fuente"' on frame 5
+'Saving "fuente"' on frame 6
+'Saving "fuente"' on frame 7
+'Saving "fuente"' on frame 8
+'Saving "fuente"' on frame 9
+'Saving "fuente"' on frame 10
+'Saving "fuente"' on frame 11
+'Saving "fuente"' on frame 12
+'Saving "fuente"' on frame 13
+'Saving "fuente"' on frame 14
+'Saving "fuente"' on frame 15
+'Saving "fuente"' on frame 16
+'Saving "fuente"' on frame 17
+'Saving "fuente"' on frame 18
+'Saving "fuente"' on frame 19
+'Saving "fuente"' on frame 20
+'Saving "fuente"' on frame 21
+'Saving "fuente"' on frame 22
+'Saving "fuente"' on frame 23
+'Saving "fuente"' on frame 24
+'Saving "fuente"' on frame 25
+'Saving "fuente"' on frame 26
+'Saving "fuente"' on frame 27
+'Saving "fuente"' on frame 28
+'Saving "fuente"' on frame 29
+'Saving "fuente"' on frame 30
+'Saving "fuente"' on frame 31
+'Saving "fuente"' on frame 32
+'Saving "fuente"' on frame 33
+'Saving "fuente"' on frame 34
+'Saving "fuente"' on frame 35
+'Saving "fuente"' on frame 36
+'Saving "fuente"' on frame 37
+'Saving "fuente"' on frame 38
+'Saving "fuente"' on frame 39
+'Saving "fuente"' on frame 40
+'Saving "fuente"' on frame 41
+'Saving "fuente"' on frame 42
+'Saving "fuente"' on frame 43
+'Saving "fuente"' on frame 44
+'Saving "fuente"' on frame 45
+'Saving "fuente"' on frame 46
+'Saving "fuente"' on frame 47
+'Saving "fuente"' on frame 48
+'Saving "fuente"' on frame 49
+'Saving "fuente"' on frame 50
+'Saving "fuente"' on frame 51
+'Saving "fuente"' on frame 52
+'Saving "fuente"' on frame 53
+'Saving "fuente"' on frame 54
+'Saving "fuente"' on frame 55
+'Saving "fuente"' on frame 56
+'Saving "fuente"' on frame 57
+'Saving "fuente"' on frame 58
+'Saving "fuente"' on frame 59
+'Saving "fuente"' on frame 60
+'Saving "fuente"' on frame 61
+'Saving "fuente"' on frame 62
+'Saving "fuente"' on frame 63
+'Saving "fuente"' on frame 64
+'Saving "fuente"' on frame 65
+'Saving "fuente"' on frame 66
+'Saving "fuente"' on frame 67
+'Saving "fuente"' on frame 68
+'Saving "fuente"' on frame 69
+'Saving "fuente"' on frame 70
+'Saving "fuente"' on frame 71
+'Saving "fuente"' on frame 72
+'Saving "fuente"' on frame 73
+'Saving "fuente"' on frame 74
+'Saving "fuente"' on frame 75
+'Saving "fuente"' on frame 76
+'Saving "fuente"' on frame 77
+'Saving "fuente"' on frame 78
+'Saving "fuente"' on frame 79
+'Saving "fuente"' on frame 80
+'Saving "fuente"' on frame 81
+'Saving "fuente"' on frame 82
+'Saving "fuente"' on frame 83
+'Saving "fuente"' on frame 84
+'Saving "fuente"' on frame 85
+'Saving "fuente"' on frame 86
+'Saving "fuente"' on frame 87
+'Saving "fuente"' on frame 88
+'Saving "fuente"' on frame 89
+'Saving "fuente"' on frame 90
+'Saving "fuente"' on frame 91
+'Saving "fuente"' on frame 92
+'Saving "fuente"' on frame 93
+'Saving "fuente"' on frame 94
+'Saving "fuente"' on frame 95
+'Saving "fuente"' on frame 96
+'Saving "fuente"' on frame 97
+'Saving "fuente"' on frame 98
+'Saving "fuente"' on frame 99
+Script 'SDK' line 0: SystemExit occured.
+
+(eval):129:in `exit'exit
+
+Backtrace:
+'SDK' line 0(eval) 129:in `update'
+'SDK' line 0(eval) 129:in `update'
+'SDK_Scene_Base' line 110 in `update_modules'
+'SDK_Scene_Base' line 91 in `main_loop'
+'SDK_Scene_Base' line 47 in `main'
+'SDK_Scene_Base' line 46 in `loop'
+'SDK_Scene_Base' line 49 in `main'
+'Main' line 12
+
+===============================================================================
+Thu Jun 12 23:35:43 Hora de verano romance 2025
+-------------------------------------------------------------------------------
+Collecting map data
+'Collecting map data' on frame 0
+'Collecting map data' on frame 1
+'Collecting map data' on frame 2
+'Collecting map data' on frame 3
+'Collecting map data' on frame 4
+'Collecting map data' on frame 5
+'Collecting map data' on frame 6
+'Collecting map data' on frame 7
+'Collecting map data' on frame 8
+'Collecting map data' on frame 9
+'Collecting map data' on frame 10
+'Collecting map data' on frame 11
+'Collecting map data' on frame 12
+'Collecting map data' on frame 13
+'Collecting map data' on frame 14
+'Collecting map data' on frame 15
+'Collecting map data' on frame 16
+'Collecting map data' on frame 17
+'Collecting map data' on frame 18
+'Collecting map data' on frame 19
+'Collecting map data' on frame 20
+'Collecting map data' on frame 21
+'Collecting map data' on frame 22
+'Collecting map data' on frame 23
+'Collecting map data' on frame 24
+'Collecting map data' on frame 25
+'Collecting map data' on frame 26
+'Collecting map data' on frame 27
+'Collecting map data' on frame 28
+'Collecting map data' on frame 29
+'Collecting map data' on frame 30
+'Collecting map data' on frame 31
+'Collecting map data' on frame 32
+'Collecting map data' on frame 33
+'Collecting map data' on frame 34
+'Collecting map data' on frame 35
+'Collecting map data' on frame 36
+'Collecting map data' on frame 37
+'Collecting map data' on frame 38
+'Collecting map data' on frame 39
+'Collecting map data' on frame 40
+'Collecting map data' on frame 41
+'Collecting map data' on frame 42
+'Collecting map data' on frame 43
+'Collecting map data' on frame 44
+'Collecting map data' on frame 45
+'Collecting map data' on frame 46
+'Collecting map data' on frame 47
+'Collecting map data' on frame 48
+'Collecting map data' on frame 49
+'Collecting map data' on frame 50
+'Collecting map data' on frame 51
+'Collecting map data' on frame 52
+'Collecting map data' on frame 53
+'Collecting map data' on frame 54
+'Collecting map data' on frame 55
+Drawing preview
+'Drawing preview' on frame 0
+'Drawing preview' on frame 1000
+'Drawing preview' on frame 2000
+'Drawing preview' on frame 3000
+'Drawing preview' on frame 4000
+'Drawing preview' on frame 5000
+Saving "fuente"
+'Saving "fuente"' on frame 0
+'Saving "fuente"' on frame 1
+'Saving "fuente"' on frame 2
+'Saving "fuente"' on frame 3
+'Saving "fuente"' on frame 4
+'Saving "fuente"' on frame 5
+'Saving "fuente"' on frame 6
+'Saving "fuente"' on frame 7
+'Saving "fuente"' on frame 8
+'Saving "fuente"' on frame 9
+'Saving "fuente"' on frame 10
+'Saving "fuente"' on frame 11
+'Saving "fuente"' on frame 12
+'Saving "fuente"' on frame 13
+'Saving "fuente"' on frame 14
+'Saving "fuente"' on frame 15
+'Saving "fuente"' on frame 16
+'Saving "fuente"' on frame 17
+'Saving "fuente"' on frame 18
+'Saving "fuente"' on frame 19
+'Saving "fuente"' on frame 20
+'Saving "fuente"' on frame 21
+'Saving "fuente"' on frame 22
+'Saving "fuente"' on frame 23
+'Saving "fuente"' on frame 24
+'Saving "fuente"' on frame 25
+'Saving "fuente"' on frame 26
+'Saving "fuente"' on frame 27
+'Saving "fuente"' on frame 28
+'Saving "fuente"' on frame 29
+'Saving "fuente"' on frame 30
+'Saving "fuente"' on frame 31
+'Saving "fuente"' on frame 32
+'Saving "fuente"' on frame 33
+'Saving "fuente"' on frame 34
+'Saving "fuente"' on frame 35
+'Saving "fuente"' on frame 36
+'Saving "fuente"' on frame 37
+'Saving "fuente"' on frame 38
+'Saving "fuente"' on frame 39
+'Saving "fuente"' on frame 40
+'Saving "fuente"' on frame 41
+'Saving "fuente"' on frame 42
+'Saving "fuente"' on frame 43
+'Saving "fuente"' on frame 44
+'Saving "fuente"' on frame 45
+'Saving "fuente"' on frame 46
+'Saving "fuente"' on frame 47
+'Saving "fuente"' on frame 48
+'Saving "fuente"' on frame 49
+'Saving "fuente"' on frame 50
+'Saving "fuente"' on frame 51
+'Saving "fuente"' on frame 52
+'Saving "fuente"' on frame 53
+'Saving "fuente"' on frame 54
+'Saving "fuente"' on frame 55
+'Saving "fuente"' on frame 56
+'Saving "fuente"' on frame 57
+'Saving "fuente"' on frame 58
+'Saving "fuente"' on frame 59
+'Saving "fuente"' on frame 60
+'Saving "fuente"' on frame 61
+'Saving "fuente"' on frame 62
+'Saving "fuente"' on frame 63
+'Saving "fuente"' on frame 64
+'Saving "fuente"' on frame 65
+'Saving "fuente"' on frame 66
+'Saving "fuente"' on frame 67
+'Saving "fuente"' on frame 68
+'Saving "fuente"' on frame 69
+'Saving "fuente"' on frame 70
+'Saving "fuente"' on frame 71
+'Saving "fuente"' on frame 72
+'Saving "fuente"' on frame 73
+'Saving "fuente"' on frame 74
+'Saving "fuente"' on frame 75
+'Saving "fuente"' on frame 76
+'Saving "fuente"' on frame 77
+'Saving "fuente"' on frame 78
+'Saving "fuente"' on frame 79
+'Saving "fuente"' on frame 80
+'Saving "fuente"' on frame 81
+'Saving "fuente"' on frame 82
+'Saving "fuente"' on frame 83
+'Saving "fuente"' on frame 84
+'Saving "fuente"' on frame 85
+'Saving "fuente"' on frame 86
+'Saving "fuente"' on frame 87
+'Saving "fuente"' on frame 88
+'Saving "fuente"' on frame 89
+'Saving "fuente"' on frame 90
+'Saving "fuente"' on frame 91
+'Saving "fuente"' on frame 92
+'Saving "fuente"' on frame 93
+'Saving "fuente"' on frame 94
+'Saving "fuente"' on frame 95
+'Saving "fuente"' on frame 96
+'Saving "fuente"' on frame 97
+'Saving "fuente"' on frame 98
+'Saving "fuente"' on frame 99
+Script 'SDK' line 0: SystemExit occured.
+
+(eval):129:in `exit'exit
+
+Backtrace:
+'SDK' line 0(eval) 129:in `update'
+'SDK' line 0(eval) 129:in `update'
+'SDK_Scene_Base' line 110 in `update_modules'
+'SDK_Scene_Base' line 91 in `main_loop'
+'SDK_Scene_Base' line 47 in `main'
+'SDK_Scene_Base' line 46 in `loop'
+'SDK_Scene_Base' line 49 in `main'
+'Main' line 12
+
+===============================================================================
+Thu Jun 12 23:36:46 Hora de verano romance 2025
+-------------------------------------------------------------------------------
+Collecting map data
+'Collecting map data' on frame 0
+'Collecting map data' on frame 1
+'Collecting map data' on frame 2
+'Collecting map data' on frame 3
+'Collecting map data' on frame 4
+'Collecting map data' on frame 5
+'Collecting map data' on frame 6
+'Collecting map data' on frame 7
+'Collecting map data' on frame 8
+'Collecting map data' on frame 9
+'Collecting map data' on frame 10
+'Collecting map data' on frame 11
+'Collecting map data' on frame 12
+'Collecting map data' on frame 13
+'Collecting map data' on frame 14
+'Collecting map data' on frame 15
+'Collecting map data' on frame 16
+'Collecting map data' on frame 17
+'Collecting map data' on frame 18
+'Collecting map data' on frame 19
+'Collecting map data' on frame 20
+'Collecting map data' on frame 21
+'Collecting map data' on frame 22
+'Collecting map data' on frame 23
+'Collecting map data' on frame 24
+'Collecting map data' on frame 25
+'Collecting map data' on frame 26
+'Collecting map data' on frame 27
+'Collecting map data' on frame 28
+'Collecting map data' on frame 29
+'Collecting map data' on frame 30
+'Collecting map data' on frame 31
+'Collecting map data' on frame 32
+'Collecting map data' on frame 33
+'Collecting map data' on frame 34
+'Collecting map data' on frame 35
+'Collecting map data' on frame 36
+'Collecting map data' on frame 37
+'Collecting map data' on frame 38
+'Collecting map data' on frame 39
+'Collecting map data' on frame 40
+'Collecting map data' on frame 41
+'Collecting map data' on frame 42
+'Collecting map data' on frame 43
+'Collecting map data' on frame 44
+'Collecting map data' on frame 45
+'Collecting map data' on frame 46
+'Collecting map data' on frame 47
+'Collecting map data' on frame 48
+'Collecting map data' on frame 49
+'Collecting map data' on frame 50
+'Collecting map data' on frame 51
+'Collecting map data' on frame 52
+'Collecting map data' on frame 53
+'Collecting map data' on frame 54
+'Collecting map data' on frame 55
+Drawing preview
+'Drawing preview' on frame 0
+'Drawing preview' on frame 1000
+'Drawing preview' on frame 2000
+'Drawing preview' on frame 3000
+'Drawing preview' on frame 4000
+'Drawing preview' on frame 5000
+Saving "fuente"
+'Saving "fuente"' on frame 0
+'Saving "fuente"' on frame 1
+'Saving "fuente"' on frame 2
+'Saving "fuente"' on frame 3
+'Saving "fuente"' on frame 4
+'Saving "fuente"' on frame 5
+'Saving "fuente"' on frame 6
+'Saving "fuente"' on frame 7
+'Saving "fuente"' on frame 8
+'Saving "fuente"' on frame 9
+'Saving "fuente"' on frame 10
+'Saving "fuente"' on frame 11
+'Saving "fuente"' on frame 12
+'Saving "fuente"' on frame 13
+'Saving "fuente"' on frame 14
+'Saving "fuente"' on frame 15
+'Saving "fuente"' on frame 16
+'Saving "fuente"' on frame 17
+'Saving "fuente"' on frame 18
+'Saving "fuente"' on frame 19
+'Saving "fuente"' on frame 20
+'Saving "fuente"' on frame 21
+'Saving "fuente"' on frame 22
+'Saving "fuente"' on frame 23
+'Saving "fuente"' on frame 24
+'Saving "fuente"' on frame 25
+'Saving "fuente"' on frame 26
+'Saving "fuente"' on frame 27
+'Saving "fuente"' on frame 28
+'Saving "fuente"' on frame 29
+'Saving "fuente"' on frame 30
+'Saving "fuente"' on frame 31
+'Saving "fuente"' on frame 32
+'Saving "fuente"' on frame 33
+'Saving "fuente"' on frame 34
+'Saving "fuente"' on frame 35
+'Saving "fuente"' on frame 36
+'Saving "fuente"' on frame 37
+'Saving "fuente"' on frame 38
+'Saving "fuente"' on frame 39
+'Saving "fuente"' on frame 40
+'Saving "fuente"' on frame 41
+'Saving "fuente"' on frame 42
+'Saving "fuente"' on frame 43
+'Saving "fuente"' on frame 44
+'Saving "fuente"' on frame 45
+'Saving "fuente"' on frame 46
+'Saving "fuente"' on frame 47
+'Saving "fuente"' on frame 48
+'Saving "fuente"' on frame 49
+'Saving "fuente"' on frame 50
+'Saving "fuente"' on frame 51
+'Saving "fuente"' on frame 52
+'Saving "fuente"' on frame 53
+'Saving "fuente"' on frame 54
+'Saving "fuente"' on frame 55
+'Saving "fuente"' on frame 56
+'Saving "fuente"' on frame 57
+'Saving "fuente"' on fr

@@ -240,6 +240,7 @@ MapSize = 2,11
 Environment = Rock
 #-------------------------------
 [048]   # Estacion
+Name = Estacion
 SnapEdges = true
 #-------------------------------
 [049]   # Cueva de Roca P1
@@ -411,14 +412,25 @@ SnapEdges = true
 #-------------------------------
 [079]   # Rio1
 Name = Salida del puente
-Outdoor = true
 Bicycle = true
+SnapEdges = true
+#-------------------------------
+[080]   # Biblioteca
 SnapEdges = true
 #-------------------------------
 [082]   # Abajo estacion
 Name = Abajo de la estacion
 Bicycle = true
 HealingSpot = 82,49,21
+SnapEdges = true
+#-------------------------------
+[083]   # Orilla del rio
+SnapEdges = true
+#-------------------------------
+[084]   # Tsuki photos
+SnapEdges = true
+#-------------------------------
+[085]   # Rio 2
 SnapEdges = true
 #-------------------------------
 [088]   # Ciudad

@@ -1,4 +1,4 @@
-﻿# See the documentation on the wiki to learn how to edit this file.
+﻿# Consulta la documentación en la wiki para aprender cómo editar este archivo.
 #-------------------------------
 [VENUSAUR,1]
 FormName = Mega Venusaur
@@ -96,65 +96,51 @@ WildItemUncommon = PECHABERRY
 #-------------------------------
 [PIKACHU,2]
 FormName = Forma Coqueta
-GenderRatio = AlwaysFemale
 Abilities = LIGHTNINGROD
 #-------------------------------
 [PIKACHU,3]
 FormName = Forma Aristócrata
-GenderRatio = AlwaysFemale
 Abilities = LIGHTNINGROD
 #-------------------------------
 [PIKACHU,4]
 FormName = Forma Enmascarada
-GenderRatio = AlwaysFemale
 Abilities = LIGHTNINGROD
 #-------------------------------
 [PIKACHU,5]
 FormName = Forma Erudita
-GenderRatio = AlwaysFemale
 Abilities = LIGHTNINGROD
 #-------------------------------
 [PIKACHU,6]
 FormName = Forma Superstar
-GenderRatio = AlwaysFemale
 Abilities = LIGHTNINGROD
 #-------------------------------
 [PIKACHU,7]
 FormName = Forma Roquera
-GenderRatio = AlwaysFemale
 Abilities = LIGHTNINGROD
 #-------------------------------
 [PIKACHU,8]
 FormName = Forma Gorra Original
-GenderRatio = AlwaysMale
 #-------------------------------
 [PIKACHU,9]
 FormName = Forma Gorra Hoenn
-GenderRatio = AlwaysMale
 #-------------------------------
 [PIKACHU,10]
 FormName = Forma Gorra Sinnoh
-GenderRatio = AlwaysMale
 #-------------------------------
 [PIKACHU,11]
 FormName = Forma Gorra Teselia
-GenderRatio = AlwaysMale
 #-------------------------------
 [PIKACHU,12]
 FormName = Forma Gorra Kalos
-GenderRatio = AlwaysMale
 #-------------------------------
 [PIKACHU,13]
 FormName = Forma Gorra Alola
-GenderRatio = AlwaysMale
 #-------------------------------
 [PIKACHU,14]
 FormName = Forma Gorra Compañero
-GenderRatio = AlwaysMale
 #-------------------------------
 [PIKACHU,15]
 FormName = Forma Gorra Trotamundos
-GenderRatio = AlwaysMale
 #-------------------------------
 [RAICHU,1]
 FormName = Forma Alola
@@ -1248,7 +1234,6 @@ BaseExp = 182
 Pokedex = Ha tomado posesión de un cortacésped que funciona con un motor especial. Esparce por todos lados la hierba que ha cortado.
 #-------------------------------
 [GIRATINA,1]
-FormName = Forma Origen
 BaseStats = 150,120,100,90,120,100
 Abilities = LEVITATE
 HiddenAbilities = LEVITATE
@@ -1414,7 +1399,6 @@ BaseStats = 38,55,85,30,30,65
 Abilities = WANDERINGSPIRIT
 Moves = 1,ASTONISH,1,PROTECT,4,HAZE,8,NIGHTSHADE,12,DISABLE,16,BRUTALSWING,20,CRAFTYSHIELD,24,HEX,28,MEANLOOK,32,SLAM,36,CURSE,40,SHADOWBALL,44,EARTHQUAKE,48,POWERSPLIT,48,GUARDSPLIT,52,DESTINYBOND
 TutorMoves = ALLYSWITCH,ATTRACT,BRUTALSWING,CALMMIND,CAPTIVATE,CONFIDE,DARKPULSE,DOUBLEEDGE,DOUBLETEAM,EARTHPOWER,EARTHQUAKE,ENDURE,ENERGYBALL,FACADE,FAKETEARS,FRUSTRATION,HEX,HIDDENPOWER,IMPRISON,IRONDEFENSE,MIMIC,NASTYPLOT,NATURALGIFT,PAYBACK,POLTERGEIST,PROTECT,PSYCHIC,RAINDANCE,REST,RETURN,ROCKSLIDE,ROCKTOMB,ROUND,SAFEGUARD,SANDSTORM,SECRETPOWER,SHADOWBALL,SKILLSWAP,SLEEPTALK,SNORE,SUBSTITUTE,SWAGGER,THIEF,TOXIC,TOXICSPIKES,TRICK,TRICKROOM,WILLOWISP,WONDERROOM,ZENHEADBUTT
-EggMoves = MEMENTO
 Pokedex = Yamask ha sido poseído por una tabla de arcilla sobre la que pesa una maldición. Se dice que absorbe y se nutre de rencor e inquina.
 Generation = 8
 Flags = InheritFormWithEverStone
@@ -1739,7 +1723,7 @@ FormName = Tamaño Grande
 BaseStats = 75,95,122,69,58,75
 Height = 1.1
 Weight = 14.0
-Pokedex =  Los Gourgeist Tamaño Grande se hacen pasar por adultos para tomar a los niños de la mano y llevárselos al otro mundo.
+Pokedex = Los Gourgeist Tamaño Grande se hacen pasar por adultos para tomar a los niños de la mano y llevárselos al otro mundo.
 #-------------------------------
 [GOURGEIST,3]
 FormName = Tamaño Extragrande
@@ -2077,7 +2061,7 @@ Pokedex = Puede liberar descargas eléctricas de hasta 15.000 V. Se enfrenta a c
 #-------------------------------
 [SINISTEA,1]
 FormName = Forma Genuina
-Pokedex =  Espera a que algún incauto intente bebérselo para absorber su energía vital, pero suelen escupirlo enseguida debido a su mal sabor.
+Pokedex = Espera a que algún incauto intente bebérselo para absorber su energía vital, pero suelen escupirlo enseguida debido a su mal sabor.
 Evolutions = POLTEAGEIST,Item,CHIPPEDPOT
 #-------------------------------
 [POLTEAGEIST,1]
@@ -2411,7 +2395,7 @@ Moves = 1,TAILWHIP,1,TACKLE,5,WORKUP,10,DOUBLEKICK,15,FLAMECHARGE,20,HEADBUTT,25
 TutorMoves = BODYPRESS,BODYSLAM,BULKUP,BULLDOZE,CLOSECOMBAT,CURSE,DIG,DOUBLEEDGE,DRILLRUN,EARTHQUAKE,ENDEAVOR,ENDURE,FACADE,FIREBLAST,FIRESPIN,FLAMECHARGE,FLAMETHROWER,FLAREBLITZ,GIGAIMPACT,HIGHHORSEPOWER,HYPERBEAM,IRONHEAD,LASHOUT,OUTRAGE,OVERHEAT,PROTECT,RAINDANCE,REST,REVERSAL,ROCKSLIDE,ROCKTOMB,SANDSTORM,SCARYFACE,SLEEPTALK,SMARTSTRIKE,STOMPINGTANTRUM,STONEEDGE,SUBSTITUTE,SUNNYDAY,TAKEDOWN,TEMPERFLARE,THIEF,TRAILBLAZE,WILDCHARGE,WILLOWISP,ZENHEADBUTT
 Weight = 85.0
 Color = Black
-Pokedex =  La Variedad Ardiente debe su nombre a la capacidad de exhalar aire a altas temperaturas por el hocico. Lleva las tres colas trenzadas.
+Pokedex = La Variedad Ardiente debe su nombre a la capacidad de exhalar aire a altas temperaturas por el hocico. Lleva las tres colas trenzadas.
 Generation = 9
 Flags = InheritFormWithEverStone
 #-------------------------------
@@ -2485,7 +2469,7 @@ Color = Gray
 Habitat = Mountain
 Pokedex = Sus robustas garras son ideales para moverse por los riscos más escarpados. De sus puntas rezuma un veneno que daña los nervios de las presas que captura.
 Generation = 8
-Flags = InheritFormWithEverStone
+Flags = InheritFormWithEverStone,HasGenderedSprites
 Evolutions = SNEASLER,DayHoldItem,RAZORCLAW
 #-------------------------------
 [DIALGA,1]
@@ -2538,27 +2522,27 @@ Generation = 8
 [BASCULIN,2]
 FormName = Forma Raya Roja
 Abilities = RECKLESS,ADAPTABILITY
-Moves=1,WATERGUN,1,TAILWHIP,4,TACKLE,8,FLAIL,12,AQUAJET,16,BITE,20,SCARYFACE,24,HEADBUTT,28,SOAK,32,CRUNCH,36,TAKEDOWN,40,FINALGAMBIT,44,AQUATAIL,44,WAVECRASH,48,THRASH,52,DOUBLEEDGE,56,HEADSMASH
+Moves = 1,WATERGUN,1,TAILWHIP,4,TACKLE,8,FLAIL,12,AQUAJET,16,BITE,20,SCARYFACE,24,HEADBUTT,28,SOAK,32,CRUNCH,36,TAKEDOWN,40,FINALGAMBIT,44,AQUATAIL,44,WAVECRASH,48,THRASH,52,DOUBLEEDGE,56,HEADSMASH
 TutorMoves = AGILITY,AQUATAIL,ASSURANCE,ATTRACT,BOUNCE,BRINE,CAPTIVATE,CONFIDE,CRUNCH,CUT,DIVE,DOUBLETEAM,ENDEAVOR,ENDURE,FACADE,FLIPTURN,FRUSTRATION,HAIL,HIDDENPOWER,HYDROPUMP,ICEBEAM,ICEFANG,ICYWIND,LIQUIDATION,MIMIC,MUDDYWATER,MUDSHOT,NATURALGIFT,PROTECT,PSYCHICFANGS,RAINDANCE,REST,RETURN,REVENGE,REVERSAL,ROUND,SCALD,SCALESHOT,SCARYFACE,SECRETPOWER,SLEEPTALK,SNORE,SUBSTITUTE,SUPERPOWER,SURF,SWAGGER,SWIFT,TAUNT,TOXIC,UPROAR,WATERFALL,WHIRLPOOL,ZENHEADBUTT,BLIZZARD,CHILLINGWATER,DOUBLEEDGE,SNOWSCAPE,TAKEDOWN,WATERPULSE
 EggMoves = BUBBLEBEAM,ENDEAVOR
 Category = Violento
 Pokedex = Los Basculin con la raya roja y aquellos con la raya azul se llevan fatal, pero algunos tienden a agruparse.
 Generation = 5
-WildItemUncommon = DEEPSEATOOTH
 Flags = InheritFormFromMother
+WildItemUncommon = DEEPSEATOOTH
 Evolutions = BASCULEGION,None,
 #-------------------------------
 [BASCULIN,3]
 FormName = Forma Raya Azul
 Abilities = ROCKHEAD,ADAPTABILITY
-Moves=1,WATERGUN,1,TAILWHIP,4,TACKLE,8,FLAIL,12,AQUAJET,16,BITE,20,SCARYFACE,24,HEADBUTT,28,SOAK,32,CRUNCH,36,TAKEDOWN,40,FINALGAMBIT,44,AQUATAIL,44,WAVECRASH,48,THRASH,52,DOUBLEEDGE,56,HEADSMASH
+Moves = 1,WATERGUN,1,TAILWHIP,4,TACKLE,8,FLAIL,12,AQUAJET,16,BITE,20,SCARYFACE,24,HEADBUTT,28,SOAK,32,CRUNCH,36,TAKEDOWN,40,FINALGAMBIT,44,AQUATAIL,44,WAVECRASH,48,THRASH,52,DOUBLEEDGE,56,HEADSMASH
 TutorMoves = AGILITY,AQUATAIL,ASSURANCE,ATTRACT,BOUNCE,BRINE,CAPTIVATE,CONFIDE,CRUNCH,CUT,DIVE,DOUBLETEAM,ENDEAVOR,ENDURE,FACADE,FLIPTURN,FRUSTRATION,HAIL,HIDDENPOWER,HYDROPUMP,ICEBEAM,ICEFANG,ICYWIND,LIQUIDATION,MIMIC,MUDDYWATER,MUDSHOT,NATURALGIFT,PROTECT,PSYCHICFANGS,RAINDANCE,REST,RETURN,REVENGE,REVERSAL,ROUND,SCALD,SCALESHOT,SCARYFACE,SECRETPOWER,SLEEPTALK,SNORE,SUBSTITUTE,SUPERPOWER,SURF,SWAGGER,SWIFT,TAUNT,TOXIC,UPROAR,WATERFALL,WHIRLPOOL,ZENHEADBUTT
 EggMoves = BUBBLEBEAM,ENDEAVOR
 Category = Violento
 Pokedex = Los Basculin con la raya roja y aquellos con la raya azul se llevan fatal, pero algunos tienden a agruparse.
 Generation = 5
-WildItemUncommon = DEEPSEASCALE
 Flags = InheritFormFromMother
+WildItemUncommon = DEEPSEASCALE
 Evolutions = BASCULEGION,None,
 #-------------------------------
 [ZORUA,1]
@@ -2678,8 +2662,8 @@ Generation = 9
 #-------------------------------
 [BASCULEGION,1]
 FormName = Forma Hembra
-GenderRatio = AlwaysFemale
 BaseStats = 120,92,65,78,100,75
+Flags = DefaultForm_2,InheritFormWithEverStone
 #-------------------------------
 [ENAMORUS,1]
 FormName = Forma Tótem
@@ -2758,7 +2742,6 @@ Color = White
 #-------------------------------
 [GIMMIGHOUL,1]
 FormName = Forma Andante
-CatchRate = 45
 Abilities = RUNAWAY
 Height = 0.1
 Weight = 0.1
@@ -2861,7 +2844,6 @@ Height = 0.3
 Weight = 16.0
 Shape = Head
 Pokedex = Cuando presiente peligro, se prepara para combatir formando un caparazón de cristales muy resistente mediante la teracristalización.
-Flags = Legendary,TeraType_STELLAR
 #-------------------------------
 [TERAPAGOS,2]
 FormName = Forma Astral
@@ -2872,13 +2854,9 @@ Height = 1.7
 Weight = 77.0
 Shape = Head
 Pokedex = Adopta esta forma cuando su energía Teracristal se ve amplificada descomunalmente. Se asemeja a la imagen del mundo que la gente tenía antaño.
-Flags = Legendary,TeraType_STELLAR
 #-------------------------------
 [SNIVY,1]
 FormName = Forma Numazu
-Moves=1,TACKLE,4,LEER,7,VINEWHIP,10,WRAP,13,GROWTH,16,LEAFTORNADO,16,MAGICALLEAF,19,LEECHSEED,22,MEGADRAIN,25,SLAM,28,LEAFBLADE,31,COIL,34,GIGADRAIN,37,WRINGOUT,37,GASTROACID,40,LEAFSTORM
-TutorMoves = AERIALACE,AQUATAIL,ATTRACT,BIND,CALMMIND,CAPTIVATE,CONFIDE,CUT,DEFOG,DOUBLETEAM,ENDURE,ENERGYBALL,FACADE,FLASH,FRUSTRATION,GASTROACID,GIGADRAIN,GRASSKNOT,GRASSPLEDGE,HIDDENPOWER,IRONTAIL,KNOCKOFF,LIGHTSCREEN,MIMIC,NATURALGIFT,NATUREPOWER,PROTECT,REFLECT,REST,RETURN,ROUND,SAFEGUARD,SECRETPOWER,SEEDBOMB,SLEEPTALK,SNATCH,SNORE,SOLARBEAM,SUBSTITUTE,SUNNYDAY,SWAGGER,SWORDSDANCE,SYNTHESIS,TAUNT,TORMENT,TOXIC,WORKUP,WORRYSEED,TAKEDOWN,TRAILBLAZE,SWIFT,MAGICALLEAF,BULLETSEED,HELPINGHAND,GRASSYTERRAIN,LEAFSTORM,GRASSYGLIDE,DOUBLEEDGE,PETALBLIZZARD
-EggMoves = CAPTIVATE,GLARE,GRASSYTERRAIN,IRONTAIL,MAGICALLEAF,MEANLOOK,MIRRORCOAT,NATURALGIFT,PURSUIT,SWEETSCENT,TWISTER
 Category = Serp. Azalea
 Pokedex = Presenta una personalidad tímida e inocente. Se le puede ver mirando al cielo nocturno como si estuviese buscando algo.
 Generation = 9
@@ -2886,9 +2864,6 @@ Flags = InheritFormWithEverStone
 #-------------------------------
 [FENNEKIN,1]
 FormName = Forma Numazu
-Moves=1,SCRATCH,1,TAILWHIP,5,EMBER,11,HOWL,14,FLAMECHARGE,17,PSYBEAM,20,FIRESPIN,25,LUCKYCHANT,25,LIGHTSCREEN,31,PSYSHOCK,35,FLAMETHROWER,38,WILLOWISP,41,PSYCHIC,43,SUNNYDAY,46,MAGICROOM,48,FIREBLAST
-TutorMoves = ATTRACT,CAPTIVATE,CONFIDE,COVET,CUT,DOUBLETEAM,DREAMEATER,ECHOEDVOICE,EMBARGO,ENDURE,FACADE,FIREBLAST,FIREPLEDGE,FLAMECHARGE,FLAMETHROWER,FOULPLAY,FRUSTRATION,GRASSKNOT,HEATWAVE,HIDDENPOWER,INCINERATE,IRONTAIL,LIGHTSCREEN,MAGICCOAT,MAGICROOM,MIMIC,NATURALGIFT,OVERHEAT,POWERUPPUNCH,PROTECT,PSYCHIC,PSYCHUP,PSYSHOCK,RAINDANCE,REST,RETURN,ROUND,SAFEGUARD,SECRETPOWER,SLEEPTALK,SNORE,SOLARBEAM,SUBSTITUTE,SUNNYDAY,SWAGGER,THIEF,TOXIC,WILLOWISP,WORKUP,TAKEDOWN,CHARM,AGILITY,MUDSLAP,PSYBEAM,FIRESPIN,SWIFT,MUDSHOT,STOREDPOWER,IMPRISON,SKILLSWAP,TRICK,ENCORE,CALMMIND,HELPINGHAND,PSYCHICTERRAIN,TRICKROOM,FLAREBLITZ,BURNINGJEALOUSY
-EggMoves = HEATWAVE,HYPNOSIS,MAGICCOAT,PSYCHICTERRAIN,WISH
 Category = Culpazorro
 Pokedex = Usa su pelaje en llamas como cebo para que los humanos se preocupen por este Pokémon y le lleven a sus casas, luego les roba la comida y huye.
 Generation = 9
@@ -2896,9 +2871,6 @@ Flags = InheritFormWithEverStone
 #-------------------------------
 [POPPLIO,1]
 FormName = Forma Numazu
-Moves=1,POUND,1,GROWL,3,WATERGUN,6,DISARMINGVOICE,9,AQUAJET,12,BABYDOLLEYES,15,ICYWIND,18,SING,21,BUBBLEBEAM,24,ENCORE,27,MISTYTERRAIN,30,HYPERVOICE,33,MOONBLAST,36,HYDROPUMP
-TutorMoves = ACROBATICS,AMNESIA,AQUATAIL,ATTRACT,BLIZZARD,BRINE,CAPTIVATE,CHARM,CONFIDE,COVET,DIVE,DOUBLETEAM,DRAININGKISS,ECHOEDVOICE,ENCORE,ENDURE,FACADE,FLIPTURN,FRUSTRATION,HAIL,HELPINGHAND,HIDDENPOWER,HYDROPUMP,HYPERVOICE,ICEBEAM,ICYWIND,IRONTAIL,MIMIC,MISTYTERRAIN,NATURALGIFT,PLAYROUGH,PROTECT,RAINDANCE,REST,RETURN,ROUND,SCALD,SECRETPOWER,SLEEPTALK,SNORE,SUBSTITUTE,SURF,SWAGGER,TOXIC,TRIPLEAXEL,UPROAR,WATERFALL,WATERPLEDGE,WATERPULSE,WHIRLPOOL,WONDERROOM,WORKUP,DISARMINGVOICE,CHILLINGWATER,SWIFT,ICESPINNER
-EggMoves = AQUARING,LIFEDEW,PERISHSONG
 Category = Energifoca
 Pokedex = Es muy energético, siempre quiere jugar. Se les ha visto saltando a barcos y jugando a ser parte de la tripulación.
 Generation = 9

@@ -120,6 +120,6 @@ Pokemon = BLASTOISE,63
 #-------------------------------
 [LADY,Aina]
 LoseText = Sin ánimo de lucro, ¿una pizza o una tortilla de patatas? Tú me entiendes, ¿no?
-Pokemon = SNIVY,3
-Pokemon = FENNEKIN,3
-Pokemon = POPPLIO,3
+Pokemon = SNIVY_1,3
+Pokemon = FENNEKIN_1,3
+Pokemon = POPPLIO_1,3

@@ -22,7 +22,7 @@ module Settings
   # Oculta los sprites de sombra del combatiente en el lado del jugador cuando es true.
   # Esto es false por defecto porque la interfaz de batalla predeterminada los ocultará de todos modos.
   #-----------------------------------------------------------------------------
-  SHOW_PLAYER_SIDE_SHADOW_SPRITES = false
+  SHOW_PLAYER_SIDE_SHADOW_SPRITES = true
 
   #-----------------------------------------------------------------------------
   # Decide si quieres que la sombra del bando del jugador esté invertida o no.
@@ -38,7 +38,7 @@ module Settings
   #-----------------------------------------------------------------------------
   # Métricas de coordenadas Y para los sprites traseros y frontales de la muñeca de Sustituto, respectivamente.
   #-----------------------------------------------------------------------------
-  SUBSTITUTE_DOLL_METRICS = [36, 56]
+  SUBSTITUTE_DOLL_METRICS = [87, 60]
 
   #-----------------------------------------------------------------------------
   # Adjustments to the [X, Y] coordinates for species sprites displayed in UI's.
@@ -62,6 +62,7 @@ module Settings
     :HOOH          => [0, -14],
     :RAYQUAZA      => [12, 0],
     :TALONFLAME    => [0, -12],
+    :DRAGALGE      => [8, 0],
     :CLAWITZER     => [0, -16],
     :TYRANTRUM     => [8, 0],
     :AURORUS       => [8, 0],
@@ -69,7 +70,8 @@ module Settings
     :MINIOR        => [-6, -8],
     :TAPUFINI      => [12, 0],
     :SIRFETCHD     => [-8, -4],
-    :ETERNATUS     => [0, -12],
+    :FROSMOTH      => [12, -16],
+    :ETERNATUS     => [8, -12],
     :WYRDEER       => [-14, 0],
     :BASCULEGION   => [6, -6],
     :SKELEDIRGE    => [0, 6],
@@ -82,9 +84,9 @@ module Settings
     #---------------------------------------------------------------------------
     # Forms
     :CHARIZARD_1   => [16, 0],     # Mega Charizard X
-    :BEEDRILL_1    => [-10, 0],    # Mega Beedrill
+    :BEEDRILL_1    => [-6, 0],    # Mega Beedrill
     :SCEPTILE_1    => [0, 8],      # Mega Sceptile
-    :BLAZIKEN_1    => [-8, 0],     # Mega Blaziken
+    :BLAZIKEN_1    => [24, 0],     # Mega Blaziken
     :KYOGRE_1      => [0, -6],     # Primal Kyogre
     :RAYQUAZA_1    => [6, 0],      # Mega Rayquaza
     :MINIOR_7      => [-16, -28],  # Red Core Minior

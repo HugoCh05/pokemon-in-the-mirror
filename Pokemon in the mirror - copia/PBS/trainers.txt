@@ -119,7 +119,11 @@ Pokemon = BLASTOISE,63
     Item = SITRUSBERRY
 #-------------------------------
 [LADY,Aina]
-LoseText = Sin ánimo de lucro, ¿una pizza o una tortilla de patatas? Tú me entiendes, ¿no?
-Pokemon = SNIVY_1,3
-Pokemon = FENNEKIN_1,3
-Pokemon = POPPLIO_1,3
+LoseText = Sin animo de lucro
+Pokemon = SNIVY,3
+	Form = 1
+Pokemon = FENNEKIN,3
+	Form = 1
+Pokemon = POPPLIO,3
+	Form = 1
+#-------------------------------

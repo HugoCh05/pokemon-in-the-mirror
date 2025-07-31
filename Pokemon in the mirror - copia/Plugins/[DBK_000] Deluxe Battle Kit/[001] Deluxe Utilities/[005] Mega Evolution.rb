@@ -50,6 +50,8 @@ end
 # Updates to Mega Evolution battle scripts.
 #-------------------------------------------------------------------------------
 class Battle
+  attr_reader :mega_rings
+
   def pbAttackPhaseMegaEvolution
     pbPriority.each do |b|
       next unless @choices[b.index][0] == :UseMove && !b.fainted?
@@ -102,7 +104,7 @@ class Battle
         pbDisplay(_INTL("¡El deseo ferviente de {1} ha alcanzado a {2}!", trainerName, battler.pbThis))
       else
         pbDisplay(_INTL("¡{2} de {1} está reaccionando a {4} de {3}!",
-                        battler.pbThis, battler.itemName, trainerName, pbGetMegaRingName(idxBattler)))
+                        battler.pbThis(true), battler.itemName, trainerName, pbGetMegaRingName(idxBattler)))
       end
     end
     pbAnimateMegaEvolution(battler)
@@ -218,19 +220,18 @@ class Battle::Scene::Animation::BattlerMegaEvolve < Battle::Scene::Animation
     #---------------------------------------------------------------------------
     # Gets trainer data from battler index (non-wild only).
     if !@battler.wild?
-      items = []
       trainer_item = :MEGARING
       trainer = @battle.pbGetOwnerFromBattlerIndex(idxBattler)
-      @trainer_file = GameData::TrainerType.front_sprite_filename(trainer.trainer_type)
-      GameData::Item.each { |item| items.push(item.id) if item.has_flag?("MegaRing") }
       if @battle.pbOwnedByPlayer?(idxBattler)
-        items.each do |item|
+        @trainer_file = GameData::TrainerType.player_front_sprite_filename(trainer.trainer_type)
+        @battle.mega_rings.each do |item|
           next if !$bag.has?(item)
           trainer_item = item
         end
       else
+	    @trainer_file = GameData::TrainerType.front_sprite_filename(trainer.trainer_type)
         trainer_items = @battle.pbGetOwnerItems(idxBattler)
-        items.each do |item|
+        @battle.mega_rings.each do |item|
           next if !trainer_items&.include?(item)
           trainer_item = item
         end
@@ -333,7 +334,7 @@ class Battle::Scene::Animation::BattlerMegaEvolve < Battle::Scene::Animation
       #-------------------------------------------------------------------------
       # Mega Ring appears with outline; slide upwards.
       picTRAINER.setSE(delay, "DX Action")
-      arrITEM.each do |p, s| 
+      arrITEM.each do |p, s|
         p.setVisible(delay, true)
         p.moveDelta(delay, 15, 0, -20)
         p.moveOpacity(delay, 15, 255)

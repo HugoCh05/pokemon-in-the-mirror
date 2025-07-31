@@ -116,6 +116,21 @@ class PokemonStorageScene
 end
 
 #===============================================================================
+# Evolution scene
+#===============================================================================
+# Auto-Positions sprites during the evolution scene.
+#-------------------------------------------------------------------------------
+class PokemonEvolutionScene
+  alias animated_set_up_animation set_up_animation
+  def set_up_animation
+    x, y = @sprites["rsprite1"].x, @sprites["rsprite1"].y
+    @sprites["rsprite1"].pbSetDisplay([x, y])
+    @sprites["rsprite2"].pbSetDisplay([x, y], @newspecies)
+    animated_set_up_animation
+  end
+end
+
+#===============================================================================
 # Utilities
 #===============================================================================
 # Used in calculating auto-positioning for sprites in various UI's.

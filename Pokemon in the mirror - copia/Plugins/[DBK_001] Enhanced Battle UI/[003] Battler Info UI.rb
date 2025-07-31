@@ -385,7 +385,7 @@ class Battle::Scene
     #---------------------------------------------------------------------------
     # Damage gates for scripted battles.
     if battler.damageThreshold
-      desc = _INTL("The Pokémon's HP won't fall below {1}% when attacked.", battler.damageThreshold)
+      desc = _INTL("The Pokémon's HP won't fall below {1}% when attacked.", battler.damageThreshold.abs)
       display_effects.push([_INTL("Damage Gate"), "--", desc])
     end
     #---------------------------------------------------------------------------
@@ -408,7 +408,7 @@ class Battle::Scene
     weather = battler.effectiveWeather
     if weather != :None
       if weather == :Hail
-        if defined?(Settings::HAIL_WEATHER_TYPE)
+        if defined?(Settings::HAIL_WEATHER_TYPE) && Settings::HAIL_WEATHER_TYPE > 0
           case Settings::HAIL_WEATHER_TYPE
           when 1
             name = _INTL("Nevada")

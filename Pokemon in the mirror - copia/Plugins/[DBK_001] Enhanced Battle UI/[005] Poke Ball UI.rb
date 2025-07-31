@@ -8,7 +8,7 @@ class Battle::Scene
   def pbToggleBallInfo(idxBattler)
     return false if pbInSafari?
     return false if !@battle.pbCanUsePokeBall?(idxBattler)
-    ballPocket = $bag.get_ball_pocket
+    return false if $bag.get_ball_pocket < 0
     return false if ballPocket < 0
     pbHideInfoUI if @enhancedUIToggle != :ball
     @enhancedUIToggle = (@enhancedUIToggle.nil?) ? :ball : nil
@@ -163,6 +163,7 @@ class Battle
     return false if !@internalBattle
     return false if @disablePokeBalls
     return false if trainerBattle?
+    return false if $bag.get_ball_pocket < 0
     idxBattler = idxBattler.index if idxBattler.respond_to?("index")
     return false if !pbOwnedByPlayer?(idxBattler || 0)
     return false if pbOpposingBattlerCount(idxBattler || 0) > 1

@@ -138,7 +138,7 @@ Battle::AbilityEffects::OnSwitchIn.add(:IMPOSTER,
     battle.scene.pbAnimateSubstitute(battler, :hide)
     battler.effects[PBEffects::TransformPokemon] = choice.pokemon
     battle.pbAnimation(:TRANSFORM, battler, choice)
-    battler.mosaicChange = true if defined?(battler.mosaicChange)
+    battler.battlerSprite.prepare_mosaic = true if defined?(battler.battlerSprite)
     battle.scene.pbChangePokemon(battler, choice.pokemon)
     battler.pbTransform(choice)
     battle.scene.pbAnimateSubstitute(battler, :show)
@@ -526,8 +526,8 @@ end
 #-------------------------------------------------------------------------------
 class Battle::Move::LowerPPOfTargetLastMoveBy3 < Battle::Move
   def pbAdditionalEffect(user, target)
-    return if target.pokemon.immunities.include?(:PPLOSS)
     return if target.fainted? || target.damageState.substitute
+    return if target.pokemon.immunities.include?(:PPLOSS)
     return if !target.lastRegularMoveUsed
     showMsg = false
     if target.powerMoveIndex >= 0
@@ -563,7 +563,7 @@ end
 class Battle::Move::DisableTargetSoundMoves < Battle::Move
   alias dx_pbAdditionalEffect pbAdditionalEffect
   def pbAdditionalEffect(user, target)
-    return if target.pokemon.immunities.include?(:DISABLE)
+    return if !target.fainted? && target.pokemon.immunities.include?(:DISABLE)
     dx_pbAdditionalEffect(user, target)
   end
 end
@@ -616,7 +616,7 @@ class Battle::Move::TransformUserIntoTarget < Battle::Move
   def pbShowAnimation(id, user, targets, hitNum = 0, showAnimation = true)
     super
     user.effects[PBEffects::TransformPokemon] = targets[0].pokemon
-    user.mosaicChange = true if defined?(user.mosaicChange)
+    user.battlerSprite.prepare_mosaic = true if defined?(user.battlerSprite)
     @battle.scene.pbChangePokemon(user, targets[0].pokemon)
     @battle.scene.pbAnimateSubstitute(user, :show)
   end
@@ -919,6 +919,9 @@ class Battle::Move::UserConsumeTargetBerry < Battle::Move
     itemName = target.itemName
     user.setBelched
     target.pbRemoveItem
+    if defined?(target.stolenItemData) && target.initialItem == item
+      @battle.initialItems[target.index & 1][target.pokemonIndex] = nil
+    end
     @battle.pbDisplay(_INTL("¡{1} robó y se comió la {2}!", user.pbThis, itemName))
     user.pbHeldItemTriggerCheck(item.id, false)
     user.pbSymbiosis

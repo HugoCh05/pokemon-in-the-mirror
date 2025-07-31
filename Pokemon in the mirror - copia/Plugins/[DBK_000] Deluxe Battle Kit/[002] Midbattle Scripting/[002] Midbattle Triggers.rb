@@ -56,13 +56,19 @@ end
 #-------------------------------------------------------------------------------
 MidbattleHandlers.add(:midbattle_triggers, "setBattler",
   proc { |battle, idxBattler, idxTarget, params|
-    idxBattler = 0 if idxBattler.nil?
-    idxTarget  = 1 if idxTarget.nil?
+    idxBattler = 0 if idxBattler.nil? || !battle.battlers[idxBattler]
     default_battler = battle.battlers[idxBattler]
-    default_battler = battle.allSameSideBattlers(idxBattler).first if !default_battler || default_battler.fainted?
-    default_target  = battle.battlers[idxTarget]
-    default_target  = battle.allSameSideBattlers(idxTarget).first if !default_target || default_target.fainted?
-    default_target  = default_battler.pbDirectOpposing(true) if default_target.index == default_battler.index
+    if default_battler.fainted?
+      side = battle.allSameSideBattlers(idxBattler)
+      default_battler = side.first if !side.empty?
+    end
+    idxTarget = 1 if idxTarget.nil? || !battle.battlers[idxTarget]
+    default_target = battle.battlers[idxTarget]
+    if default_target.fainted?
+      side = battle.allSameSideBattlers(idxTarget)
+      default_target = side.first if !side.empty?
+    end
+    default_target = default_battler.pbDirectOpposing(true) if default_target.index == default_battler.index
     case params
     when Integer        then targ = battle.battlers[params] || default_battler
     when :Self          then targ = default_battler
@@ -905,11 +911,11 @@ MidbattleHandlers.add(:midbattle_triggers, "battlerType",
       battler.effects[PBEffects::Roost]  = false
       typeNames = ""
       types.each_with_index do |t, i|
-        typeNames += ((i == types.length - 1) ? " and " : ", ") if i > 0
+        typeNames += ((i == types.length - 1) ? " y " : ", ") if i > 0
         typeNames += GameData::Type.get(t).name
       end
       PBDebug.log("     'battlerType': #{battler.name} (#{battler.index}) typing became #{typeNames}")
-      battle.pbDisplay(_INTL("{1}'s type changed to {2}!", battler.pbThis, typeNames))
+      battle.pbDisplay(_INTL("¡El tipo de {1} cambió a {2}!", battler.pbThis, typeNames))
     end
   }
 )
@@ -1281,6 +1287,10 @@ MidbattleHandlers.add(:midbattle_triggers, "battlerEffects",
         battler.effects[effect] = value
         PBDebug.log("     'battlerEffects': #{battler.name} (#{battler.index})'s #{id} effect set to #{value}")
         battle.pbDisplay(_INTL(msg, battler_name)) if msg
+        if id == :SmackDown && value && defined?(battler.battlerSprite)
+          next if battler.battlerSprite.vanishMode != 2
+          battle.scene.pbChangePokemon(battler, battler.visiblePokemon, 0)
+        end
       elsif $DELUXE_PBEFFECTS[:battler][:counter].include?(id)
         next if battler.effects[effect] == 0 && value == 0
         case id
@@ -1350,6 +1360,31 @@ MidbattleHandlers.add(:midbattle_triggers, "battlerEffects",
         battle.pbDisplay(_INTL(msg, battler_name)) if msg
       end
     end
+  }
+)
+
+#-------------------------------------------------------------------------------
+# Sets the Wish effect on a battler's position.
+#-------------------------------------------------------------------------------
+MidbattleHandlers.add(:midbattle_triggers, "battlerWish",
+  proc { |battle, idxBattler, idxTarget, params|
+    battler = battle.battlers[idxBattler]
+    next if !battler || battle.decision > 0
+    next if battle.positions[idxBattler].effects[PBEffects::Wish] > 0
+    if params.is_a?(Array)
+      count, amount = *params
+    elsif params.is_a?(Integer)
+      count = params
+      amount = (battler.totalhp / 2.0).round
+    else
+      count = 2
+      amount = (battler.totalhp / 2.0).round
+    end
+    battle.positions[idxBattler].effects[PBEffects::Wish]       = count
+    battle.positions[idxBattler].effects[PBEffects::WishAmount] = amount
+    battle.positions[idxBattler].effects[PBEffects::WishMaker]  = battler.pokemonIndex
+    PBDebug.log("     'battlerWish': Wish effect to trigger in #{count} turns on #{battler.name} (#{battler.index})'s position")
+    battle.pbDisplay(_INTL("¡El deseo de {1} se cumplió!", battler.pbThis))
   }
 )
 
@@ -1481,7 +1516,11 @@ MidbattleHandlers.add(:midbattle_triggers, "fieldEffects",
                 b.effects[PBEffects::SkyDrop]       = -1
                 showMessage = true
               end
-              battle.pbDisplay(_INTL("{1} couldn't stay airborne because of gravity!", b.pbThis)) if showMessage
+              battle.pbDisplay(_INTL("¡{1} no pudo mantenerse en el aire debido a la gravedad!", b.pbThis)) if showMessage
+              if defined?(b.battlerSprite)
+                next if b.battlerSprite.vanishMode != 2
+                battle.scene.pbChangePokemon(b, b.visiblePokemon, 0)
+              end
             end
           end
         else

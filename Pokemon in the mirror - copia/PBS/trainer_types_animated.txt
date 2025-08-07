@@ -1,4 +1,4 @@
-﻿# See the documentation on the wiki to learn how to edit this file.
+﻿# Consulta la documentación en la wiki para aprender cómo editar este archivo.
 #-------------------------------
 [POKEMONTRAINER_Ethan]
 Name = Pokémon Trainer
@@ -1119,3 +1119,9 @@ Name = Red Fog
 Gender = Unknown
 BaseMoney = 72
 HideShadow = true
+#-------------------------------
+[GNY_RIKO]
+Name = Riko
+Gender = Female
+BaseMoney = 60
+ShadowXY = -3,-4

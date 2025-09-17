@@ -265,7 +265,7 @@ class PokemonSummary_Scene
         @show_back = !@show_back
         if PluginManager.installed?("[DBK] Animated Pokémon System")
           @sprites["pokemon"].setSummaryBitmap(@pokemon, @show_back)
-          @sprites["pokemon"].constrict([208, 164])
+          #@sprites["pokemon"].constrict([208, 164])
         else
           @sprites["pokemon"].setPokemonBitmap(@pokemon, @show_back)
         end

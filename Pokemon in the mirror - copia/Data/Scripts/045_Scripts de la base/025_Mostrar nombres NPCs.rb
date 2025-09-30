@@ -131,7 +131,16 @@ module NameBox
   NPCCOLORS = {
     # "Nombre" => [ColorBase, Sombra]
     "Prof. Oak" => [Color.new(48,80,200), Color.new(208,208,208)],
-    "Candela" => [Color.new(224,8,8), Color.new(208,208,208)]
+    "Candela" => [Color.new(224,8,8), Color.new(208,208,208)],
+    "Yohane" => [Color.new(137, 137, 137), Color.new(100,100,100)],
+    "Hanamaru" => [Color.new(230, 214, 23), Color.new(208,208,208)],
+    "Ruby" => [Color.new(251, 117, 228), Color.new(208,208,208)],
+    "Dia" => [Color.new(242, 59, 76), Color.new(208,208,208)],
+    "Kanan" => [Color.new(19, 232, 174), Color.new(208,208,208)],
+    "Mari" => [Color.new(174, 88, 235), Color.new(208,208,208)],
+    "You" => [Color.new(73, 185, 249), Color.new(208,208,208)],
+    "Chika" => [Color.new(240, 162, 11), Color.new(208,208,208)],
+    "Riko" => [Color.new(233, 169, 232), Color.new(208,208,208)]
   }
 
   # Si esto está en true el cuadro del nombre del NPC será del mismo estilo que el cuadro de texto elegido

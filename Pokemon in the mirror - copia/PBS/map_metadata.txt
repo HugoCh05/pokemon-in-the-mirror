@@ -416,6 +416,7 @@ Bicycle = true
 SnapEdges = true
 #-------------------------------
 [080]   # Biblioteca
+Name = Biblioteca
 SnapEdges = true
 #-------------------------------
 [082]   # Abajo estacion
@@ -425,15 +426,21 @@ HealingSpot = 82,49,21
 SnapEdges = true
 #-------------------------------
 [083]   # Orilla del rio
+Name = Orilla del rio
 SnapEdges = true
 #-------------------------------
 [084]   # Tsuki photos
+Name = Tsuki photos
 SnapEdges = true
 #-------------------------------
 [085]   # Rio 2
+Name = Rio 2
 SnapEdges = true
 #-------------------------------
 [088]   # Ciudad
 Name = Ciudad
 Bicycle = true
 SnapEdges = true
+#-------------------------------
+[094]   # Fuera escenario
+Name = 

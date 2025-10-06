@@ -138,6 +138,18 @@ Pokemon = CHARIZARD,63
 Pokemon = BLASTOISE,63
     Item = SITRUSBERRY
 #-------------------------------
+[LADY,Aiko]
+LoseText = Jo, quería el patrocinio
+Pokemon = FROAKIE,5
+#-------------------------------
+[LADY,Aiko,1]
+LoseText = Jo, quería el patrocinio
+Pokemon = TURTWIG,5
+#-------------------------------
+[LADY,Aiko,2]
+LoseText = Jo, quería el patrocinio
+Pokemon = CYNDAQUIL,5
+#-------------------------------
 [LADY,Aina]
 LoseText = Sin animo de lucro
 LoseText_F = Sin animo de lucro

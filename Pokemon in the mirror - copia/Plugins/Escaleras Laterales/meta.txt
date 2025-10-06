@@ -1,0 +1,4 @@
+Name       = Marin Side Stairs (Aioros edit) 
+Version    = 1.1
+Essentials = 21.1
+Credits    = Marin, Aioros

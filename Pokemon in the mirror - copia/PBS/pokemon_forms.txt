@@ -2857,6 +2857,7 @@ Pokedex = Adopta esta forma cuando su energía Teracristal se ve amplificada des
 #-------------------------------
 [SNIVY,1]
 FormName = Forma Numazu
+Moves = 1,TACKLE,1,LEER,5,VINEWHIP,10,WRAP,13,GROWTH,16,LEAFTORNADO,16,MAGICALLEAF,19,LEECHSEED,22,MEGADRAIN,25,SLAM,28,LEAFBLADE,31,COIL,34,GIGADRAIN,37,WRINGOUT,37,GASTROACID,40,LEAFSTORM
 Category = Serp. Azalea
 Pokedex = Presenta una personalidad tímida e inocente. Se le puede ver mirando al cielo nocturno como si estuviese buscando algo.
 Generation = 9

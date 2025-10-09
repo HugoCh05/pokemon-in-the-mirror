@@ -600,7 +600,7 @@ module Settings
       "Sprites de Iniciales de Sopha",
       "Objetos decorativos habitacion de Yohane de Daniel Corbacho",
       "Inspiracion fuente XDinky",
-      "",
+      "Inspiracion gradas de FNC_Jinta",
       "",
       "",
       "",

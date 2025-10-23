@@ -1951,3 +1951,405 @@ Backtrace:
 'SDK_Scene_Base' line 49 in `main'
 'Main' line 12
 
+===============================================================================
+Wed Oct 22 23:59:53 Hora de verano romance 2025
+-------------------------------------------------------------------------------
+Collecting map data
+'Collecting map data' on frame 0
+'Collecting map data' on frame 1
+'Collecting map data' on frame 2
+'Collecting map data' on frame 3
+'Collecting map data' on frame 4
+'Collecting map data' on frame 5
+'Collecting map data' on frame 6
+'Collecting map data' on frame 7
+'Collecting map data' on frame 8
+'Collecting map data' on frame 9
+'Collecting map data' on frame 10
+'Collecting map data' on frame 11
+'Collecting map data' on frame 12
+'Collecting map data' on frame 13
+'Collecting map data' on frame 14
+'Collecting map data' on frame 15
+'Collecting map data' on frame 16
+'Collecting map data' on frame 17
+'Collecting map data' on frame 18
+'Collecting map data' on frame 19
+'Collecting map data' on frame 20
+Drawing preview
+'Drawing preview' on frame 0
+Saving "Estadio"
+'Saving "Estadio"' on frame 0
+'Saving "Estadio"' on frame 1
+'Saving "Estadio"' on frame 2
+'Saving "Estadio"' on frame 3
+'Saving "Estadio"' on frame 4
+'Saving "Estadio"' on frame 5
+'Saving "Estadio"' on frame 6
+'Saving "Estadio"' on frame 7
+'Saving "Estadio"' on frame 8
+'Saving "Estadio"' on frame 9
+'Saving "Estadio"' on frame 10
+'Saving "Estadio"' on frame 11
+'Saving "Estadio"' on frame 12
+'Saving "Estadio"' on frame 13
+'Saving "Estadio"' on frame 14
+'Saving "Estadio"' on frame 15
+'Saving "Estadio"' on frame 16
+'Saving "Estadio"' on frame 17
+'Saving "Estadio"' on frame 18
+'Saving "Estadio"' on frame 19
+'Saving "Estadio"' on frame 20
+'Saving "Estadio"' on frame 21
+'Saving "Estadio"' on frame 22
+'Saving "Estadio"' on frame 23
+'Saving "Estadio"' on frame 24
+'Saving "Estadio"' on frame 25
+'Saving "Estadio"' on frame 26
+'Saving "Estadio"' on frame 27
+'Saving "Estadio"' on frame 28
+'Saving "Estadio"' on frame 29
+'Saving "Estadio"' on frame 30
+'Saving "Estadio"' on frame 31
+'Saving "Estadio"' on frame 32
+'Saving "Estadio"' on frame 33
+'Saving "Estadio"' on frame 34
+'Saving "Estadio"' on frame 35
+'Saving "Estadio"' on frame 36
+'Saving "Estadio"' on frame 37
+'Saving "Estadio"' on frame 38
+'Saving "Estadio"' on frame 39
+'Saving "Estadio"' on frame 40
+'Saving "Estadio"' on frame 41
+'Saving "Estadio"' on frame 42
+'Saving "Estadio"' on frame 43
+'Saving "Estadio"' on frame 44
+'Saving "Estadio"' on frame 45
+'Saving "Estadio"' on frame 46
+'Saving "Estadio"' on frame 47
+'Saving "Estadio"' on frame 48
+'Saving "Estadio"' on frame 49
+'Saving "Estadio"' on frame 50
+'Saving "Estadio"' on frame 51
+'Saving "Estadio"' on frame 52
+'Saving "Estadio"' on frame 53
+'Saving "Estadio"' on frame 54
+'Saving "Estadio"' on frame 55
+'Saving "Estadio"' on frame 56
+'Saving "Estadio"' on frame 57
+'Saving "Estadio"' on frame 58
+'Saving "Estadio"' on frame 59
+'Saving "Estadio"' on frame 60
+'Saving "Estadio"' on frame 61
+'Saving "Estadio"' on frame 62
+'Saving "Estadio"' on frame 63
+'Saving "Estadio"' on frame 64
+'Saving "Estadio"' on frame 65
+'Saving "Estadio"' on frame 66
+'Saving "Estadio"' on frame 67
+'Saving "Estadio"' on frame 68
+'Saving "Estadio"' on frame 69
+'Saving "Estadio"' on frame 70
+'Saving "Estadio"' on frame 71
+'Saving "Estadio"' on frame 72
+'Saving "Estadio"' on frame 73
+'Saving "Estadio"' on frame 74
+'Saving "Estadio"' on frame 75
+'Saving "Estadio"' on frame 76
+'Saving "Estadio"' on frame 77
+'Saving "Estadio"' on frame 78
+'Saving "Estadio"' on frame 79
+'Saving "Estadio"' on frame 80
+'Saving "Estadio"' on frame 81
+'Saving "Estadio"' on frame 82
+'Saving "Estadio"' on frame 83
+'Saving "Estadio"' on frame 84
+'Saving "Estadio"' on frame 85
+'Saving "Estadio"' on frame 86
+'Saving "Estadio"' on frame 87
+'Saving "Estadio"' on frame 88
+'Saving "Estadio"' on frame 89
+'Saving "Estadio"' on frame 90
+'Saving "Estadio"' on frame 91
+'Saving "Estadio"' on frame 92
+'Saving "Estadio"' on frame 93
+'Saving "Estadio"' on frame 94
+'Saving "Estadio"' on frame 95
+'Saving "Estadio"' on frame 96
+'Saving "Estadio"' on frame 97
+'Saving "Estadio"' on frame 98
+'Saving "Estadio"' on frame 99
+Script 'SDK' line 0: SystemExit occured.
+
+(eval):129:in `exit'exit
+
+Backtrace:
+'SDK' line 0(eval) 129:in `update'
+'SDK' line 0(eval) 129:in `update'
+'SDK_Scene_Base' line 110 in `update_modules'
+'SDK_Scene_Base' line 91 in `main_loop'
+'SDK_Scene_Base' line 47 in `main'
+'SDK_Scene_Base' line 46 in `loop'
+'SDK_Scene_Base' line 49 in `main'
+'Main' line 12
+
+===============================================================================
+Thu Oct 23 00:00:39 Hora de verano romance 2025
+-------------------------------------------------------------------------------
+Script 'SDK' line 0: SystemExit occured.
+
+(eval):129:in `exit'exit
+
+Backtrace:
+'SDK' line 0(eval) 129:in `update'
+'SDK' line 0(eval) 129:in `update'
+'SDK_Scene_Base' line 110 in `update_modules'
+'SDK_Scene_Base' line 91 in `main_loop'
+'SDK_Scene_Base' line 47 in `main'
+'SDK_Scene_Base' line 46 in `loop'
+'SDK_Scene_Base' line 49 in `main'
+'Main' line 12
+
+===============================================================================
+Thu Oct 23 00:00:48 Hora de verano romance 2025
+-------------------------------------------------------------------------------
+Collecting map data
+'Collecting map data' on frame 0
+'Collecting map data' on frame 1
+'Collecting map data' on frame 2
+'Collecting map data' on frame 3
+'Collecting map data' on frame 4
+'Collecting map data' on frame 5
+'Collecting map data' on frame 6
+'Collecting map data' on frame 7
+'Collecting map data' on frame 8
+'Collecting map data' on frame 9
+'Collecting map data' on frame 10
+'Collecting map data' on frame 11
+'Collecting map data' on frame 12
+'Collecting map data' on frame 13
+'Collecting map data' on frame 14
+'Collecting map data' on frame 15
+'Collecting map data' on frame 16
+'Collecting map data' on frame 17
+'Collecting map data' on frame 18
+'Collecting map data' on frame 19
+'Collecting map data' on frame 20
+Drawing preview
+'Drawing preview' on frame 0
+Saving "Estadio"
+'Saving "Estadio"' on frame 0
+'Saving "Estadio"' on frame 1
+'Saving "Estadio"' on frame 2
+'Saving "Estadio"' on frame 3
+'Saving "Estadio"' on frame 4
+'Saving "Estadio"' on frame 5
+'Saving "Estadio"' on frame 6
+'Saving "Estadio"' on frame 7
+'Saving "Estadio"' on frame 8
+'Saving "Estadio"' on frame 9
+'Saving "Estadio"' on frame 10
+'Saving "Estadio"' on frame 11
+'Saving "Estadio"' on frame 12
+'Saving "Estadio"' on frame 13
+'Saving "Estadio"' on frame 14
+'Saving "Estadio"' on frame 15
+'Saving "Estadio"' on frame 16
+'Saving "Estadio"' on frame 17
+'Saving "Estadio"' on frame 18
+'Saving "Estadio"' on frame 19
+'Saving "Estadio"' on frame 20
+'Saving "Estadio"' on frame 21
+'Saving "Estadio"' on frame 22
+'Saving "Estadio"' on frame 23
+'Saving "Estadio"' on frame 24
+'Saving "Estadio"' on frame 25
+'Saving "Estadio"' on frame 26
+'Saving "Estadio"' on frame 27
+'Saving "Estadio"' on frame 28
+'Saving "Estadio"' on frame 29
+'Saving "Estadio"' on frame 30
+'Saving "Estadio"' on frame 31
+'Saving "Estadio"' on frame 32
+'Saving "Estadio"' on frame 33
+'Saving "Estadio"' on frame 34
+'Saving "Estadio"' on frame 35
+'Saving "Estadio"' on frame 36
+'Saving "Estadio"' on frame 37
+'Saving "Estadio"' on frame 38
+'Saving "Estadio"' on frame 39
+'Saving "Estadio"' on frame 40
+'Saving "Estadio"' on frame 41
+'Saving "Estadio"' on frame 42
+'Saving "Estadio"' on frame 43
+'Saving "Estadio"' on frame 44
+'Saving "Estadio"' on frame 45
+'Saving "Estadio"' on frame 46
+'Saving "Estadio"' on frame 47
+'Saving "Estadio"' on frame 48
+'Saving "Estadio"' on frame 49
+'Saving "Estadio"' on frame 50
+'Saving "Estadio"' on frame 51
+'Saving "Estadio"' on frame 52
+'Saving "Estadio"' on frame 53
+'Saving "Estadio"' on frame 54
+'Saving "Estadio"' on frame 55
+'Saving "Estadio"' on frame 56
+'Saving "Estadio"' on frame 57
+'Saving "Estadio"' on frame 58
+'Saving "Estadio"' on frame 59
+'Saving "Estadio"' on frame 60
+'Saving "Estadio"' on frame 61
+'Saving "Estadio"' on frame 62
+'Saving "Estadio"' on frame 63
+'Saving "Estadio"' on frame 64
+'Saving "Estadio"' on frame 65
+'Saving "Estadio"' on frame 66
+'Saving "Estadio"' on frame 67
+'Saving "Estadio"' on frame 68
+'Saving "Estadio"' on frame 69
+'Saving "Estadio"' on frame 70
+'Saving "Estadio"' on frame 71
+'Saving "Estadio"' on frame 72
+'Saving "Estadio"' on frame 73
+'Saving "Estadio"' on frame 74
+'Saving "Estadio"' on frame 75
+'Saving "Estadio"' on frame 76
+'Saving "Estadio"' on frame 77
+'Saving "Estadio"' on frame 78
+'Saving "Estadio"' on frame 79
+'Saving "Estadio"' on frame 80
+'Saving "Estadio"' on frame 81
+'Saving "Estadio"' on frame 82
+'Saving "Estadio"' on frame 83
+'Saving "Estadio"' on frame 84
+'Saving "Estadio"' on frame 85
+'Saving "Estadio"' on frame 86
+'Saving "Estadio"' on frame 87
+'Saving "Estadio"' on frame 88
+'Saving "Estadio"' on frame 89
+'Saving "Estadio"' on frame 90
+'Saving "Estadio"' on frame 91
+'Saving "Estadio"' on frame 92
+'Saving "Estadio"' on frame 93
+'Saving "Estadio"' on frame 94
+'Saving "Estadio"' on frame 95
+'Saving "Estadio"' on frame 96
+'Saving "Estadio"' on frame 97
+'Saving "Estadio"' on frame 98
+'Saving "Estadio"' on frame 99
+Saving "Estadio"
+'Saving "Estadio"' on frame 0
+'Saving "Estadio"' on frame 1
+'Saving "Estadio"' on frame 2
+'Saving "Estadio"' on frame 3
+'Saving "Estadio"' on frame 4
+'Saving "Estadio"' on frame 5
+'Saving "Estadio"' on frame 6
+'Saving "Estadio"' on frame 7
+'Saving "Estadio"' on frame 8
+'Saving "Estadio"' on frame 9
+'Saving "Estadio"' on frame 10
+'Saving "Estadio"' on frame 11
+'Saving "Estadio"' on frame 12
+'Saving "Estadio"' on frame 13
+'Saving "Estadio"' on frame 14
+'Saving "Estadio"' on frame 15
+'Saving "Estadio"' on frame 16
+'Saving "Estadio"' on frame 17
+'Saving "Estadio"' on frame 18
+'Saving "Estadio"' on frame 19
+'Saving "Estadio"' on frame 20
+'Saving "Estadio"' on frame 21
+'Saving "Estadio"' on frame 22
+'Saving "Estadio"' on frame 23
+'Saving "Estadio"' on frame 24
+'Saving "Estadio"' on frame 25
+'Saving "Estadio"' on frame 26
+'Saving "Estadio"' on frame 27
+'Saving "Estadio"' on frame 28
+'Saving "Estadio"' on frame 29
+'Saving "Estadio"' on frame 30
+'Saving "Estadio"' on frame 31
+'Saving "Estadio"' on frame 32
+'Saving "Estadio"' on frame 33
+'Saving "Estadio"' on frame 34
+'Saving "Estadio"' on frame 35
+'Saving "Estadio"' on frame 36
+'Saving "Estadio"' on frame 37
+'Saving "Estadio"' on frame 38
+'Saving "Estadio"' on frame 39
+'Saving "Estadio"' on frame 40
+'Saving "Estadio"' on frame 41
+'Saving "Estadio"' on frame 42
+'Saving "Estadio"' on frame 43
+'Saving "Estadio"' on frame 44
+'Saving "Estadio"' on frame 45
+'Saving "Estadio"' on frame 46
+'Saving "Estadio"' on frame 47
+'Saving "Estadio"' on frame 48
+'Saving "Estadio"' on frame 49
+'Saving "Estadio"' on frame 50
+'Saving "Estadio"' on frame 51
+'Saving "Estadio"' on frame 52
+'Saving "Estadio"' on frame 53
+'Saving "Estadio"' on frame 54
+'Saving "Estadio"' on frame 55
+'Saving "Estadio"' on frame 56
+'Saving "Estadio"' on frame 57
+'Saving "Estadio"' on frame 58
+'Saving "Estadio"' on frame 59
+'Saving "Estadio"' on frame 60
+'Saving "Estadio"' on frame 61
+'Saving "Estadio"' on frame 62
+'Saving "Estadio"' on frame 63
+'Saving "Estadio"' on frame 64
+'Saving "Estadio"' on frame 65
+'Saving "Estadio"' on frame 66
+'Saving "Estadio"' on frame 67
+'Saving "Estadio"' on frame 68
+'Saving "Estadio"' on frame 69
+'Saving "Estadio"' on frame 70
+'Saving "Estadio"' on frame 71
+'Saving "Estadio"' on frame 72
+'Saving "Estadio"' on frame 73
+'Saving "Estadio"' on frame 74
+'Saving "Estadio"' on frame 75
+'Saving "Estadio"' on frame 76
+'Saving "Estadio"' on frame 77
+'Saving "Estadio"' on frame 78
+'Saving "Estadio"' on frame 79
+'Saving "Estadio"' on frame 80
+'Saving "Estadio"' on frame 81
+'Saving "Estadio"' on frame 82
+'Saving "Estadio"' on frame 83
+'Saving "Estadio"' on frame 84
+'Saving "Estadio"' on frame 85
+'Saving "Estadio"' on frame 86
+'Saving "Estadio"' on frame 87
+'Saving "Estadio"' on frame 88
+'Saving "Estadio"' on frame 89
+'Saving "Estadio"' on frame 90
+'Saving "Estadio"' on frame 91
+'Saving "Estadio"' on frame 92
+'Saving "Estadio"' on frame 93
+'Saving "Estadio"' on frame 94
+'Saving "Estadio"' on frame 95
+'Saving "Estadio"' on frame 96
+'Saving "Estadio"' on frame 97
+'Saving "Estadio"' on frame 98
+'Saving "Estadio"' on frame 99
+Script 'SDK' line 0: SystemExit occured.
+
+(eval):129:in `exit'exit
+
+Backtrace:
+'SDK' line 0(eval) 129:in `update'
+'SDK' line 0(eval) 129:in `update'
+'SDK_Scene_Base' line 110 in `update_modules'
+'SDK_Scene_Base' line 91 in `main_loop'
+'SDK_Scene_Base' line 47 in `main'
+'SDK_Scene_Base' line 46 in `loop'
+'SDK_Scene_Base' line 49 in `main'
+'Main' line 12
+
